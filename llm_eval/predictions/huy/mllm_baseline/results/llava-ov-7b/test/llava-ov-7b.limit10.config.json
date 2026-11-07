@@ -1,0 +1,176 @@
+{
+  "model": "llava-ov-7b",
+  "model_repo": "llava-hf/llava-onevision-qwen2-7b-ov-hf",
+  "dtype": "bfloat16",
+  "tensor_parallel": 1,
+  "prompt_format": "<image>\\n{question}  (chat template của model, không system prompt)",
+  "sampling": {
+    "temperature": 0.0,
+    "top_p": 1.0,
+    "max_tokens": 1024,
+    "seed": 0
+  },
+  "max_model_len": 20480,
+  "exif_transpose": true,
+  "only_completed": false,
+  "image_processor": {
+    "size": {
+      "height": 384,
+      "width": 384
+    },
+    "patch_size": null,
+    "merge_size": null,
+    "min_pixels": null,
+    "max_pixels": null,
+    "image_grid_pinpoints": [
+      [
+        384,
+        384
+      ],
+      [
+        384,
+        768
+      ],
+      [
+        384,
+        1152
+      ],
+      [
+        384,
+        1536
+      ],
+      [
+        384,
+        1920
+      ],
+      [
+        384,
+        2304
+      ],
+      [
+        768,
+        384
+      ],
+      [
+        768,
+        768
+      ],
+      [
+        768,
+        1152
+      ],
+      [
+        768,
+        1536
+      ],
+      [
+        768,
+        1920
+      ],
+      [
+        768,
+        2304
+      ],
+      [
+        1152,
+        384
+      ],
+      [
+        1152,
+        768
+      ],
+      [
+        1152,
+        1152
+      ],
+      [
+        1152,
+        1536
+      ],
+      [
+        1152,
+        1920
+      ],
+      [
+        1152,
+        2304
+      ],
+      [
+        1536,
+        384
+      ],
+      [
+        1536,
+        768
+      ],
+      [
+        1536,
+        1152
+      ],
+      [
+        1536,
+        1536
+      ],
+      [
+        1536,
+        1920
+      ],
+      [
+        1536,
+        2304
+      ],
+      [
+        1920,
+        384
+      ],
+      [
+        1920,
+        768
+      ],
+      [
+        1920,
+        1152
+      ],
+      [
+        1920,
+        1536
+      ],
+      [
+        1920,
+        1920
+      ],
+      [
+        1920,
+        2304
+      ],
+      [
+        2304,
+        384
+      ],
+      [
+        2304,
+        768
+      ],
+      [
+        2304,
+        1152
+      ],
+      [
+        2304,
+        1536
+      ],
+      [
+        2304,
+        1920
+      ],
+      [
+        2304,
+        2304
+      ]
+    ],
+    "vision_aspect_ratio": null
+  },
+  "vllm": "0.11.0",
+  "transformers": "4.57.1",
+  "started_at": "2026-11-03T17:54:18Z"
+}

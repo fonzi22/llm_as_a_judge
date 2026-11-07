@@ -1,0 +1,100 @@
+﻿qa_id,question_type,question,gt_answer,qwen3-vl-8b,llava-ov-7b
+000_qa_0001,Spatial,What color is the car immediately diagonally below-right of the car with the long dark roof panel at the front of the uppermost queue on the right side of the intersection?,Yellow.,"To answer this question, we need to carefully locate the specific car described and then identify the car diagonally below-right of it.
+
+1.  **Locate the ""car with the long dark roof panel at the front of the uppermost queue on the right side of the intersection""**:
+    -   Looking at the right side of the image, there is a queue of cars waiting at a traffic light or stop line.
+    -   The ""uppermost queue"" refers to the cars closest to the top of the image (i.e., the ones furthest from the intersection's center).
+    -   The ""long dark roof panel"" is likely a feature of a van or a truck, such as a cargo area or a roof rack.
+    -   The first car in this queue (the one closest to the top of the image) is a **white van** with a long, dark-colored roof panel or cargo area.
+
+2.  **Identify the car diagonally below-right of this white van**:
+    -   From the position of this white van, we look down and to the right.
+    -   The car directly below it is a **black car**.
+    -   The car diagonally below-right (i.e., further down and to the right) of the white van is a **white car**.
+
+Therefore, the color of the car immediately diagonally below-right of the specified car is **white**.",white
+000_qa_0002,Spatial,What shape is the small dark sunroof on the white car diagonally above and to the left of the cement mixer in the left-hand queue?,Rectangular.,"Based on the provided image, there is no small dark sunroof visible on any white car diagonally above and to the left of the cement mixer in the left-hand queue.
+
+Here's why:
+
+1.  **The Cement Mixer:** The cement mixer is a large, yellow vehicle located on the right side of the image, near the bottom of the frame, in a queue of cars waiting at the intersection.
+
+2.  **The ""Left-Hand Queue"":** The queue of cars to the left of the cement mixer is on the road that runs horizontally across the middle of the image. This road is filled with cars, but none of them are positioned diagonally above and to the left of the cement mixer from the viewer's perspective.
+
+3.  **The ""Diagonally Above and to the Left"":** The area diagonally above and to the left of the cement mixer is occupied by the road and the intersection itself, not by any specific white car.
+
+4.  **The ""Small Dark Sunroof"":** The image is an aerial view. While some cars may have sunroofs, they are not clearly visible from this high vantage point, and none are described or identifiable in the specific location mentioned.
+
+Therefore, the premise of the question is incorrect. There is no such car in that specific location, and thus no sunroof to describe.",The small dark sunroof on the white car diagonally above and to the left of the cement mixer in the left-hand queue is rectangular.
+001_qa_0001,Spatial,"What color is the car immediately to the left of the white sedan, with a blue-roofed vehicle on the other side of that sedan, on the bottom approach to the intersection?",Red.,"Based on the provided image, let's break down the question step by step.
+
+1.  **Identify the ""bottom approach to the intersection""**: Looking at the image from the top-down perspective, the bottom approach refers to the road that runs horizontally across the lower portion of the frame, leading into the intersection from the bottom. This road has a white sedan (a white car) in the middle of the lane.
+
+2.  **Locate the car immediately to the left of the white sedan**: On this bottom road, to the immediate left of the white sedan, there is a **black car**.
+
+3.  **Check for a ""blue-roofed vehicle on the other side of that sedan""**: The question asks about a vehicle on the *other side* of the white sedan. The white sedan is in the center of the lane. The ""other side"" would be to the right of the white sedan. Looking to the right of the white sedan, there is a **blue-roofed vehicle** (a blue car).
+
+The question asks for the color of the car immediately to the left of the white sedan. That car is black.
+
+**Answer: Black**","The car immediately to the left of the white sedan, with a blue-roofed vehicle on the other side of that sedan, on the bottom approach to the intersection is red."
+001_qa_0002,Spatial,What shape is the dark roof panel on the white car immediately above the yellow cab of the lower cement mixer in the left-hand queue?,Rectangular.,"Based on the provided image, let's break down the scene to locate the specific vehicle you're asking about.
+
+1.  **Locate the ""lower cement mixer""**: On the left side of the image, there is a queue of vehicles. The ""lower cement mixer"" is the yellow truck with a cement mixer drum located near the bottom of this queue, just before the white car you're interested in.
+
+2.  **Locate the ""white car immediately above"" it**: Directly above this yellow cement mixer truck, there is a white car. This is the vehicle in question.
+
+3.  **Examine the roof of this white car**: Looking at the top of this white car, you can see a dark-colored panel. This panel is part of the car's roof structure, likely a sunroof or a roof rack cover.
+
+The shape of this dark roof panel is **rectangular**. It is a flat, elongated panel that spans the width of the car's roof, with straight edges and right angles.
+
+---
+
+**Answer: The dark roof panel on the white car is rectangular.**",The dark roof panel on the white car is rectangular in shape.
+002_qa_0001,Spatial,What color is the car immediately to the left of the white van stopped on the bottom approach to the intersection?,Red.,"Based on the provided image, let's locate the white van stopped on the bottom approach to the intersection.
+
+1.  **Identify the bottom approach:** This is the road at the bottom of the image, running horizontally from left to right, leading towards the main intersection.
+2.  **Locate the white van:** On this road, there is a white van (or possibly a small truck) stopped in the rightmost lane, just before the intersection. It is positioned near the center of the bottom edge of the image.
+3.  **Identify the car immediately to its left:** Looking directly to the left of this white van, in the same lane or the adjacent lane, there is a red car.
+
+Therefore, the color of the car immediately to the left of the white van is **red**.",red
+002_qa_0002,Spatial,What color is the car immediately to the left of the green bus in the left-hand queue?,White.,"Based on the provided aerial image, let's locate the green bus and the car immediately to its left.
+
+1.  **Locate the green bus:** In the lower-left portion of the image, there is a queue of vehicles moving away from the viewer. The second vehicle in this queue is a green bus.
+
+2.  **Identify the car to its left:** The car immediately to the left of this green bus is the one in the lane directly adjacent to it, in the same direction of travel. This car is a dark-colored sedan.
+
+3.  **Determine the color:** The car is a dark color, appearing to be black or a very dark gray.
+
+Therefore, the color of the car immediately to the left of the green bus is **black**.",The car immediately to the left of the green bus in the left-hand queue is white.
+003_qa_0001,Spatial,What color is the car diagonally below and to the left of the turquoise cement mixer in the right-hand queue?,Dark blue.,"Looking at the image, we can locate the turquoise cement mixer in the right-hand queue of traffic. It is a large truck with a turquoise-colored mixer body, positioned in the upper right portion of the image.
+
+Diagonally below and to the left of this truck, there is a car. This car is white.
+
+Therefore, the color of the car diagonally below and to the left of the turquoise cement mixer is **white**.",white
+003_qa_0002,Spatial,What color is the car diagonally below and to the left of the white car at the front of the lowest full queue on the right side of the intersection?,Red.,"To answer this question, let's break down the image and locate the specified cars.
+
+1.  **Identify the ""lowest full queue on the right side of the intersection""**: Looking at the right side of the intersection from the viewer's perspective (top-down view), there is a line of cars waiting in a queue. The ""lowest"" queue would be the one closest to the bottom of the image. This queue is on the right-hand side of the road, just before the intersection. The ""front"" of this queue is the car closest to the intersection, which is a **white car**.
+
+2.  **Locate the car ""diagonally below and to the left"" of this white car**: From the position of this white car at the front of the queue, we need to move diagonally down and to the left. This means we are looking for a car that is both lower in the image frame and to the left of the white car's position.
+
+3.  **Observe the car in that position**: Looking at the queue, the car immediately behind the white car is a **black car**. This black car is positioned diagonally below and to the left of the white car at the front of the queue.
+
+Therefore, the color of the car diagonally below and to the left of the white car at the front of the lowest full queue on the right side of the intersection is **black**.",black
+004_qa_0001,Spatial,What color is the car immediately to the left of the red car on the bottom approach to the intersection?,Blue.,"Based on the provided image, let's locate the car in question.
+
+1.  **Identify the ""bottom approach to the intersection""**: Looking at the image from the top, the bottom approach is the road coming from the bottom of the frame, leading up to the central intersection. This road has a parking lot on its right side.
+
+2.  **Locate the ""red car""**: On this bottom approach, there is a red car parked in the parking lot, near the center of the image. It is the only red car visible in the entire scene.
+
+3.  **Identify the car ""immediately to the left"" of the red car**: Looking at the parking lot, the car immediately to the left of the red car is a **black car**.
+
+Therefore, the color of the car immediately to the left of the red car on the bottom approach to the intersection is **black**.",white
+004_qa_0002,Spatial,What color is the car immediately to the right of the black van above the red car on the bottom approach?,Silver.,"Based on the provided image, let's break down the question to identify the correct car.
+
+1.  **Locate the ""red car on the bottom approach""**: This refers to the red car positioned in the center of the intersection, which is the only red car visible in the image. It is located at the bottom center of the frame, crossing the intersection.
+
+2.  **Locate the ""black van above"" the red car**: Looking directly above the red car, there is a black van (or SUV) in the lane of traffic that is turning right from the bottom-left approach. This black van is positioned just before the red car, in the same intersection.
+
+3.  **Locate the ""car immediately to the right of the black van""**: To the immediate right of this black van, in the same lane of traffic, is a white car. This white car is also turning right from the bottom-left approach, following the black van.
+
+Therefore, the car immediately to the right of the black van above the red car on the bottom approach is **white**.",white

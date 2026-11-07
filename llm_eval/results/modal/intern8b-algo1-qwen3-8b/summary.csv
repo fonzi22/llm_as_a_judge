@@ -1,0 +1,2 @@
+﻿prediction_model,judge_model,prediction_file,annotation_samples,prediction_rows,available_predictions,judged_samples,matched_samples,unmatched_samples,accuracy,accuracy_on_judged,coverage,source_error_samples,missing_samples,judge_error_samples,pending_samples,truncated_samples
+hrvs_new_intern8b_algo1_results,Qwen/Qwen3-8B,/opt/llm_eval/predictions/hrvs_new_intern8b_algo1_results.json,1060,695,693,693,227,466,0.21415094339622642,0.32756132756132755,0.6537735849056604,2,365,0,0,0

@@ -1,0 +1,1060 @@
+{"image_id": "000", "question_id": "000_q0001", "answer": "The car immediately diagonally below-right of the car with the long dark roof panel at the front of the uppermost queue on the right side of the intersection is yellow."}
+{"image_id": "000", "question_id": "000_q0002", "answer": "The small dark sunroof on the white car is triangular in shape."}
+{"image_id": "001", "question_id": "001_q0001", "answer": "The car immediately to the left of the white sedan is red."}
+{"image_id": "001", "question_id": "001_q0002", "answer": "The dark roof panel on the white car is triangular in shape."}
+{"image_id": "002", "question_id": "002_q0001", "answer": "The car immediately to the left of the white van stopped on the bottom approach to the intersection is red."}
+{"image_id": "002", "question_id": "002_q0002", "answer": "The car immediately to the left of the green bus in the left-hand queue is white."}
+{"image_id": "003", "question_id": "003_q0001", "answer": "The car diagonally below and to the left of the turquoise cement mixer in the right-hand queue is white."}
+{"image_id": "003", "question_id": "003_q0002", "answer": "The car diagonally below and to the left of the white car at the front of the lowest full queue on the right side of the intersection is black."}
+{"image_id": "004", "question_id": "004_q0001", "answer": "The car immediately to the left of the red car on the bottom approach to the intersection is white."}
+{"image_id": "004", "question_id": "004_q0002", "answer": "The car immediately to the right of the black van above the red car on the bottom approach is white."}
+{"image_id": "005", "question_id": "005_q0001", "answer": "The car immediately to the left of the upper yellow bus on the bottom approach to the intersection is white."}
+{"image_id": "005", "question_id": "005_q0002", "answer": "The car immediately to the right of the rear end of the lower yellow bus on the bottom approach to the intersection is white."}
+{"image_id": "006", "question_id": "006_q0001", "answer": "The car immediately to the left of the cement mixer on the bottom approach to the intersection is white."}
+{"image_id": "006", "question_id": "006_q0002", "answer": "The car immediately to the right of the cement mixer on the bottom approach to the intersection is white."}
+{"image_id": "007", "question_id": "007_q0001", "answer": "The car diagonally below and to the left of the green-cab cement mixer in the intersection is white."}
+{"image_id": "007", "question_id": "007_q0002", "answer": "The rear cargo bed of the pickup truck immediately above the turquoise cement mixer on the right-hand approach is rectangular in shape."}
+{"image_id": "008", "question_id": "008_q0001", "answer": "The person sitting on the blue stool is wearing a yellow shirt."}
+{"image_id": "008", "question_id": "008_q0002", "answer": "The person in the yellow T-shirt is holding a blue sign at the chest."}
+{"image_id": "008", "question_id": "008_q0003", "answer": "The white-handled bag beside the person in the pink checked shirt with the black shoulder strap is white."}
+{"image_id": "009", "question_id": "009_q0001", "answer": "The car immediately to the left of the gold bus on the top approach to the intersection is black."}
+{"image_id": "009", "question_id": "009_q0002", "answer": "The minibus diagonally above-left of the gold bus and directly above the white car on the top approach is black."}
+{"image_id": "010", "question_id": "010_q0001", "answer": "The car immediately below the rear end of the left orange bus near the crossing is white."}
+{"image_id": "010", "question_id": "010_q0002", "answer": "The car immediately below and to the left of the orange bus is white."}
+{"image_id": "011", "question_id": "011_q0001", "answer": "The car immediately to the right of the green-cab cement mixer in the upper traffic queue is white."}
+{"image_id": "011", "question_id": "011_q0002", "answer": "The car immediately to the left of the gray car beneath the turquoise pickup in the upper traffic queue is white."}
+{"image_id": "012", "question_id": "012_q0001", "answer": "The car immediately below the yellow bus in the intersection is black."}
+{"image_id": "012", "question_id": "012_q0002", "answer": "The car immediately to the right of the turquoise-cab cement mixer on the bottom approach is black."}
+{"image_id": "013", "question_id": "013_q0001", "answer": "The car diagonally below and to the right of the red-cab flatbed truck in the left-hand queue is white."}
+{"image_id": "013", "question_id": "013_q0002", "answer": "The car immediately to the left of the green bus in the right-hand queue is white."}
+{"image_id": "014", "question_id": "014_q0001", "answer": "The car immediately to the left of the blue bus near the front of the bottom queue is white."}
+{"image_id": "014", "question_id": "014_q0002", "answer": "The vehicle immediately to the right of the blue bus near the front of the bottom queue is white."}
+{"image_id": "015", "question_id": "015_q0001", "answer": "The cargo bed of the pickup diagonally above and to the left of the turquoise car on the bottom approach is black."}
+{"image_id": "015", "question_id": "015_q0002", "answer": "The car immediately to the left of the yellow bus near the front of the bottom queue is white."}
+{"image_id": "016", "question_id": "016_q0001", "answer": "The cab of the small pickup immediately below the blue-and-white bus in the left-hand queue is black."}
+{"image_id": "016", "question_id": "016_q0002", "answer": "The car immediately to the right of the blue-and-white bus in the left-hand queue is black."}
+{"image_id": "017", "question_id": "017_q0001", "answer": "The car immediately above the yellow-cab cement mixer in the left-hand queue is white."}
+{"image_id": "017", "question_id": "017_q0002", "answer": "The car diagonally above and to the right of the yellow bus on the bottom approach is white."}
+{"image_id": "018", "question_id": "018_q0001", "answer": "The car diagonally above and to the left of the yellow taxi in the left-hand queue is white."}
+{"image_id": "018", "question_id": "018_q0002", "answer": "The car immediately to the right of the yellow taxi in the left-hand queue is white."}
+{"image_id": "019", "question_id": "019_q0001", "answer": "The car immediately to the left of the yellow bus near the front of the bottom queue is white."}
+{"image_id": "019", "question_id": "019_q0002", "answer": "The car immediately to the right of the yellow bus near the front of the bottom queue is black."}
+{"image_id": "020", "question_id": "020_q0001", "answer": "The car immediately to the left of the green-cab cement mixer in the uppermost queued row on the right-hand approach is white."}
+{"image_id": "020", "question_id": "020_q0002", "answer": "The car immediately to the right of the left yellow taxi on the bottom approach to the intersection is white."}
+{"image_id": "021", "question_id": "021_q0001", "answer": "The car diagonally below and to the left of the green-cab cement mixer in the right-hand queue is white."}
+{"image_id": "021", "question_id": "021_q0002", "answer": "The cargo bed of the small white-cab pickup in the uppermost row of the left-hand queue is black."}
+{"image_id": "022", "question_id": "022_q0001", "answer": "The cab of the small truck with the blue patterned load near the front of the right-hand queue is black."}
+{"image_id": "022", "question_id": "022_q0002", "answer": "The car immediately below the small truck with the blue patterned load near the front of the right-hand queue is white."}
+{"image_id": "023", "question_id": "023_q0001", "answer": "The camera on the left one of the two tripods next to the guard standing at the base of the marble column is black."}
+{"image_id": "023", "question_id": "023_q0002", "answer": "The person standing immediately behind the metal folding gate on the right side of the image is wearing a black hat."}
+{"image_id": "024", "question_id": "024_q0001", "answer": "The wide-brimmed hat of the person standing right in front of the brown horse's head and neck is pink."}
+{"image_id": "024", "question_id": "024_q0002", "answer": "The round sign on the thin pole in the crowd is white."}
+{"image_id": "024", "question_id": "024_q0003", "answer": "The material draped over the shoulder and back of the foreground person is red."}
+{"image_id": "025", "question_id": "025_q0001", "answer": "The man standing on the bridge and reaching toward the support leg of the large white pan is wearing a black safety vest."}
+{"image_id": "026", "question_id": "026_q0001", "answer": "The person in the blue and white jacket is holding a pink flag in front of the green notice board. However, without a clear view of the person's attire, it's not possible to determine the color of their pants."}
+{"image_id": "026", "question_id": "026_q0002", "answer": "The dome security camera to the left of the round green and yellow emblem is black."}
+{"image_id": "027", "question_id": "027_q0001", "answer": "The person with the green head wrap is standing at the edge of the open area surrounding the fire and appears to be raising his arms upward. This could be a gesture of celebration, enthusiasm, or a call to attention. The context of the image is not clear, but it seems like a public gathering or event where people are expressing themselves in various ways."}
+{"image_id": "028", "question_id": "028_q0001", "answer": "The car immediately to the right of the yellow bus in the upper traffic queue is white."}
+{"image_id": "028", "question_id": "028_q0002", "answer": "The car immediately below the blue bus in the upper traffic queue is white."}
+{"image_id": "029", "question_id": "029_q0001", "answer": "The pink balloon that the boy is holding appears to be round in shape."}
+{"image_id": "029", "question_id": "029_q0002", "answer": "The person in the red shirt with a yellow stripe is bending down beside a gray bag near the curb. It is not possible to determine the color of the shorts they are wearing from the image provided."}
+{"image_id": "030", "question_id": "030_q0001", "answer": "The girl immediately to the right of the woman in jeans carrying a black shoulder bag is wearing pink pants."}
+{"image_id": "030", "question_id": "030_q0002", "answer": "The child's shoes are pink."}
+{"image_id": "031", "question_id": "031_q0001", "answer": "The car immediately below the front end of the blue bus in the right-hand queue is white."}
+{"image_id": "031", "question_id": "031_q0002", "answer": "The car immediately to the left of the truck with the bright green cargo box on the right-hand approach is white."}
+{"image_id": "032", "question_id": "032_q0001", "answer": "The cab of the pickup carrying green items in its open bed near the front of the top queue is yellow."}
+{"image_id": "032", "question_id": "032_q0002", "answer": "The open cargo bed of the white-cab pickup is yellow."}
+{"image_id": "033", "question_id": "033_q0001", "answer": "The person beside the camera operator on the wooden platform is wearing shorts."}
+{"image_id": "033", "question_id": "033_q0002", "answer": "The open umbrella in front of the white car is red."}
+{"image_id": "033", "question_id": "033_q0003", "answer": "The gray-haired person standing in the open side door of the van with a roof rack is wearing a red T-shirt."}
+{"image_id": "033", "question_id": "033_q0004", "answer": "The person in black on the wooden platform is holding up a sign with the word \"LIBERTY\" on it."}
+{"image_id": "034", "question_id": "034_q0001", "answer": "The person sitting beside the person in the black jacket leaning forward is wearing an orange life jacket."}
+{"image_id": "034", "question_id": "034_q0002", "answer": "The person sitting on the stone ledge next to the person in the purple jacket is wearing a white jacket."}
+{"image_id": "035", "question_id": "035_q0001", "answer": "The person in the white T-shirt is holding a clear bottle in front of their face."}
+{"image_id": "035", "question_id": "035_q0002", "answer": "The person standing beside the white pillar is wearing a cap."}
+{"image_id": "035", "question_id": "035_q0003", "answer": "The person in the gray jacket is holding a phone with both hands, but the image is not clear enough to determine the color of the phone."}
+{"image_id": "036", "question_id": "036_q0001", "answer": "The minivan immediately to the left of the long white vehicle with a yellow rear panel is black."}
+{"image_id": "036", "question_id": "036_q0002", "answer": "The car directly below the long white vehicle with a yellow rear panel is white."}
+{"image_id": "037", "question_id": "037_q0001", "answer": "The person in the orange T-shirt is leaning over the windshield of the black vehicle, but I'm unable to provide the color of the cap they are wearing as the image does not provide enough detail to confidently identify the color of the cap."}
+{"image_id": "037", "question_id": "037_q0002", "answer": "The waist bag of the person in blue is black."}
+{"image_id": "037", "question_id": "037_q0003", "answer": "Black"}
+{"image_id": "038", "question_id": "038_q0001", "answer": "The woman in the blue shirt is standing on a wooden staircase and appears to be holding onto a handrail with her left hand. The image is a bit blurry, but it looks like she is in a public space with a crowd of people around her."}
+{"image_id": "039", "question_id": "039_q0001", "answer": "The woman standing on the red-carpeted platform is wearing black shoes."}
+{"image_id": "040", "question_id": "040_q0001", "answer": "The man in the black polo shirt and khaki trousers is walking on the track, but there is no clear indication of the color of his shoes in the image provided."}
+{"image_id": "040", "question_id": "040_q0002", "answer": "The wheeled cart that the person is sitting on beside the tripod-mounted display at the edge of the infield is white."}
+{"image_id": "041", "question_id": "041_q0001", "answer": "The car immediately below the long light-blue bus at the upper-right edge of the intersection is white."}
+{"image_id": "041", "question_id": "041_q0002", "answer": "The roof of the bus is white."}
+{"image_id": "042", "question_id": "042_q0001", "answer": "The car near the center of the intersection, just above the crosswalk at the bottom of the image, is yellow."}
+{"image_id": "043", "question_id": "043_q0001", "answer": "The image you've provided is a bit blurry, but I'll do my best to describe what I can see. There is a long yellow bus on the left side of the image, and it appears to have a white rectangular section on the back. On this white section, there are several small black circular holes arranged in a row. However, due to the blurriness, it's difficult to provide an exact count of the holes."}
+{"image_id": "044", "question_id": "044_q0001", "answer": "The car located just above the crosswalk at the bottom of the intersection, slightly to the right of the center, is white."}
+{"image_id": "045", "question_id": "045_q0001", "answer": "The car positioned horizontally just to the left of the upper-left corner of the intersection, next to the red road marking, is white."}
+{"image_id": "046", "question_id": "046_q0001", "answer": "The white dashed road markings in the center of the intersection form an \"X\" shape."}
+{"image_id": "047", "question_id": "047_q0001", "answer": "The long bus among the heavy traffic on the lower-left side of the intersection is red."}
+{"image_id": "048", "question_id": "048_q0001", "answer": "The bus positioned diagonally among the heavy traffic on the left side of the intersection is blue."}
+{"image_id": "049", "question_id": "049_q0001", "answer": "The large white-roofed building with multiple rectangular panels is located at the bottom left corner of the image. It appears to be a modern building with a distinctive architectural design."}
+{"image_id": "050", "question_id": "050_q0001", "answer": "The backpack of the man in the black jacket sitting on the stone ledge immediately to the right of the person in the maroon jacket is brown."}
+{"image_id": "050", "question_id": "050_q0002", "answer": "The small balance bike being ridden by the child in the beige coat has a black frame."}
+{"image_id": "051", "question_id": "051_q0001", "answer": "The bus among the heavy traffic on the upper-right side of the intersection is yellow."}
+{"image_id": "052", "question_id": "052_q0001", "answer": "The red bus is oriented horizontally in the image, as it is located on the street below the intersection."}
+{"image_id": "053", "question_id": "053_q0001", "answer": "The small green landscaped area between the walkways, just to the right of the busy road, appears to be a rectangular shape."}
+{"image_id": "054", "question_id": "054_q0001", "answer": "The man holding a red book is wearing a black jacket."}
+{"image_id": "055", "question_id": "055_q0001", "answer": "The long bus among the traffic on the upper-right side of the intersection is yellow."}
+{"image_id": "056", "question_id": "056_q0001", "answer": "The blue bus in the image is oriented horizontally, as it is positioned across the intersection, likely waiting for the traffic light to change."}
+{"image_id": "057", "question_id": "057_q0001", "answer": "The long bus in the heavy traffic on the upper-right side of the intersection is yellow."}
+{"image_id": "058", "question_id": "058_q0001", "answer": "The orange car is located at the corner of the intersection, where the two roads meet at a right angle. It appears to be on the right side of the image, as viewed from the perspective of the camera."}
+{"image_id": "059", "question_id": "059_q0001", "answer": "The red-and-white bus is located at the corner of the intersection where the two streets meet. It appears to be on the right side of the image, as viewed from the perspective of the camera."}
+{"image_id": "060", "question_id": "060_q0001", "answer": "The diagonally positioned car near the center of the intersection, just above a black car, is white."}
+{"image_id": "061", "question_id": "061_q0001", "answer": "The light yellow bus appears to be turning right at the bottom-right corner of the intersection."}
+{"image_id": "062", "question_id": "062_q0001", "answer": "The red bus is located on the left side of the pedestrian crosswalk."}
+{"image_id": "063", "question_id": "063_q0001", "answer": "The green bus is located at the corner of the intersection where the pedestrian crosswalk is diagonally positioned. The crosswalk is at the intersection of the two streets that are perpendicular to each other. The bus is on the street that is perpendicular to the street where the crosswalk is located."}
+{"image_id": "064", "question_id": "064_q0001", "answer": "The red bus is located on the right side of the pedestrian crosswalk at the bottom of the intersection."}
+{"image_id": "065", "question_id": "065_q0001", "answer": "The blue-and-white bus is located on the right side of the pedestrian crosswalk."}
+{"image_id": "066", "question_id": "066_q0001", "answer": "The green bus is located on the right side of the intersection, near the center. It appears to be in the middle lane of the rightmost road, which is the one that is closest to the viewer in the image."}
+{"image_id": "067", "question_id": "067_q0001", "answer": "The car located just above the pedestrian crosswalk at the top of the intersection is white."}
+{"image_id": "068", "question_id": "068_q0001", "answer": "The red car is oriented horizontally, as it is located near the center of the intersection and is positioned above the bottom pedestrian crosswalk."}
+{"image_id": "069", "question_id": "069_q0001", "answer": "The long bus to the right of the green bus on the lower-left side of the intersection is white."}
+{"image_id": "070", "question_id": "070_q0001", "answer": "The pink bus is located on the right side of the pedestrian crosswalk on the lower-left side of the intersection."}
+{"image_id": "071", "question_id": "071_q0001", "answer": "The yellow vehicle near the pedestrian crosswalk at the upper-left corner of the intersection is oriented horizontally."}
+{"image_id": "072", "question_id": "072_q0001", "answer": "The knit hat on the small snowman with the purple scarf is red."}
+{"image_id": "072", "question_id": "072_q0002", "answer": "The person in the black hooded sweatshirt is holding a broom with white bristles."}
+{"image_id": "072", "question_id": "072_q0003", "answer": "The person in the green jacket pushing the stroller with gray fabric is wearing black pants."}
+{"image_id": "072", "question_id": "072_q0004", "answer": "The person in the blue jacket is wearing a red Santa hat, but there is no hood visible in the image. The person is standing in a room with a high ceiling and a modern design, and there are no snowmen or other objects that would suggest a hooded garment."}
+{"image_id": "072", "question_id": "072_q0005", "answer": "The person with light blue pants is wearing a black jacket."}
+{"image_id": "072", "question_id": "072_q0006", "answer": "The person carrying a red bag is wearing blue jeans."}
+{"image_id": "073", "question_id": "073_q0001", "answer": "The woman in the pleated maxi skirt is wearing a wide-brimmed hat. It appears to be a sun hat, which is designed to provide shade and protect the wearer from the sun."}
+{"image_id": "074", "question_id": "074_q0001", "answer": "The man carrying a pink shopping bag is wearing a watch on his wrist."}
+{"image_id": "075", "question_id": "075_q0001", "answer": "The green bus is located on the left side of the intersection, as seen from the aerial view."}
+{"image_id": "076", "question_id": "076_q0001", "answer": "The bottle on the seat of the white folding chair is blue."}
+{"image_id": "076", "question_id": "076_q0002", "answer": "The long case on the floor in front of the chair with a red coat is white."}
+{"image_id": "076", "question_id": "076_q0003", "answer": "The flat folder held by the person in khaki pants is white."}
+{"image_id": "077", "question_id": "077_q0001", "answer": "The red bus is oriented horizontally, as it is located on the upper-right side of the intersection."}
+{"image_id": "078", "question_id": "078_q0001", "answer": "The long bus positioned horizontally to the left of the pedestrian crosswalk on the upper-left side of the intersection is blue."}
+{"image_id": "079", "question_id": "079_q0001", "answer": "The white structure in the green area at the bottom-left of the intersection appears to be a circular fountain or a roundabout. It's a common feature in urban landscapes to help regulate traffic flow and provide a focal point in public spaces."}
+{"image_id": "080", "question_id": "080_q0001", "answer": "The person crouching down on the rink is wearing a red shirt."}
+{"image_id": "081", "question_id": "081_q0001", "answer": "The long bus positioned horizontally above the heavy traffic on the left side of the intersection is blue."}
+{"image_id": "082", "question_id": "082_q0001", "answer": "The L-shaped roof of the building at the bottom-left of the intersection is green."}
+{"image_id": "083", "question_id": "083_q0001", "answer": "The blue arrow sign attached to the pole is in the shape of an arrow."}
+{"image_id": "083", "question_id": "083_q0002", "answer": "The person in black pants is wearing a red shirt."}
+{"image_id": "083", "question_id": "083_q0003", "answer": "The person in the dark jacket is wearing a red cap."}
+{"image_id": "084", "question_id": "084_q0001", "answer": "The green bus is positioned diagonally across the intersection, and it is located next to the pedestrian crosswalk on the corner of the intersection. The crosswalk is at the intersection of the two streets that the bus is crossing."}
+{"image_id": "085", "question_id": "085_q0001", "answer": "The video camera on the tripod being operated by the man in white at the left side of the stage is black."}
+{"image_id": "085", "question_id": "085_q0002", "answer": "The boy standing on the red carpet aisle is wearing a light blue shirt under his light blue vest."}
+{"image_id": "086", "question_id": "086_q0001", "answer": "The person holding the open blue umbrella near the dock is wearing white pants."}
+{"image_id": "086", "question_id": "086_q0002", "answer": "The backpack of the crouching person beside the pink stroller is black."}
+{"image_id": "086", "question_id": "086_q0003", "answer": "The person in an orange top is wearing black pants."}
+{"image_id": "087", "question_id": "087_q0001", "answer": "The car immediately to the left of the white car near the center of the intersection is black."}
+{"image_id": "088", "question_id": "088_q0001", "answer": "The isolated yellow car near the center of the intersection is oriented horizontally."}
+{"image_id": "089", "question_id": "089_q0001", "answer": "The woman lying on the bright pink mat with her legs dangling into the swimming pool is wearing black shorts."}
+{"image_id": "090", "question_id": "090_q0001", "answer": "The woman standing immediately to the left of the bearded man wearing sunglasses in the back row is holding a clipboard."}
+{"image_id": "090", "question_id": "090_q0002", "answer": "The man in the blue checkered shirt is wearing a white baseball cap."}
+{"image_id": "091", "question_id": "091_q0001", "answer": "The white-haired person at the podium is wearing a red jacket."}
+{"image_id": "091", "question_id": "091_q0002", "answer": "The cap brim of the person right of the person in a red-and-white plaid shirt is black."}
+{"image_id": "092", "question_id": "092_q0001", "answer": "The person standing among the purple flowers at the far left edge of the field is wearing a yellow hat."}
+{"image_id": "092", "question_id": "092_q0002", "answer": "The band wrapped around the lower part of the black post standing in the flower field is yellow."}
+{"image_id": "093", "question_id": "093_q0001", "answer": "The small flag above the person in a spotted pink dress is red."}
+{"image_id": "093", "question_id": "093_q0002", "answer": "The nearest person in black holding the large flag beside the person in the red dotted dress is wearing white sneakers."}
+{"image_id": "094", "question_id": "094_q0001", "answer": "The person operating the TV camera on the upper balcony is wearing a black shirt."}
+{"image_id": "094", "question_id": "094_q0002", "answer": "The badge hanging from the lanyard of the man in the dark polo shirt standing immediately to the right of the man in the light blue shirt on the upper balcony is red."}
+{"image_id": "095", "question_id": "095_q0001", "answer": "The person with short dark hair standing behind the silver railing is wearing a blue shirt."}
+{"image_id": "096", "question_id": "096_q0001", "answer": "The person in the patterned white coat is holding up a blue phone, but I cannot determine the color of the bag they are carrying as the image is too small and the details are not clear."}
+{"image_id": "096", "question_id": "096_q0002", "answer": "The person in the image is wearing a coat that appears to be a dark color, possibly black or dark gray. The bright red mask they are wearing stands out against the darker background of their coat."}
+{"image_id": "096", "question_id": "096_q0003", "answer": "The bag held in front of the person in a black zip-up jacket and jeans is red."}
+{"image_id": "097", "question_id": "097_q0001", "answer": "The person in the round hat with a red tuft is wearing a white hat."}
+{"image_id": "097", "question_id": "097_q0002", "answer": "The handbag held by the person standing to the right of the black handbag is red."}
+{"image_id": "097", "question_id": "097_q0003", "answer": "The person with glasses and an embroidered collar is wearing a hat with a red and white color scheme."}
+{"image_id": "098", "question_id": "098_q0001", "answer": "The long light blue bus is located on the right side of the intersection, moving away from the center. It appears to be in the right lane of the road, which is typically used for vehicles turning right or going straight."}
+{"image_id": "099", "question_id": "099_q0001", "answer": "The bus immediately to the right of the red bus on the upper-left side of the intersection is white."}
+{"image_id": "100", "question_id": "100_q0001", "answer": "The edges of the steps on the staircase located slightly left of center in the upper half of the image are red."}
+{"image_id": "101", "question_id": "101_q0001", "answer": "The blue bus is located on the right side of the intersection, while the red-and-white bus is on the left side. The blue bus is closer to the viewer than the red-and-white bus."}
+{"image_id": "102", "question_id": "102_q0001", "answer": "The blue bus is located on the right side of the intersection, while the red-and-white bus is on the left side."}
+{"image_id": "103", "question_id": "103_q0001", "answer": "The green vehicle on the lower-right side of the intersection is located on the right side of the road, which is the side of the road that is opposite to the planted road median. The green vehicle is driving on the right side of the road, which is the side of the road that is designated for vehicles to travel in the direction they are facing."}
+{"image_id": "104", "question_id": "104_q0001", "answer": "The light blue and white bus is located on the right side of the pedestrian crosswalk at the intersection."}
+{"image_id": "105", "question_id": "105_q0001", "answer": "The white car near the center of the intersection is oriented diagonally from the top left to the bottom right of the image."}
+{"image_id": "106", "question_id": "106_q0001", "answer": "The person in the yellow outfit is wearing a black hat."}
+{"image_id": "106", "question_id": "106_q0002", "answer": "The image shows a person pulling a kick scooter, but there is no visible handlebar or any object hanging from it. The person is wearing an orange-and-black patterned sweater and is pulling a scooter with a child on it. If there is something hanging from the handlebar, it is not visible in the image provided."}
+{"image_id": "107", "question_id": "107_q0001", "answer": "The blue bus is located on the left side of the intersection, and it is positioned between the two pedestrian crosswalks."}
+{"image_id": "108", "question_id": "108_q0001", "answer": "The bright blue bus is located on the right side of the red-marked area on the upper-right side of the intersection. It appears to be in the right lane of the rightmost road, which is the one with the red-marked area."}
+{"image_id": "109", "question_id": "109_q0001", "answer": "The horse ridden by the jockey at the front of the race on the right side of the track is white."}
+{"image_id": "110", "question_id": "110_q0001", "answer": "The tennis racket held up by the player in an orange sleeveless shirt and white shorts has a black frame."}
+{"image_id": "110", "question_id": "110_q0002", "answer": "The person in the doorway between the wall clock and the small blue screen is wearing a red shirt."}
+{"image_id": "110", "question_id": "110_q0003", "answer": "The seated person lifting a camera to their face is wearing a white shirt."}
+{"image_id": "111", "question_id": "111_q0001", "answer": "The person in a white T-shirt is wearing dark pants."}
+{"image_id": "111", "question_id": "111_q0002", "answer": "The person in khaki shorts and sandals who is walking next to the person in the orange shirt is wearing a white shirt."}
+{"image_id": "112", "question_id": "112_q0001", "answer": "The small truck located just above the tree-lined median on the lower-right side of the intersection is yellow."}
+{"image_id": "113", "question_id": "113_q0001", "answer": "The border around the roof of the building in the bottom-right corner of the image is red."}
+{"image_id": "114", "question_id": "114_q0001", "answer": "The green bus is located on the left side of the pedestrian crosswalk at the upper-left corner of the intersection."}
+{"image_id": "115", "question_id": "115_q0001", "answer": "The blue bus appears to be oriented with its front facing towards the right side of the image. This suggests that the bus is moving away from the camera's perspective, which is likely from the right side of the image looking towards the left. The bus is positioned on the left side of the intersection, and it seems to be following the traffic flow, which is generally to the right in this image."}
+{"image_id": "116", "question_id": "116_q0001", "answer": "The red car is located on the right side of the road, near the yellow diagonally striped road markings."}
+{"image_id": "117", "question_id": "117_q0001", "answer": "The blue bus is located on the left side of the lower-left corner of the intersection. It appears to be moving away from the heavy traffic, which is concentrated on the right side of the intersection."}
+{"image_id": "118", "question_id": "118_q0001", "answer": "The white bus is located near the upper-right corner of the image, and it appears to be on a road that runs parallel to the green park. The bus is moving away from the park, following the direction of the road. The park is situated to the right of the bus, and the road seems to be a major thoroughfare, as it is lined with parked cars and has multiple lanes."}
+{"image_id": "119", "question_id": "119_q0001", "answer": "The long bus positioned horizontally among the traffic on the upper-right side of the intersection is yellow."}
+{"image_id": "120", "question_id": "120_q0001", "answer": "The blue bus in the image is oriented horizontally, as it is positioned across the intersection, likely waiting for the traffic light to change."}
+{"image_id": "121", "question_id": "121_q0001", "answer": "The long white bus is oriented horizontally, as it is positioned across the intersection."}
+{"image_id": "122", "question_id": "122_q0001", "answer": "The yellow car is located in the middle of the intersection, just below the upper pedestrian crosswalk. The green and pink curved lane markings are on the road to the right of the yellow car, indicating a designated lane for vehicles to turn right or make a U-turn."}
+{"image_id": "123", "question_id": "123_q0001", "answer": "The green bus is located just below the row of trees on the upper-left side of the intersection. It appears to be oriented horizontally, as it is aligned with the road and the other vehicles."}
+{"image_id": "124", "question_id": "124_q0001", "answer": "The green rooftop area of the building in the upper-right corner of the image is rectangular in shape."}
+{"image_id": "125", "question_id": "125_q0001", "answer": "The yellow bus is located on the right side of the road, heading towards the center of the intersection. It appears to be in the middle lane, which is the rightmost lane on the road."}
+{"image_id": "126", "question_id": "126_q0001", "answer": "The yellow bus is located on the right side of the pedestrian crosswalk at the bottom of the intersection."}
+{"image_id": "127", "question_id": "127_q0001", "answer": "The green bus is located on the right side of the pedestrian crosswalk at the top of the intersection."}
+{"image_id": "128", "question_id": "128_q0001", "answer": "The red bus is located on the right side of the road, crossing the pedestrian crosswalk at the bottom-right corner of the intersection."}
+{"image_id": "129", "question_id": "129_q0001", "answer": "The yellow vehicle near the center of the intersection appears to be oriented diagonally across the intersection. It is moving from the left side of the image towards the right side, crossing the intersection at a diagonal angle."}
+{"image_id": "130", "question_id": "130_q0001", "answer": "The red bus is located on the right side of the intersection, while the green bus is on the left side."}
+{"image_id": "131", "question_id": "131_q0001", "answer": "The person standing behind the seated crowd is wearing a red hooded jacket."}
+{"image_id": "131", "question_id": "131_q0002", "answer": "The two posts of the metal bar frame by the running track, behind the person in red at the end of the seated crowd, are white."}
+{"image_id": "132", "question_id": "132_q0001", "answer": "The white-roofed structure located just to the right of the pedestrian crosswalk at the top of the intersection is circular in shape."}
+{"image_id": "133", "question_id": "133_q0001", "answer": "The green bus is located at the corner of the intersection where the pedestrian crosswalk is diagonally positioned. The crosswalk is located at the intersection of the two roads that form a diamond shape. The bus is positioned on the road that forms the right angle of the diamond, and it is on the right side of the image as you look at it."}
+{"image_id": "134", "question_id": "134_q0001", "answer": "The car in the diagonally positioned image is white."}
+{"image_id": "135", "question_id": "135_q0001", "answer": "The isolated white car on the upper-left road is located on the left side of the road, near the planted median. The median is a strip of land that separates the two directions of traffic, and the car is on the side of the road that is opposite to the median."}
+{"image_id": "136", "question_id": "136_q0001", "answer": "The yellow vehicle near the center of the intersection is oriented diagonally from the top left to the bottom right of the image."}
+{"image_id": "137", "question_id": "137_q0001", "answer": "The red bus is located on the right side of the road, crossing the pedestrian crosswalk at the top of the intersection."}
+{"image_id": "138", "question_id": "138_q0001", "answer": "The long bus near the right edge of the image, on the road at the lower-right side of the intersection, is blue."}
+{"image_id": "139", "question_id": "139_q0001", "answer": "The yellow car is located on the right side of the road, near the center of the intersection. It is positioned behind the blue car, which is in the left lane of the intersection."}
+{"image_id": "140", "question_id": "140_q0001", "answer": "The blue bus is located just below the pedestrian crosswalk at the bottom of the intersection, and it appears to be oriented horizontally."}
+{"image_id": "141", "question_id": "141_q0001", "answer": "The main body of the backpack of the person in a pink-striped shirt is black."}
+{"image_id": "141", "question_id": "141_q0002", "answer": "The horse beside the brown horse pulling the carriage with the red seat is white."}
+{"image_id": "141", "question_id": "141_q0003", "answer": "The barrel beside the upright display board under the market stall, next to a white bike, is red."}
+{"image_id": "141", "question_id": "141_q0004", "answer": "The pale lilac object with a small white item on top is a street lamp. It is standing between two lime-green ones, which are likely to be street lamps as well. The black-and-white scooter is parked in front of these street lamps."}
+{"image_id": "142", "question_id": "142_q0001", "answer": "The person standing immediately to the left of the large dark statue on the raised walkway is wearing a red shirt."}
+{"image_id": "142", "question_id": "142_q0002", "answer": "The man riding a motorbike next to the metal fence is wearing a red shirt."}
+{"image_id": "143", "question_id": "143_q0001", "answer": "The person leaning against the window while holding the handles of two suitcases is wearing a white shirt."}
+{"image_id": "144", "question_id": "144_q0001", "answer": "The person leaning over the white sheet of paper is wearing a black coat."}
+{"image_id": "144", "question_id": "144_q0002", "answer": "The person standing next to the person in the red jacket with a black backpack is wearing a white hat."}
+{"image_id": "144", "question_id": "144_q0003", "answer": "The cap of the bottle next to the pink bottle on the table is white."}
+{"image_id": "145", "question_id": "145_q0001", "answer": "The shopping bag of the person in a white shirt and black pants at the corner of the white counter is red."}
+{"image_id": "145", "question_id": "145_q0002", "answer": "The small round dish on the white counter is red."}
+{"image_id": "146", "question_id": "146_q0001", "answer": "The person in the blue sleeveless dress is holding a phone, and there is a bag hanging from their arm."}
+{"image_id": "146", "question_id": "146_q0002", "answer": "The person wearing glasses and an orange wristband is wearing a white top."}
+{"image_id": "146", "question_id": "146_q0003", "answer": "The framed plaque on the table is red."}
+{"image_id": "147", "question_id": "147_q0001", "answer": "The person in the black T-shirt with yellow letters holding a microphone is wearing a wristband that is red."}
+{"image_id": "147", "question_id": "147_q0002", "answer": "The instrument with a sunburst body held up above the person in a green shirt is a guitar."}
+{"image_id": "147", "question_id": "147_q0003", "answer": "The long cloth at the waist of the person in yellow is red."}
+{"image_id": "148", "question_id": "148_q0001", "answer": "The young child in a cap sitting immediately to the right of the man in the red plaid shirt in the audience is wearing a yellow top."}
+{"image_id": "148", "question_id": "148_q0002", "answer": "The phone held up by the woman in the yellow shirt is white."}
+{"image_id": "149", "question_id": "149_q0001", "answer": "The bag at the waist of the person in the beige cardigan is black."}
+{"image_id": "149", "question_id": "149_q0002", "answer": "The person with short dark curly hair is wearing a pink sweater."}
+{"image_id": "150", "question_id": "150_q0001", "answer": "The person in a dark shirt and green socks in front of the goal frame is wearing white shoes."}
+{"image_id": "150", "question_id": "150_q0002", "answer": "The person in a dark shirt standing in front of the white goal frame is wearing red socks."}
+{"image_id": "150", "question_id": "150_q0003", "answer": "The small sign on the dark entrance wall is rectangular in shape."}
+{"image_id": "151", "question_id": "151_q0001", "answer": "The person in the blue-and-white plaid shirt is wearing a white cap."}
+{"image_id": "151", "question_id": "151_q0002", "answer": "The large inflatable ball held above the crowd in front of the newsstand on the left side of the avenue is rainbow-colored."}
+{"image_id": "152", "question_id": "152_q0001", "answer": "The flag above the blue sign of two people facing each other is red."}
+{"image_id": "152", "question_id": "152_q0002", "answer": "The flag on the pole just left of the wall sign of a running figure is red."}
+{"image_id": "152", "question_id": "152_q0003", "answer": "The person in checkered pants is wearing a red shirt."}
+{"image_id": "152", "question_id": "152_q0004", "answer": "The person standing on the walkway between two green railings is wearing a striped dress, which is predominantly white with black stripes. The top of their dress is white."}
+{"image_id": "153", "question_id": "153_q0001", "answer": "The man in the bright green shirt is holding a long black pole, which appears to be a walking stick or a cane. He is not wearing a backpack."}
+{"image_id": "154", "question_id": "154_q0001", "answer": "The man in a brown jacket is wearing black pants."}
+{"image_id": "155", "question_id": "155_q0001", "answer": "The person in the pink jacket is wearing blue pants."}
+{"image_id": "155", "question_id": "155_q0002", "answer": "The person in the white-and-blue jacket is holding a white booklet, but I cannot determine the color of their pants from the image provided."}
+{"image_id": "155", "question_id": "155_q0003", "answer": "The small car between the white van and the gray car is red."}
+{"image_id": "156", "question_id": "156_q0001", "answer": "The piece of sports equipment visible above the crowd in the upper-left part of the image is a basketball hoop."}
+{"image_id": "157", "question_id": "157_q0001", "answer": "The umbrella beside the black umbrella above the person in a dark red top is red."}
+{"image_id": "157", "question_id": "157_q0002", "answer": "The person standing beside the small black bag is wearing a blue shirt."}
+{"image_id": "157", "question_id": "157_q0003", "answer": "The person in the blue jacket is wearing dark blue pants."}
+{"image_id": "158", "question_id": "158_q0001", "answer": "The man in the dark teal T-shirt is wearing black pants."}
+{"image_id": "158", "question_id": "158_q0002", "answer": "The umbrella held over the boy in the blue tracksuit walking up the ramp has a pattern of what appears to be a floral or botanical design. The umbrella is open and providing coverage from the rain, as indicated by the wet ground and the people holding umbrellas in the background."}
+{"image_id": "159", "question_id": "159_q0001", "answer": "The person beneath the white umbrella in front of the red stage barrier is wearing a green uniform."}
+{"image_id": "159", "question_id": "159_q0002", "answer": "The person riding the bicycle is wearing a green jacket."}
+{"image_id": "160", "question_id": "160_q0001", "answer": "The woman standing immediately to the left of the man in the black shirt on the escalator is wearing a dress with a pattern that includes a combination of dark and light colors, possibly black and white or dark and light gray. The pattern consists of a series of rectangles and squares arranged in a grid-like fashion. The exact design is not clear due to the angle and distance from which the photo was taken."}
+{"image_id": "160", "question_id": "160_q0002", "answer": "The pot of the leafy green plant standing inside the glass-walled enclosure beneath the hanging banner is blue."}
+{"image_id": "161", "question_id": "161_q0001", "answer": "The person in the white zip-up jacket with a black waist bag is wearing a white cap."}
+{"image_id": "161", "question_id": "161_q0002", "answer": "The sign held up by the person in a white sleeveless shirt with a dark shoulder strap is blue."}
+{"image_id": "161", "question_id": "161_q0003", "answer": "The person in the black sleeveless jersey with white trim is wearing a white baseball cap."}
+{"image_id": "161", "question_id": "161_q0004", "answer": "The person in a white shirt and white shorts with a dark shoulder strap is wearing black shoes."}
+{"image_id": "161", "question_id": "161_q0005", "answer": "The shoulder bag of the person in a blue-and-white top is pink."}
+{"image_id": "162", "question_id": "162_q0001", "answer": "The bag on the back of the person just left of the person carrying an orange tote is blue."}
+{"image_id": "162", "question_id": "162_q0002", "answer": "The person seated on the sand under the raised platform of the wooden lifeguard tower is wearing a red shirt."}
+{"image_id": "162", "question_id": "162_q0003", "answer": "The flag on the thin pole standing just above the roof corner of the wooden lifeguard tower is red."}
+{"image_id": "163", "question_id": "163_q0001", "answer": "The person in the foreground is holding an umbrella above their head."}
+{"image_id": "163", "question_id": "163_q0002", "answer": "The open umbrella above the person carrying the dark backpack is blue."}
+{"image_id": "163", "question_id": "163_q0003", "answer": "The person in a light blue headscarf is carrying a red backpack."}
+{"image_id": "164", "question_id": "164_q0001", "answer": "The person in dark pants at the back ladder of the box truck is wearing a red top."}
+{"image_id": "164", "question_id": "164_q0002", "answer": "The person on the opposite side of the purple flower planter is wearing red pants."}
+{"image_id": "164", "question_id": "164_q0003", "answer": "The plastic stool stood on by a person with a yellow jacket is red."}
+{"image_id": "165", "question_id": "165_q0001", "answer": "The little girl with a ponytail and a white sleeveless top is wearing black pants."}
+{"image_id": "166", "question_id": "166_q0001", "answer": "The person standing next to the striped bag is wearing a face mask, but the image does not provide enough detail to determine the exact color of the mask."}
+{"image_id": "166", "question_id": "166_q0002", "answer": "The person in the white cap is wearing a black vest."}
+{"image_id": "166", "question_id": "166_q0003", "answer": "The pedestrian crossing sign mounted on the white pole above the person wearing a white cap is in the shape of an \"X.\""}
+{"image_id": "167", "question_id": "167_q0001", "answer": "The plastic bag held by the person with a blue bag at their side is red."}
+{"image_id": "167", "question_id": "167_q0002", "answer": "The crown of the peaked cap with a gray band worn by the person standing left of the person holding a paper cup is red."}
+{"image_id": "167", "question_id": "167_q0003", "answer": "The person in the black uniform is wearing a peaked cap, and the top of the cap is white."}
+{"image_id": "167", "question_id": "167_q0004", "answer": "The crumpled plastic bag resting beside the large red-and-yellow bag is white."}
+{"image_id": "168", "question_id": "168_q0001", "answer": "The small front bag of the person in navy-and-white stripes with yellow straps is red."}
+{"image_id": "168", "question_id": "168_q0002", "answer": "The handbag on a wheelie with a pink fabric on top is red."}
+{"image_id": "169", "question_id": "169_q0001", "answer": "The man giving two thumbs up is wearing a blue baseball cap."}
+{"image_id": "170", "question_id": "170_q0001", "answer": "The man in the yellow jacket and cap is carrying a backpack that appears to be a messenger bag. Messenger bags are characterized by their strap that goes over the shoulder and a flap that covers the main compartment. They are designed to carry a laptop and other essentials, and they often have a front pocket for quick access to items. The specific brand or model of the bag is not clearly visible in the image."}
+{"image_id": "171", "question_id": "171_q0001", "answer": "The person crouching while wearing a black shoulder strap is wearing a white shirt."}
+{"image_id": "171", "question_id": "171_q0002", "answer": "The person in light-colored trousers standing right of the black suitcase is wearing a white shirt."}
+{"image_id": "172", "question_id": "172_q0001", "answer": "The camera held by the person in the light blue shirt with a black camera strap hanging down is black."}
+{"image_id": "172", "question_id": "172_q0002", "answer": "The cone beside the white railing has a pattern of diagonal lines."}
+{"image_id": "172", "question_id": "172_q0003", "answer": "The person in the light shirt is wearing a white armband."}
+{"image_id": "172", "question_id": "172_q0004", "answer": "The person beside and to the left of the person carrying a small black bag is wearing a white jacket."}
+{"image_id": "173", "question_id": "173_q0001", "answer": "The man standing alone next to the potted plant between the glass enclosure and the large white pillar is wearing a black outfit."}
+{"image_id": "173", "question_id": "173_q0002", "answer": "The yellow luggage beside the blue benches is placed on top of a luggage cart. This cart is typically used to transport luggage in airports or other transportation hubs. It allows passengers to easily move their bags from one location to another without having to carry them."}
+{"image_id": "174", "question_id": "174_q0001", "answer": "The background of the shield-shaped crest with a white emblem on the balcony railing, just left of the green garland panel, is blue."}
+{"image_id": "174", "question_id": "174_q0002", "answer": "The band on the straw hat of the person standing in front of someone in a red checkered shirt is blue."}
+{"image_id": "175", "question_id": "175_q0001", "answer": "The woman standing next to the round manhole cover with holes is wearing black shoes."}
+{"image_id": "176", "question_id": "176_q0001", "answer": "The flag above the small red-tiled roof below the flags is red."}
+{"image_id": "176", "question_id": "176_q0002", "answer": "The maroon bag beside the person in a white shirt near the ornate lamp pedestal has a pattern of what appears to be a floral or botanical design. The pattern consists of various shapes and textures that give the impression of leaves, flowers, or other natural elements. The exact design is not entirely clear due to the angle and distance, but it is a decorative pattern that adds a touch of color and style to the bag."}
+{"image_id": "177", "question_id": "177_q0001", "answer": "The cap of the person standing in the crowd directly in front of the staff in bright green vests near the entrance gates is red."}
+{"image_id": "177", "question_id": "177_q0002", "answer": "The plastic stool on the ground immediately to the right of the woman in the patterned top at the bottom center of the crowd is blue."}
+{"image_id": "178", "question_id": "178_q0001", "answer": "The person in black pants is wearing a white shirt."}
+{"image_id": "178", "question_id": "178_q0002", "answer": "The large rectangular panel on the chest of the person in a black cap is blue."}
+{"image_id": "178", "question_id": "178_q0003", "answer": "The block letters on the dark vertical panel by the tunnel stairs are white."}
+{"image_id": "179", "question_id": "179_q0001", "answer": "The phone case held up by the person in a white jacket and red tie is blue."}
+{"image_id": "179", "question_id": "179_q0002", "answer": "The camera on the scaffold platform is black."}
+{"image_id": "179", "question_id": "179_q0003", "answer": "The person below the scaffold tower is wearing a blue jacket, and the reflective bands on the jacket are orange."}
+{"image_id": "180", "question_id": "180_q0001", "answer": "The person in the orange top is holding up a phone near the railing. However, without more specific details, it's not possible to determine the color of the cap they are wearing."}
+{"image_id": "180", "question_id": "180_q0002", "answer": "The bag hanging at the waist of the person crouching on the walkway to take a photo is red."}
+{"image_id": "181", "question_id": "181_q0001", "answer": "The man in the red, black, and white striped shirt is standing to the right of the woman in the blue-and-green floral dress. He is wearing a pair of sunglasses over his eyes."}
+{"image_id": "182", "question_id": "182_q0001", "answer": "The border of the triangular sign on a leaning pole is red."}
+{"image_id": "182", "question_id": "182_q0002", "answer": "The person in the light-colored coat is wearing black shoes."}
+{"image_id": "182", "question_id": "182_q0003", "answer": "The rectangular fabric cover on the item just left of the small pink bicycle is blue."}
+{"image_id": "182", "question_id": "182_q0004", "answer": "The small bicycle in the image is black."}
+{"image_id": "182", "question_id": "182_q0005", "answer": "The person standing right beside the round manhole cover and next to the person in a tan jacket is wearing a black coat."}
+{"image_id": "183", "question_id": "183_q0001", "answer": "The older man in the dark cap is wearing a white shirt."}
+{"image_id": "183", "question_id": "183_q0002", "answer": "The large sack carried on the back of the person directly behind the older man in the dark cap and teal shirt has a pattern of what appears to be a floral or botanical design. The colors are predominantly green and brown, with some white and yellow accents. The pattern is dense and covers the entire surface of the sack."}
+{"image_id": "184", "question_id": "184_q0001", "answer": "The person holding a black umbrella is carrying a backpack with a red and black color scheme. The backpack appears to have a rectangular shape with a top handle and a shoulder strap. The design is simple and functional, with no visible logos or branding."}
+{"image_id": "185", "question_id": "185_q0001", "answer": "The umbrella in the image has a pattern that appears to be a combination of red and yellow rectangles. The red rectangles are larger and more prominent, while the yellow rectangles are smaller and less distinct. The pattern creates a checkered effect with alternating red and yellow rectangles."}
+{"image_id": "185", "question_id": "185_q0002", "answer": "The person beneath the red flag is wearing black shorts."}
+{"image_id": "185", "question_id": "185_q0003", "answer": "The person holding the large orange placard is wearing black pants."}
+{"image_id": "185", "question_id": "185_q0004", "answer": "The person behind the large red flag is wearing a white shirt."}
+{"image_id": "186", "question_id": "186_q0001", "answer": "The warning symbol printed on the A-frame board standing in the fountain water is a triangle with an exclamation mark inside it. This symbol is commonly used to indicate caution or danger, such as the risk of slipping or falling into the water."}
+{"image_id": "186", "question_id": "186_q0002", "answer": "The person sitting next to the teal stroller has gray hair."}
+{"image_id": "186", "question_id": "186_q0003", "answer": "The person being carried by the person in burgundy shorts is wearing a white top."}
+{"image_id": "187", "question_id": "187_q0001", "answer": "The blue delivery box attached to the back of the scooter ridden by the man wearing a black jacket is rectangular in shape."}
+{"image_id": "187", "question_id": "187_q0002", "answer": "The person wearing a bright neon green jacket is carrying a black bag."}
+{"image_id": "188", "question_id": "188_q0001", "answer": "The small flag above the crowd to the upper right of the large blue-and-white flag on a tall pole is red."}
+{"image_id": "188", "question_id": "188_q0002", "answer": "The large flag on a tall pole at the front of the crowd is red."}
+{"image_id": "188", "question_id": "188_q0003", "answer": "The person in the black top is carrying a blue shoulder bag."}
+{"image_id": "188", "question_id": "188_q0004", "answer": "The person in pink with a crossbody strap is wearing a hat, but without more specific details, it's not possible to determine the exact color of the hat."}
+{"image_id": "189", "question_id": "189_q0001", "answer": "The person in a blue jacket and gray cap is walking across the street, likely navigating through the busy intersection. They are carrying a backpack, which suggests they might be a student, a commuter, or someone who carries personal items with them."}
+{"image_id": "189", "question_id": "189_q0002", "answer": "The person in the neon yellow jacket is wearing a black cap."}
+{"image_id": "189", "question_id": "189_q0003", "answer": "The image shows a busy street scene with a large crowd of people, vehicles, and various street elements. There is no specific object that is open beside the green trash bin. The trash bin itself is closed and appears to be in a standard position on the sidewalk. If there is an object that is open, it is not clearly visible in the image provided."}
+{"image_id": "190", "question_id": "190_q0001", "answer": "The umbrella between the tan umbrella and the blue umbrella is red."}
+{"image_id": "190", "question_id": "190_q0002", "answer": "The person standing right of the blue umbrella is wearing a red hood."}
+{"image_id": "191", "question_id": "191_q0001", "answer": "The woman standing behind the red car is holding a handbag in her hand."}
+{"image_id": "192", "question_id": "192_q0001", "answer": "The person in the bright yellow vest at the stairwell entrance, under the rectangular sign, appears to be a security or event staff member. They are likely there to ensure the safety and smooth operation of the event, such as a sports match or concert. Their bright vest makes them easily identifiable to the crowd and other staff members."}
+{"image_id": "192", "question_id": "192_q0002", "answer": "The rectangular sign above the person in the bright yellow vest is white."}
+{"image_id": "192", "question_id": "192_q0003", "answer": "The main color of the round ball on the grass in front of the person in the orange vest is white."}
+{"image_id": "193", "question_id": "193_q0001", "answer": "The pouch hanging from the black strap on the person in an orange shirt with white sleeves is blue."}
+{"image_id": "193", "question_id": "193_q0002", "answer": "The bag resting on the dark red stool beside the table under the red and white tent is blue."}
+{"image_id": "193", "question_id": "193_q0003", "answer": "The bag in the hand of the person in the pink-and-white top is blue."}
+{"image_id": "193", "question_id": "193_q0004", "answer": "The person in the pale shirt is wearing green shorts."}
+{"image_id": "194", "question_id": "194_q0001", "answer": "The other backpack beside the bright pink backpack is yellow."}
+{"image_id": "194", "question_id": "194_q0002", "answer": "The short-haired person in a dark jacket is wearing a white collar."}
+{"image_id": "194", "question_id": "194_q0003", "answer": "The person in the yellow-green jacket is wearing a white cap."}
+{"image_id": "195", "question_id": "195_q0001", "answer": "The man carrying a bright orange backpack is wearing black pants."}
+{"image_id": "196", "question_id": "196_q0001", "answer": "The tennis player in the neon yellow shirt and orange shoes is wearing black shorts."}
+{"image_id": "196", "question_id": "196_q0002", "answer": "The body of the tall round container standing beside the seated person and the white cardboard box is blue."}
+{"image_id": "196", "question_id": "196_q0003", "answer": "The person in the white shirt and dark shorts is holding a tennis racket. However, without more specific details, it's not possible to determine the exact color of the racket."}
+{"image_id": "197", "question_id": "197_q0001", "answer": "The person in the long coat carrying an orange item near the roof shadows is wearing black shoes."}
+{"image_id": "197", "question_id": "197_q0002", "answer": "The open umbrella between the black and pink umbrella near the red wall is blue."}
+{"image_id": "197", "question_id": "197_q0003", "answer": "The cap of the person in the red jacket, as seen from above, is pink."}
+{"image_id": "198", "question_id": "198_q0001", "answer": "The man standing directly behind the bearded man in the light blue shirt at the booth with the red tablecloth is wearing a dark blue shirt."}
+{"image_id": "198", "question_id": "198_q0002", "answer": "The face of the round clock mounted high on the right wall of the gym is white."}
+{"image_id": "199", "question_id": "199_q0001", "answer": "The little girl in the pink-and-white striped dress is wearing white shoes."}
+{"image_id": "200", "question_id": "200_q0001", "answer": "The person in the tan hat is wearing a red vest."}
+{"image_id": "200", "question_id": "200_q0002", "answer": "The open umbrella next to the black umbrella, on the side away from the magenta umbrella, in the crowd is yellow."}
+{"image_id": "200", "question_id": "200_q0003", "answer": "The umbrella with a brass tuba bell far below it and a person in a green shirt next to it is yellow."}
+{"image_id": "201", "question_id": "201_q0001", "answer": "The person wearing a light pink coat and black pants is carrying a black bag."}
+{"image_id": "202", "question_id": "202_q0001", "answer": "The person wearing a bright orange shirt and drinking from a can is wearing a lanyard. Lanyards are commonly used to hold identification badges or cards, which are often used for access control in events or for security purposes. The lanyard is hanging around the person's neck, and the can they are drinking from is likely a canned beverage."}
+{"image_id": "203", "question_id": "203_q0001", "answer": "The person sitting right of the person holding a gray puffy coat on their lap is wearing a yellow jacket."}
+{"image_id": "203", "question_id": "203_q0002", "answer": "The bottle graphic on the white paper cup is red."}
+{"image_id": "204", "question_id": "204_q0001", "answer": "The person in black is wearing a black cap with an orange brim."}
+{"image_id": "204", "question_id": "204_q0002", "answer": "The dark-haired person pushing the turquoise stroller in the corridor under the upper bridge is wearing a red shirt."}
+{"image_id": "204", "question_id": "204_q0003", "answer": "The brim of the black cap on the person in light blue is black."}
+{"image_id": "205", "question_id": "205_q0001", "answer": "The backpack of the person walking just left of the person with a large black backpack and white sleeves has a pattern of what appears to be a grid or a series of squares. The squares are arranged in a diagonal pattern, creating a sense of movement across the backpack. The color of the squares is not clearly distinguishable due to the angle and the lighting in the image."}
+{"image_id": "206", "question_id": "206_q0001", "answer": "The woman in the red jacket is seated at the lower desk in front of the central rostrum, and she is resting her hand on a tablet or a notebook. It appears to be a formal setting, possibly a congressional session or a meeting of some sort, given the presence of the rostrum and the audience seated in the balcony."}
+{"image_id": "206", "question_id": "206_q0002", "answer": "The clock face mounted above the central rostrum is white."}
+{"image_id": "207", "question_id": "207_q0001", "answer": "The small flat speaker with a gold dot on the red stage cloth is not clearly visible in the image provided. However, if we assume it's a small speaker, it would likely be a color that contrasts with the red stage cloth, such as black, white, or a metallic color like gold or silver. The exact color would depend on the lighting conditions and the angle at which the photo was taken."}
+{"image_id": "207", "question_id": "207_q0002", "answer": "The hooded top of the sitting person next to the person in an orange jacket is red."}
+{"image_id": "207", "question_id": "207_q0003", "answer": "The person sitting on the other side of the red-hooded person from the orange-jacketed person is wearing a white sweater."}
+{"image_id": "208", "question_id": "208_q0001", "answer": "The ornament in the center of the wreath is circular."}
+{"image_id": "208", "question_id": "208_q0002", "answer": "The snowman display in the image features a carrot nose, which is a common shape for a snowman's nose."}
+{"image_id": "208", "question_id": "208_q0003", "answer": "The person next to the framed picture of a dark running animal is wearing a blue jacket."}
+{"image_id": "209", "question_id": "209_q0001", "answer": "The player wearing a yellow uniform is holding a baseball bat."}
+{"image_id": "210", "question_id": "210_q0001", "answer": "The person standing just to the left of the large white pillar near the circular fountain is wearing a yellow outfit."}
+{"image_id": "211", "question_id": "211_q0001", "answer": "The vehicle on the wide display just above the black-draped stand is red."}
+{"image_id": "211", "question_id": "211_q0002", "answer": "The umbrella held up between the red umbrella under the shop sign and the clear umbrella is black."}
+{"image_id": "211", "question_id": "211_q0003", "answer": "The open umbrella next to a white umbrella, beside the large boxy kiosk with a green sign, is black."}
+{"image_id": "212", "question_id": "212_q0001", "answer": "The person in the neon yellow shirt is not visible in the image provided. The image shows a crowd of people in a stadium, but the person you're asking about is not present in the frame."}
+{"image_id": "212", "question_id": "212_q0002", "answer": "The person in the white jersey is holding a blue baseball cap in front of their face while a food tray rests across their lap."}
+{"image_id": "212", "question_id": "212_q0003", "answer": "The person with a fist at their mouth is wearing a blue jersey."}
+{"image_id": "212", "question_id": "212_q0004", "answer": "The person in the white jersey and sunglasses is wearing blue jeans."}
+{"image_id": "212", "question_id": "212_q0005", "answer": "The person holding the red cup near their mouth is wearing a jersey with a pattern that includes a combination of blue and white colors. The pattern consists of a series of numbers and letters, which are likely part of the team's branding or a specific design element. The exact pattern is not clear from the image, but it appears to be a mix of text and numbers arranged in a stylized manner."}
+{"image_id": "213", "question_id": "213_q0001", "answer": "The shopping bag held by the man standing alone at the far left end of the upper balcony railing is white."}
+{"image_id": "213", "question_id": "213_q0002", "answer": "The backpack worn by the person on the central staircase is black."}
+{"image_id": "214", "question_id": "214_q0001", "answer": "The person in the costume is wearing a large, brown, animal-like headpiece, which appears to be a stylized representation of a bear or a similar creature. The costume is quite elaborate and detailed, suggesting it might be part of a themed event or a performance."}
+{"image_id": "215", "question_id": "215_q0001", "answer": "The central panel on the dark bag lying on the floor at the end of the seating row is green."}
+{"image_id": "215", "question_id": "215_q0002", "answer": "The bag on the floor beside the seated person in a black jacket is red."}
+{"image_id": "216", "question_id": "216_q0001", "answer": "The backpack carried by the child in the orange T-shirt walking immediately in front of the child in the purple cap is white."}
+{"image_id": "216", "question_id": "216_q0002", "answer": "The open umbrella held over the person in the cream hoodie and jeans in the courtyard is blue."}
+{"image_id": "217", "question_id": "217_q0001", "answer": "The person with white face paint standing at the riverside railing is wearing a black T-shirt."}
+{"image_id": "217", "question_id": "217_q0002", "answer": "The person in the green jacket and pink hat is wearing a black backpack."}
+{"image_id": "218", "question_id": "218_q0001", "answer": "The person in the white T-shirt is wearing black pants."}
+{"image_id": "218", "question_id": "218_q0002", "answer": "The person wearing blue plaid shorts is wearing a black jacket."}
+{"image_id": "218", "question_id": "218_q0003", "answer": "The person in orange pants is wearing a white shirt."}
+{"image_id": "218", "question_id": "218_q0004", "answer": "The person carrying the large brown shoulder bag has a pink top."}
+{"image_id": "218", "question_id": "218_q0005", "answer": "The person holding hands with the person walking beside the large light-gray covered rolling bag is wearing a pink shirt."}
+{"image_id": "218", "question_id": "218_q0006", "answer": "The person standing beneath the large dark blue hanging sign is wearing red pants."}
+{"image_id": "219", "question_id": "219_q0001", "answer": "The person standing near the bottom-left corner of the image, just to the right of a person in a bright red shirt, is wearing a black shirt."}
+{"image_id": "220", "question_id": "220_q0001", "answer": "The person standing behind the banana-shaped yellow hat is wearing a black hat."}
+{"image_id": "220", "question_id": "220_q0002", "answer": "The person in the teal numbered jersey is wearing a cap that is yellow in color."}
+{"image_id": "220", "question_id": "220_q0003", "answer": "The cap of the person in the gray tank top is yellow."}
+{"image_id": "221", "question_id": "221_q0001", "answer": "The ornament at the top of the pole holding the white flag with red markings is in the shape of a shield."}
+{"image_id": "221", "question_id": "221_q0002", "answer": "The long security camera on the sloping white rail is black."}
+{"image_id": "221", "question_id": "221_q0003", "answer": "The coat of the seated person in a pale cap and tan scarf is blue."}
+{"image_id": "222", "question_id": "222_q0001", "answer": "The person in jeans is wearing a black coat."}
+{"image_id": "222", "question_id": "222_q0002", "answer": "The upright suitcase next to the person in a green coat is white."}
+{"image_id": "222", "question_id": "222_q0003", "answer": "The lit box on the counter, just left of the long glass pastry case, appears to be red."}
+{"image_id": "224", "question_id": "224_q0001", "answer": "The person with folded arms beside the small dark green bag is wearing blue jeans."}
+{"image_id": "224", "question_id": "224_q0002", "answer": "The shopping bag held by the person carrying a small dark green bag at their other hip is blue."}
+{"image_id": "224", "question_id": "224_q0003", "answer": "The chest device of the person next to the person carrying a white tote with a blue-green print is rectangular."}
+{"image_id": "225", "question_id": "225_q0001", "answer": "The bearded musician in the front row is playing a cello."}
+{"image_id": "225", "question_id": "225_q0002", "answer": "The French horn held by the bald musician at the far left end of the back rows of the orchestra is gold in color."}
+{"image_id": "226", "question_id": "226_q0001", "answer": "The person in the white top with red-striped sleeves is wearing a black baseball cap."}
+{"image_id": "226", "question_id": "226_q0002", "answer": "The person in white trousers by the black lamp post near the small glass pyramid is carrying a black backpack."}
+{"image_id": "227", "question_id": "227_q0001", "answer": "The baby in the image is wearing a shirt with a striped pattern. The stripes are horizontal and appear to be of a light color, possibly white or a light gray, with darker stripes running through them. The shirt has a classic, bold design that is easy to recognize."}
+{"image_id": "227", "question_id": "227_q0002", "answer": "The woman in the light blue cardigan is wearing a hat with a pink band."}
+{"image_id": "228", "question_id": "228_q0001", "answer": "The uniform worn by the baseball player standing on the pitcher's mound near the center of the field is red and white."}
+{"image_id": "229", "question_id": "229_q0001", "answer": "The woman in the teal qipao is wearing a traditional Chinese garment known as a qipao. The pattern on the qipao appears to be a symmetrical design with a central motif that could be interpreted as a flower or a stylized floral element. The design is intricate and likely features a combination of colors and textures, which is characteristic of the qipao's elaborate embroidery and tailoring."}
+{"image_id": "229", "question_id": "229_q0002", "answer": "The large round bronze vessel in front of the center of the stage appears to be a statue of a person. The statue is placed on a pedestal, and there are Chinese characters above the statue, which suggests that the statue may be of cultural or historical significance. The statue is surrounded by a crowd of people, indicating that it might be a public event or a place of interest."}
+{"image_id": "230", "question_id": "230_q0001", "answer": "The person seated in the image is wearing black outer clothing."}
+{"image_id": "231", "question_id": "231_q0001", "answer": "The person in the pink coat is wearing a cap, but it's not possible to determine the color of the cap from the image provided. The cap could be any color, and without a clear view of the cap's color, I cannot provide an answer."}
+{"image_id": "231", "question_id": "231_q0002", "answer": "The lower dome of the security camera mounted on the lamp post at the top left is white."}
+{"image_id": "232", "question_id": "232_q0001", "answer": "The person in glasses and a dark suit, standing beside the white flag with a red and blue circle, is holding one hand up to their face, possibly adjusting their glasses or wiping something from their face."}
+{"image_id": "232", "question_id": "232_q0002", "answer": "The main color of the flag on the gold pole beside the person in glasses and a dark suit is blue."}
+{"image_id": "232", "question_id": "232_q0003", "answer": "The camera above and left of the black speaker box is black."}
+{"image_id": "233", "question_id": "233_q0001", "answer": "The bald person with a blue badge on the chest is wearing a white shirt."}
+{"image_id": "233", "question_id": "233_q0002", "answer": "The lid of the red cooler carried by the person beside the black stroller is white."}
+{"image_id": "234", "question_id": "234_q0001", "answer": "The knit beanie worn by the woman standing immediately to the right of the woman in the bright yellow coat is black."}
+{"image_id": "234", "question_id": "234_q0002", "answer": "The shoulder bag carried by the woman wearing a dark red beanie in the queue is yellow."}
+{"image_id": "235", "question_id": "235_q0001", "answer": "The object on top of the thin pole is a pagoda. It is a traditional East Asian structure typically found in Buddhist temples."}
+{"image_id": "235", "question_id": "235_q0002", "answer": "The canopy tent silhouetted against the sky, right of the tower with colorful pennants and beside a rainbow-striped umbrella, appears to be a darker shade of blue."}
+{"image_id": "236", "question_id": "236_q0001", "answer": "The plate held by the woman in the dark jacket is red."}
+{"image_id": "236", "question_id": "236_q0002", "answer": "The pot of the small plant on the black table at the right side of the hall is green."}
+{"image_id": "237", "question_id": "237_q0001", "answer": "The emblem on the front of the lectern is circular in shape."}
+{"image_id": "237", "question_id": "237_q0002", "answer": "The person in the T-shirt is wearing a blue T-shirt."}
+{"image_id": "238", "question_id": "238_q0001", "answer": "The woman in the white floral top is carrying a shoulder bag. It appears to be a casual, possibly crossbody style bag, suitable for a day out on the promenade. The bag has a strap that goes over her shoulder and a flap that likely secures the contents."}
+{"image_id": "238", "question_id": "238_q0002", "answer": "The base of the mobility scooter ridden by the person in the beige sun hat beside the white lamp post is black."}
+{"image_id": "239", "question_id": "239_q0001", "answer": "The referee is wearing a shirt with a pattern that appears to be a combination of diagonal stripes and a series of small, darker squares or rectangles. The pattern is not entirely clear due to the angle and the distance from which the photo was taken, but it seems to be a mix of dark and light colors."}
+{"image_id": "240", "question_id": "240_q0001", "answer": "The balloon right next to the leftmost white balloon of the arch, between it and a red balloon, is blue."}
+{"image_id": "240", "question_id": "240_q0002", "answer": "The person beside the shopping cart with a blue front panel is wearing a gray cardigan."}
+{"image_id": "240", "question_id": "240_q0003", "answer": "The person leaning over the shopping cart with a blue front panel is wearing a hair clip that is red in color."}
+{"image_id": "241", "question_id": "241_q0001", "answer": "The person playing the red electric guitar on the left side of the stage is wearing a black shirt."}
+{"image_id": "241", "question_id": "241_q0002", "answer": "The pickguard on the guitar resting on a stand immediately to the left of the person playing the red electric guitar is white."}
+{"image_id": "241", "question_id": "241_q0003", "answer": "The person playing the guitar on the far right of the stage is wearing black pants."}
+{"image_id": "242", "question_id": "242_q0001", "answer": "The person with hands behind their back walking away from the camera is wearing a black jacket."}
+{"image_id": "242", "question_id": "242_q0002", "answer": "The person in the white T-shirt is wearing a hat."}
+{"image_id": "243", "question_id": "243_q0001", "answer": "The image you've provided shows a scene with several people standing on a walkway overlooking a body of water. There is a white dome structure that appears to be part of a public space or an attraction. It's not possible to determine the exact purpose of the dome from the image alone, but it could be a part of a fountain, a light installation, or a viewing platform. The dome is mounted on a structure that seems to be part of the walkway, and it's likely intended for visitors to gather and enjoy the view or participate in an activity."}
+{"image_id": "243", "question_id": "243_q0002", "answer": "The crumpled plastic bag between the seated people beside the pair of blue shoes is white."}
+{"image_id": "243", "question_id": "243_q0003", "answer": "The oval emblem on the white utility cabinet is red."}
+{"image_id": "243", "question_id": "243_q0004", "answer": "The person standing beside the small white cabinet is wearing a black dress."}
+{"image_id": "243", "question_id": "243_q0005", "answer": "The person with both arms out beside the person carrying a blue umbrella is wearing a patterned outfit. The pattern consists of a series of horizontal stripes in various shades of blue and white. The stripes are evenly spaced and create a visually striking contrast against the person's darker clothing."}
+{"image_id": "243", "question_id": "243_q0006", "answer": "The person wearing the red cap is wearing a blue shirt."}
+{"image_id": "243", "question_id": "243_q0007", "answer": "The person walking beside the blue railing post is wearing a blue top."}
+{"image_id": "244", "question_id": "244_q0001", "answer": "The small flat table with a tangle of black cables on top is pink."}
+{"image_id": "244", "question_id": "244_q0002", "answer": "The blue badge beside the handball goal net is in the shape of a circle."}
+{"image_id": "244", "question_id": "244_q0003", "answer": "The person wearing a black backpack is not visible in the image provided. If you have a specific question about the pattern on a shirt or any other aspect of the image, feel free to ask!"}
+{"image_id": "245", "question_id": "245_q0001", "answer": "The red-and-yellow flag attached to the white-capped gray flagpole is in the shape of a rectangle."}
+{"image_id": "245", "question_id": "245_q0002", "answer": "The referee in the image is wearing black pants."}
+{"image_id": "245", "question_id": "245_q0003", "answer": "The painted yard number on the grass closest to the referee in the white cap and striped shirt is red."}
+{"image_id": "246", "question_id": "246_q0001", "answer": "The person walking alone near the top of the staircase, above the crowd, appears to be carrying a backpack."}
+{"image_id": "246", "question_id": "246_q0002", "answer": "The surveillance camera mounted on the ledge directly above the dark sign board on the right side of the building is black."}
+{"image_id": "247", "question_id": "247_q0001", "answer": "The dark patch on the backpack worn by the seated person raising an arm in the middle-right section of the crowd is rectangular."}
+{"image_id": "247", "question_id": "247_q0002", "answer": "The person in the black graphic T-shirt standing at the top of the stairs is wearing a yellow garment tied around their waist."}
+{"image_id": "247", "question_id": "247_q0003", "answer": "The person in the bright red sweatshirt is wearing glasses, but the image does not provide enough detail to determine the color of the glasses."}
+{"image_id": "248", "question_id": "248_q0001", "answer": "The umbrella above the person in a teal jacket with a white badge is yellow."}
+{"image_id": "248", "question_id": "248_q0002", "answer": "The person wearing the green waist bag is wearing a gray jacket."}
+{"image_id": "248", "question_id": "248_q0003", "answer": "The person in black shorts is wearing a yellow shirt."}
+{"image_id": "248", "question_id": "248_q0004", "answer": "The person carrying the patterned handbag is wearing a blue jacket."}
+{"image_id": "249", "question_id": "249_q0001", "answer": "The man dressed in black, standing alone on the left side of the basketball court, is holding a microphone near his mouth. He appears to be a commentator or announcer, likely providing commentary or instructions during a basketball game or event."}
+{"image_id": "250", "question_id": "250_q0001", "answer": "The baseball player standing on the pitcher's mound is wearing white pants."}
+{"image_id": "250", "question_id": "250_q0002", "answer": "The batter holding a raised bat at home plate is wearing a red shirt."}
+{"image_id": "250", "question_id": "250_q0003", "answer": "The main body color of the elevated pickup truck to the left of the main scoreboard is black."}
+{"image_id": "251", "question_id": "251_q0001", "answer": "The person in the back row on the left side of the image is wearing a robe that appears to be a mix of orange and red colors."}
+{"image_id": "251", "question_id": "251_q0002", "answer": "The person in the light cream robe is wearing white cuffs."}
+{"image_id": "251", "question_id": "251_q0003", "answer": "The camera held up to the face of the person in the orange robe in the back row on the left is not visible in the image."}
+{"image_id": "252", "question_id": "252_q0001", "answer": "The stripe around the top tire in the small tire stack beside the left end of the black race car in the middle-left of the starting grid is red."}
+{"image_id": "252", "question_id": "252_q0002", "answer": "The person in the light printed T-shirt walking alone behind the safety fence on the far right of the starting grid is wearing black pants."}
+{"image_id": "252", "question_id": "252_q0003", "answer": "The hose wound around the reel on the ground beside the foreground pit wall is black."}
+{"image_id": "253", "question_id": "253_q0001", "answer": "The dark-haired woman sitting under the red umbrella is wearing a yellow top."}
+{"image_id": "253", "question_id": "253_q0002", "answer": "The flag flying above the lifeguard tower nearest the camera has horizontal stripes in the colors of red, white, and blue."}
+{"image_id": "254", "question_id": "254_q0001", "answer": "The boots worn by the distant red-and-white-striped player are white."}
+{"image_id": "254", "question_id": "254_q0002", "answer": "The main background color of the football near the feet of the closest player in a blue-and-red kit is white."}
+{"image_id": "254", "question_id": "254_q0003", "answer": "The closest blue-and-red player is wearing white shoes."}
+{"image_id": "255", "question_id": "255_q0001", "answer": "The person standing alone near the rear-right edge of the pool, directly in front of the blank wall, has black hair."}
+{"image_id": "255", "question_id": "255_q0002", "answer": "The inflatable ring supporting the person near the lower-right corner of the pool is colored in shades of yellow and red."}
+{"image_id": "255", "question_id": "255_q0003", "answer": "The illuminated screen of the handheld device is blue."}
+{"image_id": "256", "question_id": "256_q0001", "answer": "The person walking alone between the blue metal staircase and the dense group on the right in the background is wearing blue pants."}
+{"image_id": "256", "question_id": "256_q0002", "answer": "The person bending down while holding a sheet of paper is wearing black shoes."}
+{"image_id": "256", "question_id": "256_q0003", "answer": "The sole of the raised shoe worn by the adult in the light shirt and gray trousers at the near-left edge of the student formation is black."}
+{"image_id": "257", "question_id": "257_q0001", "answer": "The person in the light top is wearing dark shorts."}
+{"image_id": "257", "question_id": "257_q0002", "answer": "The main body of the litter bin against the shop wall on the left side of the upper central walkway is white."}
+{"image_id": "257", "question_id": "257_q0003", "answer": "The small bag on the pale rectangular table behind the seated person in the light blue striped shirt is red."}
+{"image_id": "258", "question_id": "258_q0001", "answer": "The person in the black sleeveless top is wearing white shorts as they walk toward the left on the beach."}
+{"image_id": "258", "question_id": "258_q0002", "answer": "The person standing alone at the waterline immediately to the left of the large isolated rock on the sand is wearing black swim shorts."}
+{"image_id": "258", "question_id": "258_q0003", "answer": "The canopy of the open parasol closest to the rock overhang at the back of the sun-lounger area is blue."}
+{"image_id": "259", "question_id": "259_q0001", "answer": "The person in all black is wearing a yellow helmet as they walk alone down the middle of the empty road toward the far end."}
+{"image_id": "259", "question_id": "259_q0002", "answer": "The main panel of the backpack worn by the person in a dark helmet walking alone across the empty road above the barricade is black."}
+{"image_id": "260", "question_id": "260_q0001", "answer": "The man in the orange shirt is sitting on a blue sofa, and he has his legs crossed. It appears that he is trying to keep his legs close to his body, possibly to maintain a sense of modesty or to avoid accidentally stepping on the sofa."}
+{"image_id": "261", "question_id": "261_q0001", "answer": "The spectator in the yellow bucket hat is wearing a red shirt."}
+{"image_id": "261", "question_id": "261_q0002", "answer": "The spectator seated immediately to the right of the spectator in the yellow bucket hat in the front row of the opposite grandstand is wearing a red shirt."}
+{"image_id": "261", "question_id": "261_q0003", "answer": "The ear protectors attached to the helmet worn by the leftmost orange-clad track marshal are blue."}
+{"image_id": "262", "question_id": "262_q0001", "answer": "The person in the white shirt with a dark triangular collar is wearing black pants."}
+{"image_id": "262", "question_id": "262_q0002", "answer": "The person dressed in pink is wearing a white hat."}
+{"image_id": "262", "question_id": "262_q0003", "answer": "The litter bin at the lower end of the bridge path has a yellow lid."}
+{"image_id": "263", "question_id": "263_q0001", "answer": "The woman sitting at the right end of the black-draped table at the back of the hall is wearing a pink top."}
+{"image_id": "263", "question_id": "263_q0002", "answer": "The empty chair behind the black-draped table is blue."}
+{"image_id": "264", "question_id": "264_q0001", "answer": "The person sitting alone on the ledge just behind the floodlights in front of the red building is wearing a wide-brimmed hat, but the image does not provide enough detail to determine the exact color of the hat."}
+{"image_id": "264", "question_id": "264_q0002", "answer": "The person in the orange vest is wearing a blue headscarf."}
+{"image_id": "265", "question_id": "265_q0001", "answer": "The person in the dark apron standing at the left balcony counter is wearing a black bow tie."}
+{"image_id": "265", "question_id": "265_q0002", "answer": "The person seated beside the right-hand rail of the left staircase is wearing a green jacket."}
+{"image_id": "265", "question_id": "265_q0003", "answer": "The bag carried by the person wearing a white top and white trousers near the lower-right side of the information booth is red."}
+{"image_id": "266", "question_id": "266_q0001", "answer": "The person in the black shirt is wearing a white brimmed hat."}
+{"image_id": "266", "question_id": "266_q0002", "answer": "The person seated below the white-and-blue poster with colored circles appears to be wearing a mask. The mask covers the lower half of their face, which is typical for personal protective equipment (PPE) such as face masks."}
+{"image_id": "266", "question_id": "266_q0003", "answer": "The person in front of the tall yellow poster with photos along the bottom is wearing a white shirt."}
+{"image_id": "266", "question_id": "266_q0004", "answer": "The person walking behind the black backpack with a white patch is wearing a white shirt."}
+{"image_id": "267", "question_id": "267_q0001", "answer": "The woman in the gray cardigan is walking towards the building with the large clock tower. She appears to be moving in the same direction as the woman in the white jacket, who is pulling a stroller. The woman in the gray cardigan is likely heading towards the same destination as the woman in the white jacket, which is the building with the clock tower."}
+{"image_id": "267", "question_id": "267_q0002", "answer": "The pedal-powered taxi in front of the wooden kiosk at the left side of the plaza is green."}
+{"image_id": "268", "question_id": "268_q0001", "answer": "The woman sitting on the back of the motorcycle is wearing a red jacket."}
+{"image_id": "269", "question_id": "269_q0001", "answer": "The person in an orange T-shirt and dark shorts, next to the white inflatable unicorn, appears to be standing and possibly observing the beach scene or waiting for someone. They are not engaged in any specific activity that is immediately apparent from the image."}
+{"image_id": "269", "question_id": "269_q0002", "answer": "The plastic bag held by the person in a blue shirt beside the white beach umbrella with a black underside is white."}
+{"image_id": "270", "question_id": "270_q0001", "answer": "The person standing immediately to the left of the white-uniformed player at home plate is wearing a red outfit."}
+{"image_id": "271", "question_id": "271_q0001", "answer": "The man in the back row immediately to the left of the circular wall opening near the center of the choir is wearing a black bow tie."}
+{"image_id": "271", "question_id": "271_q0002", "answer": "The short-haired woman standing immediately in front of the bald man below the circular wall opening near the center of the choir is wearing a red outer garment."}
+{"image_id": "271", "question_id": "271_q0003", "answer": "The main color of the housing of the spotlight hanging directly above the central gold crest over the organ is gold."}
+{"image_id": "272", "question_id": "272_q0001", "answer": "The shoulder bag carried by the man in the teal shirt is black."}
+{"image_id": "272", "question_id": "272_q0002", "answer": "The fire hydrant on the sidewalk directly below the person sitting on the railing is yellow."}
+{"image_id": "273", "question_id": "273_q0001", "answer": "The person in the bright pink patterned top is wearing black pants."}
+{"image_id": "273", "question_id": "273_q0002", "answer": "The person in the yellow long-sleeved top with a blue patch is wearing black shorts."}
+{"image_id": "273", "question_id": "273_q0003", "answer": "The wheeled litter bin standing alone in the open grass to the right of the person in the bright pink patterned top is blue."}
+{"image_id": "274", "question_id": "274_q0001", "answer": "The person speaking into the microphone behind the flower-covered lectern is wearing a shirt with a pattern that appears to be a combination of horizontal stripes and what could be interpreted as a floral or botanical design. The stripes are thin and light-colored, while the floral pattern is more dense and darker in color. The exact details of the pattern are not clear due to the angle and distance from which the photo was taken."}
+{"image_id": "274", "question_id": "274_q0002", "answer": "The microphone held by the person behind the flower-covered lectern is black."}
+{"image_id": "274", "question_id": "274_q0003", "answer": "The main color of the cylindrical pendant light directly above the right edge of the blue stage banner is black."}
+{"image_id": "275", "question_id": "275_q0001", "answer": "The person in the yellow vest standing at the ticket counter on the left side of the hall is wearing black pants."}
+{"image_id": "275", "question_id": "275_q0002", "answer": "The shopping bag carried by the person standing side-on in the open aisle in front of the left ticket counters is red."}
+{"image_id": "275", "question_id": "275_q0003", "answer": "The straw protruding from the cup beside the tall narrow shopping bag in the foreground group on the left is orange."}
+{"image_id": "276", "question_id": "276_q0001", "answer": "The woman in the image is pulling a wheeled cart, and on her left shoulder, she appears to be carrying a bag or a small package. It's difficult to determine the exact contents of the bag or package from the image, but it looks like she might be carrying some personal items or perhaps some goods for sale at the market stalls."}
+{"image_id": "277", "question_id": "277_q0001", "answer": "The person immediately behind the rightmost person in the upper formation is wearing white pants."}
+{"image_id": "277", "question_id": "277_q0002", "answer": "The cap worn by the rightmost person in the upper formation carrying red pom-poms is white."}
+{"image_id": "277", "question_id": "277_q0003", "answer": "The rightmost pom-pom held by the rightmost person in the upper formation is red."}
+{"image_id": "278", "question_id": "278_q0001", "answer": "The person walking alone near the central triangular pedestrian island is wearing a pink shirt."}
+{"image_id": "278", "question_id": "278_q0002", "answer": "The person wearing the vest near the upper-right side of the open intersection is carrying a bright green bag. However, without more context or a clearer image, it's not possible to determine the color of the vest."}
+{"image_id": "278", "question_id": "278_q0003", "answer": "The person in the white vest is carrying a blue bag."}
+{"image_id": "279", "question_id": "279_q0001", "answer": "The woman holding a baby in her arms is wearing a yellow shirt."}
+{"image_id": "280", "question_id": "280_q0001", "answer": "The person in the long bright blue coat is wearing black shoes."}
+{"image_id": "281", "question_id": "281_q0001", "answer": "The person in the long-haired patterned shirt is wearing a shirt with a diagonal stripe pattern. The stripes are thin and appear to be in a darker shade, creating a contrast against the lighter background of the shirt."}
+{"image_id": "281", "question_id": "281_q0002", "answer": "The small shoulder bag worn by the person in the light gray top and blue jeans near the bottom-left center is black."}
+{"image_id": "281", "question_id": "281_q0003", "answer": "The person in the image is wearing a white hat."}
+{"image_id": "282", "question_id": "282_q0001", "answer": "The bin between the person in the yellow reflective vest and the tall hanging red flag is blue."}
+{"image_id": "282", "question_id": "282_q0002", "answer": "The person with the small white ball at the waist is wearing red pants."}
+{"image_id": "283", "question_id": "283_q0001", "answer": "The steward in the yellow jacket is wearing black pants."}
+{"image_id": "283", "question_id": "283_q0002", "answer": "The person standing on the stairs is wearing a long coat, but the image is not clear enough to determine the exact color of the coat."}
+{"image_id": "283", "question_id": "283_q0003", "answer": "The balloon floating above the spectators near the lower-right seating section is red."}
+{"image_id": "284", "question_id": "284_q0001", "answer": "The man sitting on the blue chair next to the red box on the floor appears to be looking down at something on the floor. It's not possible to determine exactly what he is looking at from the image, but it could be a variety of things such as a dropped item, a piece of paper, or something else that has caught his attention."}
+{"image_id": "285", "question_id": "285_q0001", "answer": "The roof of the house with a long row of dark rooftop panels immediately above and to the right of the brown L-shaped house on the left side of the street is red."}
+{"image_id": "285", "question_id": "285_q0002", "answer": "The image you've provided is an aerial view of a residential area, and there are no cars visible in the immediate vicinity of the house with the long solar-panel strip above a brown L-shaped house. The road appears to be clear of any vehicles. If you're referring to a specific image or if there's a specific time frame you're interested in, please provide more details or clarify your question."}
+{"image_id": "286", "question_id": "286_q0001", "answer": "The roof of the small house directly below the orange-roofed house with the broad dark roof panel is also orange."}
+{"image_id": "286", "question_id": "286_q0002", "answer": "The van parked directly above the small brown-roofed house is white."}
+{"image_id": "287", "question_id": "287_q0001", "answer": "The roof of the house immediately above and to the right of the long narrow turquoise swimming pool is red."}
+{"image_id": "287", "question_id": "287_q0002", "answer": "The image you've provided is an aerial view of a residential area, and it shows a long narrow swimming pool. However, due to the angle and the distance from which the photo was taken, it's difficult to accurately determine the color of the water in the pool. It could be a variety of colors, such as blue, green, or clear, depending on the water's chemical composition and the time of day."}
+{"image_id": "288", "question_id": "288_q0001", "answer": "The roof of the house in the upper middle of the image is red."}
+{"image_id": "288", "question_id": "288_q0002", "answer": "The car on the street between the red-hipped-roof house and the flat-roofed house with white angular rooftop structures is white."}
+{"image_id": "289", "question_id": "289_q0001", "answer": "The roof of the house immediately above the oval turquoise swimming pool is red."}
+{"image_id": "289", "question_id": "289_q0002", "answer": "The image you've provided appears to show a satellite view of a flooded area with a residential block on the right side. There is an oval swimming pool in the lower right corner of the image, but the water in the pool is not visible due to the angle and the flooding. The water level in the river is not high enough to be visible in the pool. The roofs of the houses are red, and the shed has a gray roof."}
+{"image_id": "290", "question_id": "290_q0001", "answer": "The roof of the house immediately below the elongated blue swimming pool is red."}
+{"image_id": "290", "question_id": "290_q0002", "answer": "The water in the elongated swimming pool appears to be a light blue color."}
+{"image_id": "291", "question_id": "291_q0001", "answer": "The roof of the house immediately above the narrow pointed structure with a dark recessed center is red."}
+{"image_id": "291", "question_id": "291_q0002", "answer": "The image you've provided is an aerial view of a residential area, and it's quite detailed. However, due to the angle and the resolution of the image, it's challenging to provide a precise description of the roof shape of a specific house. The roof appears to be sloped, which is typical for residential houses. The dark recessed center could be a window or a doorway, but without a clearer view or more context, it's difficult to determine the exact shape of the roof."}
+{"image_id": "292", "question_id": "292_q0001", "answer": "The roof of the house immediately above the long gray-roofed outbuilding with a round blue pool below it is red."}
+{"image_id": "292", "question_id": "292_q0002", "answer": "The water in the round pool beneath the long gray-roofed outbuilding beneath the red-roofed house is brown."}
+{"image_id": "293", "question_id": "293_q0001", "answer": "The roof of the house immediately above-left of the gray-roofed house on the image-right side of the round blue swimming pool is red."}
+{"image_id": "293", "question_id": "293_q0002", "answer": "The water in the round swimming pool appears to be a light blue color."}
+{"image_id": "294", "question_id": "294_q0001", "answer": "The flat roof of the square building with a bright white rim is red."}
+{"image_id": "294", "question_id": "294_q0002", "answer": "The building with the flat roof in the image has a red rim around the edge of the roof."}
+{"image_id": "295", "question_id": "295_q0001", "answer": "The roof of the small white-fronted house is red."}
+{"image_id": "295", "question_id": "295_q0002", "answer": "The roof of the detached outbuilding below the small white-fronted house with a brown roof is orange."}
+{"image_id": "296", "question_id": "296_q0001", "answer": "The water in the long rectangular swimming pool near the lower center of the image appears to be a clear blue color."}
+{"image_id": "297", "question_id": "297_q0001", "answer": "The roof of the small house between the long dark-roofed house above and the larger red-roofed house below is also red."}
+{"image_id": "297", "question_id": "297_q0002", "answer": "The round container in the residential strip on the left side of the fields is blue."}
+{"image_id": "298", "question_id": "298_q0001", "answer": "The image you've provided is an aerial view of a residential area, and it's not possible to determine the color of the rim of the trampoline from this perspective. The trampoline is not clearly visible, and the image is too blurry to discern any specific details."}
+{"image_id": "298", "question_id": "298_q0002", "answer": "The van parked near the center of the image is red."}
+{"image_id": "298", "question_id": "298_q0003", "answer": "The roof of the partially visible house immediately left of the small light-gray flat-roofed building beside the curving road is red."}
+{"image_id": "299", "question_id": "299_q0001", "answer": "The car parked near the red-roofed house with a large dark rectangular solar-panel array is black."}
+{"image_id": "299", "question_id": "299_q0002", "answer": "The curved dish at the roof edge near the lower-right part of the image is green."}
+{"image_id": "299", "question_id": "299_q0003", "answer": "The roof of the partially visible house above the small turquoise garden shed is red."}
+{"image_id": "300", "question_id": "300_q0001", "answer": "The car immediately above the truck with a yellow cab and an open bed on the highway is white."}
+{"image_id": "300", "question_id": "300_q0002", "answer": "The van immediately above the long box truck with a white cab is black."}
+{"image_id": "301", "question_id": "301_q0001", "answer": "The front wall of the house cut by the image-right edge is orange."}
+{"image_id": "301", "question_id": "301_q0002", "answer": "The car in the lane farther from the circular building is white."}
+{"image_id": "302", "question_id": "302_q0001", "answer": "The main roof of the house in the upper middle of the image is red."}
+{"image_id": "302", "question_id": "302_q0002", "answer": "The car in the small round turning area is white."}
+{"image_id": "303", "question_id": "303_q0001", "answer": "The car immediately to the left of the pale yellow car in the main parking block is white."}
+{"image_id": "303", "question_id": "303_q0002", "answer": "The car immediately above the dark gray car in the main parking block is white."}
+{"image_id": "304", "question_id": "304_q0001", "answer": "The car immediately to the left of the white camper van at the right end of a parking row is red."}
+{"image_id": "304", "question_id": "304_q0002", "answer": "The roof of the isolated elongated garden shed near the upper-left corner of the residential gardens on the right side of the image is red."}
+{"image_id": "305", "question_id": "305_q0001", "answer": "The car with a turquoise hood and red rear body panels is parked in the middle of the main parking lot. The roof of the car is black."}
+{"image_id": "305", "question_id": "305_q0002", "answer": "The car immediately to the left of the multicolored car with a turquoise hood and yellow roof is white."}
+{"image_id": "306", "question_id": "306_q0001", "answer": "The car directly below the bright orange car in the main parking lot is white."}
+{"image_id": "306", "question_id": "306_q0002", "answer": "The car immediately to the left of the bright orange car in the main parking lot is white."}
+{"image_id": "307", "question_id": "307_q0001", "answer": "The car immediately to the left of the pale yellow car in the lower edge of the parking deck is red."}
+{"image_id": "307", "question_id": "307_q0002", "answer": "The car immediately to the right of the black car that is directly right of the pale yellow car is red."}
+{"image_id": "308", "question_id": "308_q0001", "answer": "The car parked immediately to the left of the gold car in the central-left parking rows is red."}
+{"image_id": "308", "question_id": "308_q0002", "answer": "The car immediately to the left of the dark car with a short white strip on its roof is white."}
+{"image_id": "309", "question_id": "309_q0001", "answer": "The car parked directly below the lime-green car in the upper half of the large parking area is white."}
+{"image_id": "309", "question_id": "309_q0002", "answer": "The car parked directly below the yellow car in the short parking row near the center-right of the image is white."}
+{"image_id": "310", "question_id": "310_q0001", "answer": "The car immediately to the left of the pale-green car in the middle of the main parking lot is white."}
+{"image_id": "310", "question_id": "310_q0002", "answer": "The car immediately above the orange car in the small parking area on the right side of the road is white."}
+{"image_id": "311", "question_id": "311_q0001", "answer": "The car immediately to the right of the lime-green car in the upper-left half of the main parking area is white."}
+{"image_id": "311", "question_id": "311_q0002", "answer": "The car parked immediately to the right of the bright turquoise car in the upper-right half of the lot is white."}
+{"image_id": "312", "question_id": "312_q0001", "answer": "The car at the end of the short diagonal parking row, to the image-left of the round white lamp head in the upper-left section of the lot, is red."}
+{"image_id": "312", "question_id": "312_q0002", "answer": "The car immediately to the left of the dark car directly above the lime-green car in the upper-middle parking rows is white."}
+{"image_id": "313", "question_id": "313_q0001", "answer": "The car immediately to the right of the yellow car in the upper-left parking block is white."}
+{"image_id": "313", "question_id": "313_q0002", "answer": "The car parked immediately to the left of the yellow van beside the stored equipment in the lower-middle parking area is white."}
+{"image_id": "314", "question_id": "314_q0001", "answer": "The car parked immediately below the partly tree-obscured lime-green car along the far left side of the image is white."}
+{"image_id": "314", "question_id": "314_q0002", "answer": "The car immediately to the left of the yellow car in the parking row near the lower-left corner is white."}
+{"image_id": "315", "question_id": "315_q0001", "answer": "The small car with a rounded roof on the pale concrete parking pad to the left of the long yellow truck near the center of the image is white."}
+{"image_id": "315", "question_id": "315_q0002", "answer": "The car on the road directly to the right of the long white parked trailer near the top of the image is red."}
+{"image_id": "316", "question_id": "316_q0001", "answer": "The car diagonally below-right of the red car near the lower edge of the left camping field is white."}
+{"image_id": "316", "question_id": "316_q0002", "answer": "The small tent closest to the image-left wall of the red-roofed building inside the camping field is blue."}
+{"image_id": "317", "question_id": "317_q0001", "answer": "The pavilion roof decorated with pale rings near the upper-left corner has a semi-circular shape."}
+{"image_id": "317", "question_id": "317_q0002", "answer": "The car immediately to the left of the dark-blue car in the parking row below the red concession trailer near the upper-left of the image is white."}
+{"image_id": "318", "question_id": "318_q0001", "answer": "The car immediately to the left of the small bright-blue tent below the long blue-and-white canopy in the central-left camping field is red."}
+{"image_id": "318", "question_id": "318_q0002", "answer": "The square canopy directly above the horizontal white van and immediately to the image-right of the blue-and-gray tent in the central-left camping field is white."}
+{"image_id": "319", "question_id": "319_q0001", "answer": "The yellow-clad performer holding the taller lantern pole on the left side of the procession is wearing black shoes."}
+{"image_id": "319", "question_id": "319_q0002", "answer": "The tall hat worn by the yellow-clad performer holding the lower lantern pole on the left side of the procession is pink."}
+{"image_id": "319", "question_id": "319_q0003", "answer": "The lantern hanging from the pole held by the yellow-clad performer is pink."}
+{"image_id": "320", "question_id": "320_q0001", "answer": "The van immediately to the right of the black pickup with a white cab in the lower-right parking area is white."}
+{"image_id": "320", "question_id": "320_q0002", "answer": "The car immediately to the left of the black pickup with a white cab in the lower-right parking area is white."}
+{"image_id": "321", "question_id": "321_q0001", "answer": "The car parked immediately below the yellow car in the upper-right parking lot beside the large white-roofed warehouse is white."}
+{"image_id": "321", "question_id": "321_q0002", "answer": "The car parked directly below the red car and above the dark-blue car at the lower end of a row in the right-hand parking lot is white."}
+{"image_id": "322", "question_id": "322_q0001", "answer": "The long vehicle parked diagonally inside the enclosed storage yard at the upper-left corner of the large warehouse is white."}
+{"image_id": "322", "question_id": "322_q0002", "answer": "The cab of the box truck parked along the image-right side of the large warehouse is yellow."}
+{"image_id": "323", "question_id": "323_q0001", "answer": "The roof of the detached house immediately below the white car near the image-right edge in the upper half of the image is red."}
+{"image_id": "323", "question_id": "323_q0002", "answer": "The round object with a gray rim in the garden to the left of the long gray-roofed residential building is a bird bath."}
+{"image_id": "324", "question_id": "324_q0001", "answer": "The roof of the partly cropped house above the white garden umbrella near the top edge in the right half of the image is red."}
+{"image_id": "324", "question_id": "324_q0002", "answer": "The car immediately to the right of the blue car in the street just below the central block of red-roofed buildings is white."}
+{"image_id": "325", "question_id": "325_q0001", "answer": "The roof of the small house immediately below-right of the dark-blue car on the curved corner and just to the image-left of the red car on the straight main road is red."}
+{"image_id": "325", "question_id": "325_q0002", "answer": "The car diagonally below-right of the isolated white car at the mouth of the curved side-street in the lower-right residential area is red."}
+{"image_id": "326", "question_id": "326_q0001", "answer": "The roof of the house immediately to the left of the red car parked along the narrow street in the upper-left residential area is orange."}
+{"image_id": "326", "question_id": "326_q0002", "answer": "The car on the diagonal road just above the junction beside the building with bright-yellow roof sections is red."}
+{"image_id": "327", "question_id": "327_q0001", "answer": "The roof of the small house to the left of the wider house with the bright-green patio umbrella is red."}
+{"image_id": "327", "question_id": "327_q0002", "answer": "The patio umbrella above the wide red-roofed house in the upper-right neighborhood is white."}
+{"image_id": "328", "question_id": "328_q0001", "answer": "The roof of the smaller house immediately above the larger dark-roofed house in the upper-right neighborhood is red."}
+{"image_id": "328", "question_id": "328_q0002", "answer": "The garden umbrella immediately below the large gray-roofed house near the upper-right edge of the neighborhood is red."}
+{"image_id": "329", "question_id": "329_q0001", "answer": "The roof of the partly cropped house with a dark dormer near the upper-right corner of the image is red."}
+{"image_id": "329", "question_id": "329_q0002", "answer": "The car immediately to the left of the black car in the row just below the bright-blue rectangular swimming pool near the center-right of the image is white."}
+{"image_id": "330", "question_id": "330_q0001", "answer": "The roof of the house directly below the red car parked on the curving road in the upper-right neighborhood is orange."}
+{"image_id": "330", "question_id": "330_q0002", "answer": "The image you've provided is an aerial view of a town, and there is no swimming pool visible in the image. The small gray-roofed garden building is located in the upper-right neighborhood, and there are no pools immediately below it. If you're referring to a specific structure that might resemble a swimming pool, it's not clear from the image provided."}
+{"image_id": "331", "question_id": "331_q0001", "answer": "The main roof of the house with a pale-green rectangular feature on its dark roof section near the bottom-center of the image is red."}
+{"image_id": "331", "question_id": "331_q0002", "answer": "The car parked immediately above the orange-roofed house is red."}
+{"image_id": "332", "question_id": "332_q0001", "answer": "The car in the lane immediately below the white van on the bridge near the upper-right edge of the image is red."}
+{"image_id": "332", "question_id": "332_q0002", "answer": "The car immediately below the black car with a light-colored roof on the image-left section of the U-shaped access ramp is white."}
+{"image_id": "333", "question_id": "333_q0001", "answer": "The car parked immediately to the right of the lime-green car near the middle of the large parking area is white."}
+{"image_id": "333", "question_id": "333_q0002", "answer": "The car parked between the orange car and the red car in the upper-middle part of the large parking area is white."}
+{"image_id": "334", "question_id": "334_q0001", "answer": "The person with the dark shoulder bag is wearing black pants."}
+{"image_id": "334", "question_id": "334_q0002", "answer": "The blue parasol is positioned between the cafe tables just above and to the right of the white tent. It is located in the lower right quadrant of the image, with the tent directly below it. The parasol is angled slightly to the right, with its top edge pointing towards the right side of the image."}
+{"image_id": "334", "question_id": "334_q0003", "answer": "The helmet resting on the parked black scooter is blue."}
+{"image_id": "335", "question_id": "335_q0001", "answer": "The person with the black backpack is wearing a white shirt."}
+{"image_id": "335", "question_id": "335_q0002", "answer": "The stole worn by the graduate near the lower-left edge of the stage is red and white."}
+{"image_id": "335", "question_id": "335_q0003", "answer": "The empty chair beside the person in the red top near the upper-left seating section is white."}
+{"image_id": "336", "question_id": "336_q0001", "answer": "The man drinking from a bottle near the left edge of the fountain area is wearing a yellow shirt."}
+{"image_id": "336", "question_id": "336_q0002", "answer": "The traffic cone standing on the road just left of the green taxi at the upper left has white and yellow stripes."}
+{"image_id": "337", "question_id": "337_q0001", "answer": "The person in the pink top is wearing shorts with a pattern that includes a combination of red and black rectangles and squares. The pattern is somewhat abstract and could be described as a mix of geometric shapes with a bold color contrast."}
+{"image_id": "337", "question_id": "337_q0002", "answer": "The person in the gray top with the gray backpack is wearing black shorts."}
+{"image_id": "337", "question_id": "337_q0003", "answer": "The main color of the flat rectangular item on the front-left side of the stage, to the left of the flower arrangement, is blue."}
+{"image_id": "338", "question_id": "338_q0001", "answer": "The person in the blue shirt is wearing shorts with a pattern that appears to be a combination of horizontal and vertical stripes. The stripes are thin and evenly spaced, creating a repetitive, striped design."}
+{"image_id": "338", "question_id": "338_q0002", "answer": "The image you've provided is quite blurry, making it difficult to discern specific details. However, I can tell you that the person in the blue shirt is holding a bottle, but the colors on the bottle are not clearly visible due to the image quality."}
+{"image_id": "338", "question_id": "338_q0003", "answer": "The visor of the cap worn by the person raising an arm immediately to the right of the gray-haired person in the teal shirt on the left side of the bridge is blue."}
+{"image_id": "339", "question_id": "339_q0001", "answer": "The person with a white handbag is wearing black pants."}
+{"image_id": "339", "question_id": "339_q0002", "answer": "The folded item with a dark checked pattern hanging in front of the white shopping bag with a blue side is a newspaper."}
+{"image_id": "339", "question_id": "339_q0003", "answer": "The sign hanging above the green-and-blue station sign is rectangular."}
+{"image_id": "340", "question_id": "340_q0001", "answer": "The person in the mustard-yellow garment is wearing a white cap."}
+{"image_id": "340", "question_id": "340_q0002", "answer": "The pointed roof of the freestanding lantern to the right of the black cuboid building is green."}
+{"image_id": "340", "question_id": "340_q0003", "answer": "The glowing panel of the lantern mounted above the small canopy is green."}
+{"image_id": "341", "question_id": "341_q0001", "answer": "The cap of the girl seated directly below the standing man in the light blue and white striped jersey at the top of the stand is white."}
+{"image_id": "341", "question_id": "341_q0002", "answer": "The dome camera mounted on the tall pole at the left of the stand is black."}
+{"image_id": "342", "question_id": "342_q0001", "answer": "The person standing behind the seated exhibitor is wearing a blue cap."}
+{"image_id": "342", "question_id": "342_q0002", "answer": "The person standing just inside the right side of the central rear entrance is wearing a blue shirt."}
+{"image_id": "342", "question_id": "342_q0003", "answer": "The lowest balloon in the cluster above the booths to the left of the central rear entrance is purple."}
+{"image_id": "343", "question_id": "343_q0001", "answer": "The man in the yellow sweatshirt is wearing blue jeans."}
+{"image_id": "343", "question_id": "343_q0002", "answer": "The backpack worn by the person in the yellow sun hat at the lower right has a pattern that resembles a sunburst or sunflower design. The center of the pattern is a bright yellow, and the rays or petals extend outward in a symmetrical pattern, creating a sun-like appearance."}
+{"image_id": "344", "question_id": "344_q0001", "answer": "The person in the red shirt and red hat is carrying a yellow bag as they walk alone near the middle of the dry riverside walkway."}
+{"image_id": "344", "question_id": "344_q0002", "answer": "The person carrying a child near the water on the right side of the riverside path is wearing a red top."}
+{"image_id": "344", "question_id": "344_q0003", "answer": "The litter bin beside the middle black metal lighting tower on the dry walkway has a yellow lid."}
+{"image_id": "345", "question_id": "345_q0001", "answer": "The man in the red cap standing at the top of the white spiral staircase is wearing a shirt with a pattern that appears to be a series of horizontal stripes or bands. The pattern is not very distinct due to the angle and the distance, but it seems to be a simple, possibly solid color with thin lines or bands."}
+{"image_id": "345", "question_id": "345_q0002", "answer": "The small open umbrella among the seated crowd just above the large white cafe umbrellas at the lower left is green."}
+{"image_id": "346", "question_id": "346_q0001", "answer": "The man in the black jacket and blue jeans is wearing a baseball cap on his head as he walks toward the camera on the left sidewalk."}
+{"image_id": "347", "question_id": "347_q0001", "answer": "The person with one leg dangling down and one arm reaching toward the orange bag is wearing flip-flops."}
+{"image_id": "348", "question_id": "348_q0001", "answer": "The arrow on the small lit green sign points to the right."}
+{"image_id": "348", "question_id": "348_q0002", "answer": "The person carrying the shallow woven basket is wearing a black jacket."}
+{"image_id": "348", "question_id": "348_q0003", "answer": "The person in the black sweater is wearing a white stripe across the chest."}
+{"image_id": "348", "question_id": "348_q0004", "answer": "The person sitting above the tall purple hanging sign is wearing a red scarf wrapped around their neck."}
+{"image_id": "348", "question_id": "348_q0005", "answer": "The person wearing a white cap beside the large round lantern is wearing a black jacket."}
+{"image_id": "349", "question_id": "349_q0001", "answer": "The woman in the red dress is wearing a white hat, and there is no visible band around it in the image."}
+{"image_id": "349", "question_id": "349_q0002", "answer": "The girl in the white T-shirt is carrying a black backpack."}
+{"image_id": "350", "question_id": "350_q0001", "answer": "The person standing behind the upper-floor glass railing is wearing a yellow shirt."}
+{"image_id": "350", "question_id": "350_q0002", "answer": "The person in the white top is wearing a wide-brimmed hat that is yellow in color."}
+{"image_id": "350", "question_id": "350_q0003", "answer": "The main color of the image is white."}
+{"image_id": "351", "question_id": "351_q0001", "answer": "The person wearing the pink scarf is holding a red phone to their ear, as if they are talking on the phone."}
+{"image_id": "351", "question_id": "351_q0002", "answer": "The person in the dark jacket is holding a violin."}
+{"image_id": "351", "question_id": "351_q0003", "answer": "The camera held to the face of the person with the small white badge on a lanyard is black."}
+{"image_id": "352", "question_id": "352_q0001", "answer": "The man in the orange shirt is wearing a white cap."}
+{"image_id": "352", "question_id": "352_q0002", "answer": "The small box on the floor in front of the white carved cabinet below the TV at the front of the hall is black."}
+{"image_id": "353", "question_id": "353_q0001", "answer": "The rolled-up object lying on the grass directly behind the legs of the man in khaki shorts at the far left is pink."}
+{"image_id": "353", "question_id": "353_q0002", "answer": "The plastic bag on the grass beneath the jumping graduates, right of the center of the group, is pink."}
+{"image_id": "354", "question_id": "354_q0001", "answer": "The person in the red shirt standing beneath the green parasol at the far left side of the square is wearing black pants."}
+{"image_id": "354", "question_id": "354_q0002", "answer": "The person walking towards the camera is wearing a shirt with a pattern that appears to be a combination of red and dark panels, possibly with a geometric or abstract design. The pattern is not entirely clear due to the angle and the distance, but it seems to have a mix of solid red and darker red or black areas."}
+{"image_id": "354", "question_id": "354_q0003", "answer": "The rightmost empty stool beside the drink stand near the lower-right side of the square is blue."}
+{"image_id": "355", "question_id": "355_q0001", "answer": "The person in the neon yellow-green shirt is wearing a black cap."}
+{"image_id": "355", "question_id": "355_q0002", "answer": "The person in the black T-shirt standing at the front end of the middle row of seats is wearing a white baseball cap."}
+{"image_id": "356", "question_id": "356_q0001", "answer": "The woman walking beside the man in black past the dark planter at the back of the plaza is wearing a white coat."}
+{"image_id": "356", "question_id": "356_q0002", "answer": "The shoes of the toddler being held by the woman standing next to the turquoise tricycle are black."}
+{"image_id": "357", "question_id": "357_q0001", "answer": "The marshal raising an arm behind the barrier directly above the racing car is wearing an orange cap."}
+{"image_id": "357", "question_id": "357_q0002", "answer": "The marshal nearest the left edge of the image is wearing a safety vest, but it's not possible to determine the color of the shirt they are wearing underneath the vest from the image provided."}
+{"image_id": "357", "question_id": "357_q0003", "answer": "The large marking on the top of the helmet worn by the racing-car driver is red."}
+{"image_id": "358", "question_id": "358_q0001", "answer": "The baseball player crouching in the foreground is wearing a blue cap."}
+{"image_id": "359", "question_id": "359_q0001", "answer": "The person in black is carrying a blue bag."}
+{"image_id": "359", "question_id": "359_q0002", "answer": "The shopping bag carried by the man in the dark jacket walking immediately to the right of the person with the blue bag is white."}
+{"image_id": "360", "question_id": "360_q0001", "answer": "The person wearing the vest on the crosswalk is dressed in black."}
+{"image_id": "360", "question_id": "360_q0002", "answer": "The small bag hanging beside the person in the beige coat at the right edge of the crowd on the crosswalk is black."}
+{"image_id": "361", "question_id": "361_q0001", "answer": "The person in the beige top and blue jeans is wearing a black hat."}
+{"image_id": "361", "question_id": "361_q0002", "answer": "The person in the black hat and beige top is holding a bag. The bag appears to be hanging at their hip, which is a common way to carry a bag while walking."}
+{"image_id": "361", "question_id": "361_q0003", "answer": "The person in the white T-shirt and dark blue pants is holding a phone, but there is no backpack visible in the image."}
+{"image_id": "361", "question_id": "361_q0004", "answer": "The person standing in front of the right end of the blue sign is wearing a red dress."}
+{"image_id": "362", "question_id": "362_q0001", "answer": "The person in the leftmost position in the back row of the choir is wearing a black shirt."}
+{"image_id": "362", "question_id": "362_q0002", "answer": "The person in the rightmost back row of the choir is wearing a black bow tie."}
+{"image_id": "362", "question_id": "362_q0003", "answer": "The open folder held by the rightmost person in the back row of the choir beside the gold curtain is white."}
+{"image_id": "363", "question_id": "363_q0001", "answer": "The person in the long beige coat is wearing a face covering that is black in color."}
+{"image_id": "363", "question_id": "363_q0002", "answer": "The person in the long beige coat is carrying a shoulder bag, but the image is not clear enough to determine the color of the bag."}
+{"image_id": "363", "question_id": "363_q0003", "answer": "The illuminated pedestrian symbol on the small signal beside the crosswalk below the large red-framed video screen is red."}
+{"image_id": "364", "question_id": "364_q0001", "answer": "The two large brown patches behind the soccer goal are triangular in shape."}
+{"image_id": "365", "question_id": "365_q0001", "answer": "The person standing at the top of the tall wooden podium in the open area of the square is wearing a red shirt."}
+{"image_id": "365", "question_id": "365_q0002", "answer": "The bucket on the ground at the foot of the tall wooden podium in the square is blue."}
+{"image_id": "366", "question_id": "366_q0001", "answer": "The person standing beside the crouching catcher near home plate is wearing a blue shirt."}
+{"image_id": "366", "question_id": "366_q0002", "answer": "The batter in the teal jersey is holding a black bat."}
+{"image_id": "367", "question_id": "367_q0001", "answer": "The image you've provided is quite blurry, and it's difficult to make out specific details. However, based on the context you've given, it seems like the woman is in a busy public space, possibly an airport or a train station, given the number of people and the presence of what appears to be a luggage cart. The woman is wearing a yellow shirt and is pulling a suitcase with one hand while carrying a bag on her shoulder. It's not possible to provide more details about her attire or the contents of her bag due to the image's quality."}
+{"image_id": "368", "question_id": "368_q0001", "answer": "The person standing behind the flower-covered lectern at the back of the courtyard is wearing a white shirt."}
+{"image_id": "368", "question_id": "368_q0002", "answer": "The cloth covering the empty table to the left of the speaker at the back of the courtyard is red."}
+{"image_id": "368", "question_id": "368_q0003", "answer": "The freestanding loudspeaker on the ground to the right of the large electronic screen is black."}
+{"image_id": "369", "question_id": "369_q0001", "answer": "The diagonal strap across the back of the person in the orange sleeveless top is black."}
+{"image_id": "369", "question_id": "369_q0002", "answer": "The sunglasses worn by the woman in the black sleeveless top near the left side of the foreground steps have black frames."}
+{"image_id": "369", "question_id": "369_q0003", "answer": "The bottle held by the bearded person in the pale-blue shirt descending the foreground steps is black."}
+{"image_id": "370", "question_id": "370_q0001", "answer": "The person in the light gray shirt is wearing a white cap."}
+{"image_id": "370", "question_id": "370_q0002", "answer": "The triangular pennant immediately to the right of the large red pennant on the nearest string of flags below the traffic lights on the left is yellow."}
+{"image_id": "370", "question_id": "370_q0003", "answer": "The triangular pennant on the highest diagonal string just in front of the left side of the Ferris wheel is red."}
+{"image_id": "371", "question_id": "371_q0001", "answer": "The person seated beside the speaker is wearing a red jacket."}
+{"image_id": "371", "question_id": "371_q0002", "answer": "Camera"}
+{"image_id": "371", "question_id": "371_q0003", "answer": "The plastic cup on the black equipment case is purple."}
+{"image_id": "371", "question_id": "371_q0004", "answer": "The person wearing glasses to the left of the tall person in the gray shirt is wearing a red jacket."}
+{"image_id": "372", "question_id": "372_q0001", "answer": "The person at the far right of the group is wearing a bright pink hat or headgear. It appears to be a traditional or cultural hat, possibly associated with a specific cultural or regional attire. The hat has a distinctive color and design, which could be indicative of a specific cultural or festive occasion."}
+{"image_id": "373", "question_id": "373_q0001", "answer": "The bicycle ridden by the person wearing a white jacket and a yellow backpack is black."}
+{"image_id": "374", "question_id": "374_q0001", "answer": "The person at the leftmost seated position at the raised desk behind the speaker is wearing a tie, but the image resolution is not high enough to determine the exact color of the tie."}
+{"image_id": "374", "question_id": "374_q0002", "answer": "The main color of the image is green."}
+{"image_id": "374", "question_id": "374_q0003", "answer": "The person in the image is wearing glasses with black frames."}
+{"image_id": "375", "question_id": "375_q0001", "answer": "The man in the white shirt standing directly in front of the woman holding a pink bag is wearing a black cap."}
+{"image_id": "375", "question_id": "375_q0002", "answer": "The center of the flower-shaped pinwheel held up above the crowd at the bottom of the image is red."}
+{"image_id": "376", "question_id": "376_q0001", "answer": "The person standing right of the glass-door drink fridge, behind the couple sharing an umbrella, is wearing a red shirt."}
+{"image_id": "376", "question_id": "376_q0002", "answer": "The person under the dark umbrella is wearing white shoes."}
+{"image_id": "376", "question_id": "376_q0003", "answer": "The small bag beside the person in the red jacket under the light blue umbrella is pink."}
+{"image_id": "376", "question_id": "376_q0004", "answer": "The panels on the bag carried by the person in a pink top are square."}
+{"image_id": "376", "question_id": "376_q0005", "answer": "The person in white sneakers is wearing a red coat."}
+{"image_id": "377", "question_id": "377_q0001", "answer": "The person wearing a bright green top is standing to the right of the central staircase among the seated crowd. They are wearing dark pants."}
+{"image_id": "378", "question_id": "378_q0001", "answer": "The man standing immediately to the right of the person wearing a lavender head covering in the crowd is wearing a red sweater."}
+{"image_id": "378", "question_id": "378_q0002", "answer": "The round emblem on the front of the red cap worn near the right edge of the crowd is white."}
+{"image_id": "379", "question_id": "379_q0001", "answer": "The woman standing next to the man in the white shirt holding a cup behind the back booths is wearing a black jacket."}
+{"image_id": "379", "question_id": "379_q0002", "answer": "The small sign mounted on the back wall at the right end of the red-and-white curtained booths is green."}
+{"image_id": "380", "question_id": "380_q0001", "answer": "The person in the image is wearing a white top."}
+{"image_id": "380", "question_id": "380_q0002", "answer": "The frame of the football goal on the left edge of the playing field is red."}
+{"image_id": "380", "question_id": "380_q0003", "answer": "The frame of the football goal on the right edge of the playing field is red."}
+{"image_id": "381", "question_id": "381_q0001", "answer": "The man holding a phone to his ear is wearing a red shirt."}
+{"image_id": "382", "question_id": "382_q0001", "answer": "The collar showing above the black hoodie worn by the person with glasses in the back row near the upper-left side of the stand is red."}
+{"image_id": "382", "question_id": "382_q0002", "answer": "The long-haired person is wearing a red baseball cap."}
+{"image_id": "382", "question_id": "382_q0003", "answer": "The pom-pom raised above the person in red near the middle of the crowd is multi-colored, with a variety of colors visible. However, without a specific description of the colors, it's not possible to provide a detailed list of the colors present in the pom-pom."}
+{"image_id": "383", "question_id": "383_q0001", "answer": "The woman in the red dress appears to be holding hands with the individuals in front of her. It looks like she is participating in a group activity or event where people are forming a heart shape with their hands. This could be part of a ceremony, a performance, or a celebration where such a formation is symbolic or meaningful."}
+{"image_id": "384", "question_id": "384_q0001", "answer": "The dome camera mounted on the stair railing is red."}
+{"image_id": "384", "question_id": "384_q0002", "answer": "The object behind the pink racket held out by the player in the pink-and-yellow jersey is a large banner with Chinese characters on it. The banner is likely part of a promotional display or a decoration for an event taking place in the venue."}
+{"image_id": "384", "question_id": "384_q0003", "answer": "The person in the pink-and-yellow jersey is holding out a tennis racket."}
+{"image_id": "385", "question_id": "385_q0001", "answer": "The emblem on the yellow cap worn by the man directly behind the person in the navy cap with a yellow ribbon emblem is a triangle."}
+{"image_id": "385", "question_id": "385_q0002", "answer": "The emblem on the red cap worn by the gray-haired man in the dark jacket and white collar in the middle of the crowd is yellow."}
+{"image_id": "386", "question_id": "386_q0001", "answer": "The person pulling a suitcase with a red bag on top is wearing black pants."}
+{"image_id": "386", "question_id": "386_q0002", "answer": "The man in the black T-shirt and gray pants is standing next to a white car, and he is wearing a backpack."}
+{"image_id": "387", "question_id": "387_q0001", "answer": "The long camera crane extending diagonally upward from the bottom-left area of the image is black."}
+{"image_id": "388", "question_id": "388_q0001", "answer": "The person raising one finger into the air is wearing a white dress, and there is a draped fabric or material over their shoulder. It appears to be a decorative or ceremonial element, possibly part of a traditional or cultural attire. The exact nature of the material is not clear from the image alone, but it seems to be a significant part of the attire for the person in the center of the group."}
+{"image_id": "389", "question_id": "389_q0001", "answer": "The visible shoe of the person dressed in black standing at the ground-floor shop counter behind the crowd is black."}
+{"image_id": "389", "question_id": "389_q0002", "answer": "The front suitcase in the stack displayed in the middle-floor shop window on the right is yellow."}
+{"image_id": "389", "question_id": "389_q0003", "answer": "The small bag resting on top of the red luggage stack in the middle-floor shop window on the right is yellow."}
+{"image_id": "390", "question_id": "390_q0001", "answer": "The knit hat of the person in the red sweater leaning on the upper balcony railing is red."}
+{"image_id": "390", "question_id": "390_q0002", "answer": "The person in the cream sweater is wearing a patterned cap with a mix of blue and red colors."}
+{"image_id": "391", "question_id": "391_q0001", "answer": "The woman with straight bangs holding the front banner near its middle has red hair."}
+{"image_id": "391", "question_id": "391_q0002", "answer": "The star on the flag is red."}
+{"image_id": "391", "question_id": "391_q0003", "answer": "The lower traffic light on the right side of the street is illuminated green."}
+{"image_id": "392", "question_id": "392_q0001", "answer": "The person walking alone near the small white van at the far end of the street is wearing black pants."}
+{"image_id": "392", "question_id": "392_q0002", "answer": "The person in the red jacket is wearing a knit hat, but the image does not provide enough detail to determine the exact color of the hat."}
+{"image_id": "392", "question_id": "392_q0003", "answer": "The phone is held vertically, with the screen facing upwards and the camera facing downwards. This orientation is typical for taking a photo with the screen visible to the person taking the photo, allowing them to frame the shot and ensure the subject is in the center of the frame."}
+{"image_id": "393", "question_id": "393_q0001", "answer": "The person in black pants standing beside the person holding a camera up to their face is wearing a white shirt."}
+{"image_id": "393", "question_id": "393_q0002", "answer": "The shell of the drum strapped across the blue harness on the white-shirted person with one arm raised is red."}
+{"image_id": "394", "question_id": "394_q0001", "answer": "The spectator seated immediately behind and to the image-right of the spectator in the dark green shirt and blue cap near the upper-left side of the stand is wearing a white shirt."}
+{"image_id": "394", "question_id": "394_q0002", "answer": "The cap worn by the referee at the far left edge of the image is white."}
+{"image_id": "394", "question_id": "394_q0003", "answer": "The curved marking on the shoe of the player with the extended kicking leg is white."}
+{"image_id": "395", "question_id": "395_q0001", "answer": "The man in the black T-shirt is standing in front of a large red and white balloon cluster on the upper balcony. It's not clear what he is holding up, as the image does not provide enough detail to determine the object. However, given the context of the image, which appears to be a crowded event or gathering, it's possible that he is holding up a banner or sign, which is common at such events for promotional or informational purposes."}
+{"image_id": "395", "question_id": "395_q0002", "answer": "The balloons in the cluster directly behind the man in the black T-shirt on the upper balcony are red and white."}
+{"image_id": "396", "question_id": "396_q0001", "answer": "The short-haired person immediately to the image-right of the long-haired person in the black bikini near the upper-right shoreline has dark hair."}
+{"image_id": "396", "question_id": "396_q0002", "answer": "The inflatable armband on the image-left arm of the child holding a blue-and-white object above their head in the central group in the water is red."}
+{"image_id": "396", "question_id": "396_q0003", "answer": "The object held above the head of the child with yellow-green inflatable armbands in the central group in the water is red and white."}
+{"image_id": "397", "question_id": "397_q0001", "answer": "The man in the blue shirt sitting on the steps just above the person wearing the orange balloon headdress is wearing black pants."}
+{"image_id": "397", "question_id": "397_q0002", "answer": "The balloon floating over the playground beside the yellow play structure at the bottom of the image is red."}
+{"image_id": "398", "question_id": "398_q0001", "answer": "The person with white hair and khaki shorts who is walking with a cane is wearing a blue shirt."}
+{"image_id": "398", "question_id": "398_q0002", "answer": "The person wearing black leggings with a yellow patterned cloth at the waist is wearing a black top."}
+{"image_id": "398", "question_id": "398_q0003", "answer": "The person in the beige top and dark cap is wearing black pants."}
+{"image_id": "398", "question_id": "398_q0004", "answer": "The person standing beside the framed picture is wearing a white shirt."}
+{"image_id": "399", "question_id": "399_q0001", "answer": "The scarf of the woman in the mustard yellow coat standing by the railing near the building entrance is red."}
+{"image_id": "399", "question_id": "399_q0002", "answer": "The car parked between the gold sedan and the dark car in the front row of the parking area on the right is white."}
+{"image_id": "400", "question_id": "400_q0001", "answer": "The person in the white long-sleeved shirt and ponytail is wearing black pants."}
+{"image_id": "400", "question_id": "400_q0002", "answer": "The person at the back end of the rightmost column of students is wearing a blue shirt."}
+{"image_id": "400", "question_id": "400_q0003", "answer": "The neckerchief worn by the glasses-wearing person in the white shirt and dark trousers in the foreground is red."}
+{"image_id": "401", "question_id": "401_q0001", "answer": "The person clapping with both hands above their head on the central platform is wearing a yellow shirt."}
+{"image_id": "401", "question_id": "401_q0002", "answer": "The person in the foreground is wearing a shirt with a pattern that appears to be a combination of red and white stripes, possibly resembling a flag or a similar design. The exact details of the pattern are not clear due to the angle and the distance from which the photo was taken."}
+{"image_id": "401", "question_id": "401_q0003", "answer": "The background color of the upper placard raised beside the doorway on the left side of the hall is red."}
+{"image_id": "402", "question_id": "402_q0001", "answer": "The rider in the yellow jersey is wearing a helmet that is green in color."}
+{"image_id": "402", "question_id": "402_q0002", "answer": "The cycling helmet worn by the spectator standing behind the barrier on the right side of the road is green."}
+{"image_id": "403", "question_id": "403_q0001", "answer": "The person standing alone beneath the central open passage through the building is wearing red pants."}
+{"image_id": "403", "question_id": "403_q0002", "answer": "The balloon with long upright ears near the lower-middle part of the courtyard is purple."}
+{"image_id": "403", "question_id": "403_q0003", "answer": "The foil balloon floating above the boy near the lower-middle part of the courtyard depicts a cat."}
+{"image_id": "404", "question_id": "404_q0001", "answer": "The person walking directly in front of the man in black wheeling a bicycle on the upper right sidewalk is wearing a red vest."}
+{"image_id": "404", "question_id": "404_q0002", "answer": "The fire hydrant in the image is red."}
+{"image_id": "405", "question_id": "405_q0001", "answer": "The person bending over beside the flag near the center of the stage is wearing a red shirt."}
+{"image_id": "405", "question_id": "405_q0002", "answer": "The flag beside the person bending over near the center of the stage is yellow."}
+{"image_id": "405", "question_id": "405_q0003", "answer": "The stool supporting the person wearing the blue backpack is red."}
+{"image_id": "406", "question_id": "406_q0001", "answer": "The pink beach umbrella near the upper-left corner of the beach image has a pattern of stripes. The stripes are horizontal and appear to be of equal width, creating a uniform and repetitive design."}
+{"image_id": "407", "question_id": "407_q0001", "answer": "The person with the long braid in a dark uniform walking behind the white police van on the right side of the road has red hair."}
+{"image_id": "407", "question_id": "407_q0002", "answer": "The helmet held by the officer standing beside the police van near the lower-left side of the road is blue."}
+{"image_id": "407", "question_id": "407_q0003", "answer": "The traffic signal above the distant vehicles is illuminated in green."}
+{"image_id": "408", "question_id": "408_q0001", "answer": "The person with the small yellow clip has black hair."}
+{"image_id": "408", "question_id": "408_q0002", "answer": "The image shows a person holding up a red and white cap with a black brim. The cap appears to be part of a costume or a prop, possibly related to a performance or event. The person holding the cap is standing on a stage, and there are other individuals on stage as well, suggesting that this is a theatrical or musical performance."}
+{"image_id": "408", "question_id": "408_q0003", "answer": "The person in the red shirt is wearing a white cap."}
+{"image_id": "409", "question_id": "409_q0001", "answer": "The person in the pale jacket is wearing black pants."}
+{"image_id": "409", "question_id": "409_q0002", "answer": "The coat worn by the person in the black knit hat is black."}
+{"image_id": "409", "question_id": "409_q0003", "answer": "The traffic light above the central pedestrian crossing is illuminated in red."}
+{"image_id": "410", "question_id": "410_q0001", "answer": "The person in the blue sleeveless shirt with a yellow star on the front is carrying a bag over their shoulder. The bag appears to be a messenger bag or a similar type of bag that is designed to be worn over one shoulder."}
+{"image_id": "411", "question_id": "411_q0001", "answer": "The person standing with their arms outstretched beside the right pillar of the large blue inflatable arch is wearing a red shirt."}
+{"image_id": "412", "question_id": "412_q0001", "answer": "The person holding the second circular sign from the left at the front of the crowd is wearing white shoes."}
+{"image_id": "413", "question_id": "413_q0001", "answer": "The box-shaped object behind the chain-link fence is red."}
+{"image_id": "413", "question_id": "413_q0002", "answer": "The person in the dark jacket is wearing a yellow beanie."}
+{"image_id": "414", "question_id": "414_q0001", "answer": "The man carrying an orange bag is wearing a white shirt."}
+{"image_id": "415", "question_id": "415_q0001", "answer": "The glowing light on the head of the person in the black coat holding up a phone is yellow."}
+{"image_id": "415", "question_id": "415_q0002", "answer": "The person with a red strap on the shoulder, standing left of the person in the orange jacket, is wearing a black coat."}
+{"image_id": "415", "question_id": "415_q0003", "answer": "The round object beside the sloping handrail on the lit stairs appears to be a decorative light fixture. It has a golden color and is illuminated, which suggests it is part of a festive or decorative installation. The design is intricate and could be a part of a larger lighting scheme for the area."}
+{"image_id": "416", "question_id": "416_q0001", "answer": "The spectator in the bright yellow-green cap is wearing a white T-shirt."}
+{"image_id": "416", "question_id": "416_q0002", "answer": "The ball in the air above the players near the left side of the judges' desk is red."}
+{"image_id": "416", "question_id": "416_q0003", "answer": "The sunglasses worn by the official seated at the right end of the elevated judges desk are black."}
+{"image_id": "417", "question_id": "417_q0001", "answer": "The person in the white T-shirt standing immediately below the person with the orange top and dark backpack outside the shops on the right is wearing black pants."}
+{"image_id": "417", "question_id": "417_q0002", "answer": "The shoulder bag carried by the person in the white T-shirt outside the shops on the right is black."}
+{"image_id": "417", "question_id": "417_q0003", "answer": "The traffic light beneath the covered pedestrian walkway on the left side of the road is illuminated red."}
+{"image_id": "418", "question_id": "418_q0001", "answer": "The standing person beside the white pillar and behind the seated person in a gray striped shirt is wearing a red shirt."}
+{"image_id": "418", "question_id": "418_q0002", "answer": "The red boxes stacked beside the person with the shoulder bag are likely part of a display or promotional material. They could be advertising a sale or special offer, or they might be part of a decorative arrangement. The exact content of the boxes is not clear from the image, but they are likely related to the store's merchandise or promotional activities."}
+{"image_id": "418", "question_id": "418_q0003", "answer": "The shoe beside the white sneaker with the blue sole is black."}
+{"image_id": "418", "question_id": "418_q0004", "answer": "The person seated in the wheelchair with the large metal wheel has a bag resting on their lap."}
+{"image_id": "419", "question_id": "419_q0001", "answer": "The person in a black top is wearing black pants."}
+{"image_id": "420", "question_id": "420_q0001", "answer": "The person in the blue shirt looking down in the front audience row nearest the right-hand wall has black hair."}
+{"image_id": "420", "question_id": "420_q0002", "answer": "The main color of the projector on the tripod beside the front audience rows near the center-right of the hall is white."}
+{"image_id": "420", "question_id": "420_q0003", "answer": "The video camera on the tripod in the middle aisle of the audience is white."}
+{"image_id": "421", "question_id": "421_q0001", "answer": "The person in the red shirt is wearing black pants."}
+{"image_id": "421", "question_id": "421_q0002", "answer": "The lowest balloon attached to the left side of the nearer blue shop entrance is red."}
+{"image_id": "421", "question_id": "421_q0003", "answer": "The lowest balloon attached to the right side of the more distant blue shop entrance is red."}
+{"image_id": "422", "question_id": "422_q0001", "answer": "The person standing at the front of the seating tier is wearing a black shirt."}
+{"image_id": "422", "question_id": "422_q0002", "answer": "The person in the white cap is wearing a white shirt."}
+{"image_id": "422", "question_id": "422_q0003", "answer": "The person in the dark green shirt is wearing a white cap."}
+{"image_id": "423", "question_id": "423_q0001", "answer": "The person standing beneath the large pale umbrella beside the station entrance on the right is wearing a black tracksuit."}
+{"image_id": "423", "question_id": "423_q0002", "answer": "The main body color of the upright suitcase beside the person in the purple top near the left-middle aisle is black."}
+{"image_id": "423", "question_id": "423_q0003", "answer": "The person in the camouflage jacket is wearing a cap with a camouflage pattern. The camouflage pattern consists of a disruptive coloration designed to break up the outline of the wearer, making it difficult for others to discern the shape of the wearer's body. The pattern is typically composed of a mix of different shades and shapes, such as dots, lines, and irregular shapes, which blend together to create a visual disruption."}
+{"image_id": "424", "question_id": "424_q0001", "answer": "The person in the bright lime-green jacket is wearing a white cap."}
+{"image_id": "424", "question_id": "424_q0002", "answer": "The upright suitcase behind the person in the purple top is black."}
+{"image_id": "424", "question_id": "424_q0003", "answer": "The main color of the wristwatch on the left wrist of the person in the light gray T-shirt seated against the right-hand wall in the foreground is black."}
+{"image_id": "425", "question_id": "425_q0001", "answer": "The person walking away beside the vertical yellow-lit sign is wearing a black dress."}
+{"image_id": "425", "question_id": "425_q0002", "answer": "The person with their head down while crawling on the blue mat is wearing a white shirt."}
+{"image_id": "426", "question_id": "426_q0001", "answer": "The dark mark at the center of the gold medallion below the flagpole is a star."}
+{"image_id": "427", "question_id": "427_q0001", "answer": "The person walking alone toward the camera at the back end of the central aisle is wearing a black cap."}
+{"image_id": "427", "question_id": "427_q0002", "answer": "The upright suitcase beside the seats near the right side of the far end of the central aisle is black."}
+{"image_id": "427", "question_id": "427_q0003", "answer": "The older person in the foreground is wearing a white cap."}
+{"image_id": "428", "question_id": "428_q0001", "answer": "The person behind the blue display and beside the bald person in a dark suit is wearing a dark suit. The top of the suit is dark in color."}
+{"image_id": "428", "question_id": "428_q0002", "answer": "The device that is open on the desk in front of the bald person appears to be a laptop."}
+{"image_id": "429", "question_id": "429_q0001", "answer": "The person wearing a hooded garment in the image is facing away from the camera, so it's not possible to determine the color of the garment without more information."}
+{"image_id": "429", "question_id": "429_q0002", "answer": "The bright pink balloon near the upper-middle-right part of the crowd has a pattern of what appears to be a series of dots or small circles arranged in a circular or semi-circular pattern. The exact design or purpose of the pattern is not clear from the image alone."}
+{"image_id": "429", "question_id": "429_q0003", "answer": "The image-left balloon is blue."}
+{"image_id": "430", "question_id": "430_q0001", "answer": "The open umbrella overlapping the base of the pointed white tent is red."}
+{"image_id": "430", "question_id": "430_q0002", "answer": "The person in a white cap and sunglasses standing behind the metal guardrail is wearing red pants."}
+{"image_id": "431", "question_id": "431_q0001", "answer": "The person in the light blue hoodie is standing in front of a road sign that is pointing to the right. The sign is mounted on a pole and is part of a series of directional signs that are typically used to guide traffic. The person is also carrying a banner or flag on their back, which is a common sight at protests or demonstrations."}
+{"image_id": "432", "question_id": "432_q0001", "answer": "The person standing at the right end of the red stage is wearing white trousers."}
+{"image_id": "432", "question_id": "432_q0002", "answer": "The lectern on the empty left side of the red stage is black."}
+{"image_id": "432", "question_id": "432_q0003", "answer": "The right-hand loudspeaker on the table beneath the small red canopy on the left is black."}
+{"image_id": "433", "question_id": "433_q0001", "answer": "The man in the blue shirt is leaning over the upper balcony railing, but it's not possible to determine the color of his cap from the image provided. The cap could be any color, such as black, white, red, or any other color. If you have more information or a clearer image, I might be able to provide a more accurate answer."}
+{"image_id": "433", "question_id": "433_q0002", "answer": "The dome camera mounted on the concrete wall at the upper right of the lobby is black."}
+{"image_id": "434", "question_id": "434_q0001", "answer": "The officer with glasses is wearing a black cap."}
+{"image_id": "434", "question_id": "434_q0002", "answer": "The lantern hanging below the upper-floor balcony to the right of the central dark pole is red."}
+{"image_id": "434", "question_id": "434_q0003", "answer": "The main color of the shopping bag carried by the older person in the black coat and black fedora walking toward the camera in the central aisle is red."}
+{"image_id": "435", "question_id": "435_q0001", "answer": "The small emblem on the knit beanie of the man in the maroon jacket walking along the top of the left concrete wall is red."}
+{"image_id": "435", "question_id": "435_q0002", "answer": "The image shows a large crowd of people gathered on a street below an overpass. There is a railing on the upper right side of the overpass, and it appears that there is a banner or sign hanging over the railing. However, due to the angle and the distance, it's difficult to make out the exact content of the banner or sign. It could be a political message, a promotional banner, or something else entirely. If you have more context or a clearer image, I might be able to provide more information."}
+{"image_id": "436", "question_id": "436_q0001", "answer": "The man in the dark blue T-shirt is wearing a wide-brimmed hat, but the image does not provide enough detail to determine the exact color of the hat. It could be a variety of colors, such as black, dark blue, navy blue, or even a shade of brown or gray."}
+{"image_id": "436", "question_id": "436_q0002", "answer": "The man standing behind the round wooden table on the right side of the hall is wearing a white cap."}
+{"image_id": "437", "question_id": "437_q0001", "answer": "The person in the blue denim jacket and yellow-striped shirt is wearing black shorts."}
+{"image_id": "437", "question_id": "437_q0002", "answer": "The person with a white tag on the chest is wearing a sleeveless top, but it's not possible to determine the exact color of the top from the image. The person is holding up a red sign, but the color of the sign is not visible in the image."}
+{"image_id": "437", "question_id": "437_q0003", "answer": "The person in the pink top and white sneakers is wearing a backpack that is red in color."}
+{"image_id": "437", "question_id": "437_q0004", "answer": "The object with a blue cap that stands on the small desk right of the person in the gray shirt is a microphone."}
+{"image_id": "438", "question_id": "438_q0001", "answer": "The spectator seated in the front row immediately to the left of the basketball backboard support is wearing a white shirt."}
+{"image_id": "438", "question_id": "438_q0002", "answer": "The net hanging from the basketball hoop on the right side of the court is white."}
+{"image_id": "438", "question_id": "438_q0003", "answer": "The video camera held by the photographer in the lower-left corner beside the court is black and silver."}
+{"image_id": "439", "question_id": "439_q0001", "answer": "The person standing alone immediately to the right of the group of three staff on the grass at the near end of the field is wearing a red shirt."}
+{"image_id": "439", "question_id": "439_q0002", "answer": "The side walls of the raised platform on the right sideline near the end of the field are gray."}
+{"image_id": "440", "question_id": "440_q0001", "answer": "The person in dark shorts is wearing a white shirt."}
+{"image_id": "440", "question_id": "440_q0002", "answer": "The person carrying the small black crossbody bag is wearing black pants."}
+{"image_id": "440", "question_id": "440_q0003", "answer": "The paper shopping bag carried in front by the person in the black top and light jeans is blue."}
+{"image_id": "441", "question_id": "441_q0001", "answer": "The coat worn by the person in the isolated pair near the left side of the frozen lake, closest to the foreground, is red."}
+{"image_id": "441", "question_id": "441_q0002", "answer": "The person in the orange jacket is wearing a black hat."}
+{"image_id": "441", "question_id": "441_q0003", "answer": "The bag visible immediately to the right of the person in the orange jacket on the near snowy bank is black."}
+{"image_id": "442", "question_id": "442_q0001", "answer": "The person with the dark cross-body strap standing beside the glass divider near the left side of the shop entrance is wearing a white shirt."}
+{"image_id": "442", "question_id": "442_q0002", "answer": "The shoulder bag carried by the person in the white top is black."}
+{"image_id": "442", "question_id": "442_q0003", "answer": "The shopping bag carried by the person in the green top behind the glass divider near the middle-left of the entrance is white."}
+{"image_id": "443", "question_id": "443_q0001", "answer": "The man in the red T-shirt is wearing a white wristband."}
+{"image_id": "443", "question_id": "443_q0002", "answer": "The cap of the person directly in front of the man in the yellow jacket is white."}
+{"image_id": "444", "question_id": "444_q0001", "answer": "The person beneath the small pink parasol on the left side of the distant path through the central arch is wearing a white top."}
+{"image_id": "444", "question_id": "444_q0002", "answer": "The gray middle panel of the small umbrella above the orange-shirted person has a floral pattern."}
+{"image_id": "444", "question_id": "444_q0003", "answer": "The person in the pink patterned top is carrying a shoulder bag, but the color of the bag is not clearly visible in the image."}
+{"image_id": "445", "question_id": "445_q0001", "answer": "The seated musician on the stage at the right is wearing a hat on his head."}
+{"image_id": "445", "question_id": "445_q0002", "answer": "The man in the gray T-shirt is wearing a wristband that is blue and white."}
+{"image_id": "446", "question_id": "446_q0001", "answer": "The person in the dark cap is wearing a band with a pattern that appears to be a series of horizontal stripes or lines. The exact color of the stripes is not clear due to the angle and lighting in the image, but they seem to be a darker shade than the cap itself."}
+{"image_id": "446", "question_id": "446_q0002", "answer": "The brass horn hanging down next to the white trousers of the person in the dark blue sailor jacket with a black bag at the hip is yellow."}
+{"image_id": "446", "question_id": "446_q0003", "answer": "The person with the black backpack strap on the shoulder is wearing a white brimmed hat."}
+{"image_id": "446", "question_id": "446_q0004", "answer": "The cartoon cat balloon floating beside the blue square sign is green."}
+{"image_id": "447", "question_id": "447_q0001", "answer": "The person in the open light jacket with a black backpack is wearing a yellow T-shirt."}
+{"image_id": "447", "question_id": "447_q0002", "answer": "The left half of the light bar on the roof of the white cart is red."}
+{"image_id": "448", "question_id": "448_q0001", "answer": "The red cup is sitting on the wooden railing in the shape of a triangle."}
+{"image_id": "449", "question_id": "449_q0001", "answer": "The shopping bag with a ring of pink flowers is pink."}
+{"image_id": "449", "question_id": "449_q0002", "answer": "The center of the round sign with a red X, hanging below the white sign with a red double arrow, is red."}
+{"image_id": "449", "question_id": "449_q0003", "answer": "The hood of the person right of the bright pink umbrella and left of the white baseball cap is black."}
+{"image_id": "450", "question_id": "450_q0001", "answer": "The outfielder standing on the grass closest to the center-field wall is wearing a black glove."}
+{"image_id": "450", "question_id": "450_q0002", "answer": "The outfielder standing on the grass nearest the camera in left-center field is wearing a black glove."}
+{"image_id": "451", "question_id": "451_q0001", "answer": "The person near the green, red, and yellow umbrella is wearing a shirt with a pattern that appears to be a mix of geometric shapes and possibly some floral or abstract designs. The exact pattern is not entirely clear due to the angle and the distance, but it seems to be a combination of different shapes and colors."}
+{"image_id": "451", "question_id": "451_q0002", "answer": "The person in the white printed T-shirt is wearing a white hat."}
+{"image_id": "451", "question_id": "451_q0003", "answer": "The person in the pink collared shirt is wearing a pair of sunglasses over their eyes."}
+{"image_id": "452", "question_id": "452_q0001", "answer": "The person with sunglasses and crossed arms is wearing a shirt with a checkered pattern."}
+{"image_id": "452", "question_id": "452_q0002", "answer": "The person in the red-and-blue jersey is wearing a face mask. The mask is designed to cover the nose and mouth, which is a common practice in public spaces to help prevent the spread of respiratory illnesses."}
+{"image_id": "452", "question_id": "452_q0003", "answer": "The flag attached to the thin wooden pole has a checkered pattern."}
+{"image_id": "453", "question_id": "453_q0001", "answer": "The man in the bright green shirt is wearing black shoes."}
+{"image_id": "454", "question_id": "454_q0001", "answer": "The person in the blue top is wearing pink shorts as they walk in the open aisle near the rear center of the exhibition floor."}
+{"image_id": "454", "question_id": "454_q0002", "answer": "The badge hanging from the lanyard of the person in the blue top and black shorts in the rear central aisle is white."}
+{"image_id": "454", "question_id": "454_q0003", "answer": "The person in black is wearing a black backpack."}
+{"image_id": "455", "question_id": "455_q0001", "answer": "The person in the image on the left is wearing a white outer garment."}
+{"image_id": "455", "question_id": "455_q0002", "answer": "The analog clock mounted above the tall information column near the right-center of the hall has black hands."}
+{"image_id": "455", "question_id": "455_q0003", "answer": "The backpack worn by the person in the white polo shirt facing right near the foreground end of the central aisle is black."}
+{"image_id": "456", "question_id": "456_q0001", "answer": "The person holding the phone to their ear is wearing a white top."}
+{"image_id": "456", "question_id": "456_q0002", "answer": "The taller suitcase beneath the smaller case near the back-right seating row is blue."}
+{"image_id": "456", "question_id": "456_q0003", "answer": "The upright suitcase with the extended handle beside the person in the light pink top near the upper-middle aisle is blue."}
+{"image_id": "457", "question_id": "457_q0001", "answer": "The person holding a white hat in the group near the far end of the left viewing pier is wearing a red top."}
+{"image_id": "457", "question_id": "457_q0002", "answer": "The person in the white shirt is wearing a cap with a red and white checkered pattern."}
+{"image_id": "457", "question_id": "457_q0003", "answer": "The person in the pink top is carrying a shoulder bag, but the color of the bag is not clearly visible in the image."}
+{"image_id": "458", "question_id": "458_q0001", "answer": "The person in the blue jacket sitting in the toy car is wearing a helmet."}
+{"image_id": "458", "question_id": "458_q0002", "answer": "The image shows a toy car with a red steering wheel, but there is no visible drawing or text on the front of the car. The car appears to be a model or a decorative item, possibly part of a display or exhibit."}
+{"image_id": "458", "question_id": "458_q0003", "answer": "The frame of the board standing between the blue board and the green board is white."}
+{"image_id": "458", "question_id": "458_q0004", "answer": "The person with a white fur collar is wearing a black coat."}
+{"image_id": "459", "question_id": "459_q0001", "answer": "The person in the pale shirt walking immediately behind the lavender umbrella on the right side of the middle courtyard is wearing black pants."}
+{"image_id": "459", "question_id": "459_q0002", "answer": "The canopy of the open umbrella immediately to the right of the dark information sign in the middle of the courtyard is purple."}
+{"image_id": "459", "question_id": "459_q0003", "answer": "The canopy of the open umbrella immediately to the right of the purple umbrella in the middle of the courtyard is green."}
+{"image_id": "460", "question_id": "460_q0001", "answer": "The strip on the left side of the multicolored backpack worn by the person with a yellow shoulder strap is red."}
+{"image_id": "460", "question_id": "460_q0002", "answer": "The person in the yellow top and light blue long skirt is carrying a backpack on their shoulder."}
+{"image_id": "460", "question_id": "460_q0003", "answer": "The person carrying a bag on the shoulder and wearing a light blue long skirt is wearing a white top."}
+{"image_id": "461", "question_id": "461_q0001", "answer": "The hooded raincoat worn by the person with glasses and the blue hat is red."}
+{"image_id": "461", "question_id": "461_q0002", "answer": "The shallow water scoop held by the person in the dark gray T-shirt and beige shorts near the upper-middle bank is pink."}
+{"image_id": "461", "question_id": "461_q0003", "answer": "The long barrels of the water gun held by the small child in the pink hooded raincoat near the upper-left bank are blue."}
+{"image_id": "462", "question_id": "462_q0001", "answer": "The bass player in the red shirt is wearing a black cap."}
+{"image_id": "462", "question_id": "462_q0002", "answer": "The guitarist in the gray checkered shirt is wearing a black brimmed hat."}
+{"image_id": "463", "question_id": "463_q0001", "answer": "The person walking alone along the central aisle toward the stage is wearing a jacket with shoulder panels that are a dark color, possibly black or dark gray."}
+{"image_id": "463", "question_id": "463_q0002", "answer": "The person nearest the camera in the central aisle is wearing a cap with a design that includes multiple colors. However, due to the angle and the lighting conditions, it's difficult to provide a precise color description. The cap features a combination of dark and light colors, with some areas that appear to be a mix of red, blue, and possibly yellow or green. The exact colors would require a clearer image or a description of the colors in the design."}
+{"image_id": "463", "question_id": "463_q0003", "answer": "The main color of the handheld device raised by the spectator in the image-left of the spectator in the black baseball cap near the front-right crowd is white."}
+{"image_id": "464", "question_id": "464_q0001", "answer": "The officer in the high-visibility yellow jacket is wearing a helmet, but it's not possible to determine the color of the helmet from the image provided. The helmet could be any color, and without a clear view of the helmet, it's not possible to provide an accurate description of its color."}
+{"image_id": "464", "question_id": "464_q0002", "answer": "The person in the neon yellow-green jacket is wearing a red hat."}
+{"image_id": "465", "question_id": "465_q0001", "answer": "The person standing at the upper end of the right-hand stair aisle between the blocks of yellow-shirted spectators is wearing a white shirt."}
+{"image_id": "465", "question_id": "465_q0002", "answer": "The net hanging from the basketball hoop near the center of the court is red."}
+{"image_id": "465", "question_id": "465_q0003", "answer": "The main color of the housing of the rightmost spotlight hanging from the horizontal lighting truss above the court is yellow."}
+{"image_id": "466", "question_id": "466_q0001", "answer": "The person in the gray uniform is wearing a white cap."}
+{"image_id": "466", "question_id": "466_q0002", "answer": "The person in the gray uniform and white cap is holding a long handle that is green in color."}
+{"image_id": "466", "question_id": "466_q0003", "answer": "The projecting drain spout near the upper-right side of the black cuboid building is gold in color."}
+{"image_id": "467", "question_id": "467_q0001", "answer": "The person in the dark cap is wearing a red jacket."}
+{"image_id": "467", "question_id": "467_q0002", "answer": "The person in the dark cap standing next to the white banner is wearing a pair of sunglasses over their eyes."}
+{"image_id": "467", "question_id": "467_q0003", "answer": "The helmet on the backpack of the person with both arms raised is red."}
+{"image_id": "467", "question_id": "467_q0004", "answer": "The person in the gray hooded jacket is holding a banner at their chest. The banner appears to be in Spanish and includes the word \"EDUCACION\" which means \"EDUCATION.\""}
+{"image_id": "467", "question_id": "467_q0005", "answer": "The person crouching left of the smiling person in the white tank top is wearing a red cap."}
+{"image_id": "468", "question_id": "468_q0001", "answer": "The man holding the large red flag is wearing a yellow jacket."}
+{"image_id": "469", "question_id": "469_q0001", "answer": "The cow standing alone diagonally below-left of the white truck in the middle distance is black."}
+{"image_id": "469", "question_id": "469_q0002", "answer": "The person closest to the image on the left side of the black horse is wearing black pants."}
+{"image_id": "470", "question_id": "470_q0001", "answer": "The red-and-white umbrella near the bottom edge of the image is located to the right of the large red-and-black umbrella."}
+{"image_id": "471", "question_id": "471_q0001", "answer": "The passenger on the right side of the cycle rickshaw is wearing a pink headscarf."}
+{"image_id": "471", "question_id": "471_q0002", "answer": "The market umbrella just below the dark-blue sign is white."}
+{"image_id": "471", "question_id": "471_q0003", "answer": "The person in the white shirt and jeans is carrying a black bag."}
+{"image_id": "472", "question_id": "472_q0001", "answer": "The cyclist in the sleeveless burgundy top is wearing a crossbody bag, but without more specific details, it's not possible to determine the exact color of the bag."}
+{"image_id": "472", "question_id": "472_q0002", "answer": "The cyclist with the purple crossbody bag is wearing a red head covering."}
+{"image_id": "472", "question_id": "472_q0003", "answer": "The bicycle in the image has a front rack, which is a common accessory for carrying items while cycling. The cyclist in the burgundy top and red head covering is riding the bicycle with the front rack attached."}
+{"image_id": "473", "question_id": "473_q0001", "answer": "The person in the narrow wooden boat with a long pole has gray hair."}
+{"image_id": "473", "question_id": "473_q0002", "answer": "The person in the navy jacket is wearing a head wrap that is blue in color."}
+{"image_id": "473", "question_id": "473_q0003", "answer": "The round ring hanging on the side of the narrow yellow boat with a purple top rim is red."}
+{"image_id": "474", "question_id": "474_q0001", "answer": "The white panel with the red no-entry symbol next to the yellow and green taxi is rectangular in shape."}
+{"image_id": "474", "question_id": "474_q0002", "answer": "The person in a white top is wearing a black hat."}
+{"image_id": "475", "question_id": "475_q0001", "answer": "The person standing between the blue-gray hatchback and the silver hatchback is wearing a white shirt."}
+{"image_id": "475", "question_id": "475_q0002", "answer": "The person in front of the wooden booth is wearing a yellow jacket."}
+{"image_id": "476", "question_id": "476_q0001", "answer": "The person near the streetlight pole with a blue base is wearing a dark-colored jacket. The exact color of the jacket is not clear from the image, but it appears to be dark in color."}
+{"image_id": "476", "question_id": "476_q0002", "answer": "The sign with a camera symbol on a pole next to the white box truck is blue."}
+{"image_id": "476", "question_id": "476_q0003", "answer": "The cargo box of the large truck at the end of the traffic jam is white."}
+{"image_id": "477", "question_id": "477_q0001", "answer": "The roof of the car parked between the dark blue hatchback and the silver sedan in the row nearest the white building with solar panels is black."}
+{"image_id": "477", "question_id": "477_q0002", "answer": "The small square parking sign on a post beside the dark tree, left of the white van parked by the fence, is red."}
+{"image_id": "478", "question_id": "478_q0001", "answer": "The circle around the crossed-out arrow on the white square sign is red."}
+{"image_id": "478", "question_id": "478_q0002", "answer": "The taillights of the yellow-and-blue car at the near end of the parked row are red."}
+{"image_id": "479", "question_id": "479_q0001", "answer": "The tail lights of the dark sedan on the curving exit ramp are red."}
+{"image_id": "479", "question_id": "479_q0002", "answer": "The arrows on the yellow diamond sign are red."}
+{"image_id": "480", "question_id": "480_q0001", "answer": "The yellow sign with a dark arrow, standing on blue bases next to the lamp post carrying two white banners, is in the shape of an arrowhead."}
+{"image_id": "480", "question_id": "480_q0002", "answer": "The vehicle in the image is a white car with a dark front bumper. It appears to be driving towards the camera, passing by the median barrier and approaching a lamp post with a yellow sign at its base."}
+{"image_id": "481", "question_id": "481_q0001", "answer": "The dark vehicle with red tail lights is a car. It appears to be a sedan or hatchback, but without more specific details, it's difficult to determine the exact make and model."}
+{"image_id": "481", "question_id": "481_q0002", "answer": "The silver vehicle in the image appears to be a train. It's on a track that is elevated above the road, suggesting that it's part of a railway system. The train is passing over the road, which is a common feature in urban areas where railways and roads are integrated to minimize land use and facilitate transportation."}
+{"image_id": "482", "question_id": "482_q0001", "answer": "The sedan in the same lane directly behind the dark green box truck with white lettering on its cargo doors is black."}
+{"image_id": "482", "question_id": "482_q0002", "answer": "The arrow on the blue overpass sign with a small icon in its top-left corner is pointing to the right."}
+{"image_id": "483", "question_id": "483_q0001", "answer": "The image you've provided is an aerial view of a busy intersection, and it's not possible to determine the color of the glass roof panel of the white car from this angle. The colors of the car's roof panel would be visible from a ground-level perspective, but from an aerial view, it would appear as a uniform color without any distinguishable features."}
+{"image_id": "483", "question_id": "483_q0002", "answer": "The car with silver roof rails stopped between a white car and the yellow bus at the crosswalk is white."}
+{"image_id": "483", "question_id": "483_q0003", "answer": "The car queued in the yellow bus's lane behind the bus at the crosswalk is white."}
+{"image_id": "484", "question_id": "484_q0001", "answer": "The roof of the car directly left of the yellow bus with a round white roof vent and three dark roof dots is black."}
+{"image_id": "484", "question_id": "484_q0002", "answer": "The car directly right of the yellow bus with a round white roof vent and three dark roof dots is white."}
+{"image_id": "485", "question_id": "485_q0001", "answer": "The car waiting at the stop line beside the red bike lane is white."}
+{"image_id": "485", "question_id": "485_q0002", "answer": "The cab of the small truck with a white logo is red."}
+{"image_id": "485", "question_id": "485_q0003", "answer": "The long box truck with a teal stripe on top is blue."}
+{"image_id": "486", "question_id": "486_q0001", "answer": "The dark vehicle with roof rails and a glass roof is a minivan. It's positioned in the lane next to the green bus with three black dots, which is a transit bus."}
+{"image_id": "486", "question_id": "486_q0002", "answer": "The planting bed with a red-leaved shrub touching its edge near the red bench and the long white curved canopy is shaped like a rectangle."}
+{"image_id": "487", "question_id": "487_q0001", "answer": "The car between the burgundy car and the black car is white."}
+{"image_id": "487", "question_id": "487_q0002", "answer": "The car with a gray glass roof panel, stopped beside a white lane arrow, is white."}
+{"image_id": "488", "question_id": "488_q0001", "answer": "The long bus next to the streetlight with a blue base is white."}
+{"image_id": "488", "question_id": "488_q0002", "answer": "The car between the truck with a green bed and blue cab and the curved yellow line is white."}
+{"image_id": "488", "question_id": "488_q0003", "answer": "The rear lights of the dark car in front of the blue bus with three black dots on its white roof panel are red."}
+{"image_id": "489", "question_id": "489_q0001", "answer": "The car beside the white hatchback with roof rails and next to the white flatbed truck with a dirt-filled bed is black."}
+{"image_id": "489", "question_id": "489_q0002", "answer": "The sedan stopped at the stop line between the yellow car and the dark car in the next lane is white."}
+{"image_id": "489", "question_id": "489_q0003", "answer": "The roof of the car stopped at the stop line under the blue-signed arm of the gray pole is black."}
+{"image_id": "490", "question_id": "490_q0001", "answer": "The compact vehicle stopped in front of the long yellow bus is black."}
+{"image_id": "490", "question_id": "490_q0002", "answer": "The cargo box of the truck queued right behind the small truck with a green and cream rear panel is yellow."}
+{"image_id": "491", "question_id": "491_q0001", "answer": "The small car between the black sedan and the white wagon is white."}
+{"image_id": "491", "question_id": "491_q0002", "answer": "The black vehicle with silver roof rails is a station wagon."}
+{"image_id": "492", "question_id": "492_q0001", "answer": "The two round fans on the white roof unit of the small pale bus are red."}
+{"image_id": "492", "question_id": "492_q0002", "answer": "The white vehicle with silver roof rails and a dark glass roof is a Mercedes-Benz Citaro G bus. It's a type of bus that is commonly used for public transportation in many cities around the world."}
+{"image_id": "493", "question_id": "493_q0001", "answer": "The blue vehicle with silver roof rails is a car. It is stopped in the same lane behind the white van that has an orange-and-green rear end."}
+{"image_id": "493", "question_id": "493_q0002", "answer": "The car in the same lane just right of the silver car with a dark glass roof panel is white."}
+{"image_id": "494", "question_id": "494_q0001", "answer": "The small bus with two round vents on its roof is white."}
+{"image_id": "494", "question_id": "494_q0002", "answer": "The compact car in the same lane as the dark car, one lane over from the silver car and to the right of the small yellow bus, is white."}
+{"image_id": "495", "question_id": "495_q0001", "answer": "The roof of the long vehicle next to the dark vehicle with a ladder on its roof is red."}
+{"image_id": "495", "question_id": "495_q0002", "answer": "The dots on the white roof panel of the blue bus are red."}
+{"image_id": "495", "question_id": "495_q0003", "answer": "The image shows a vehicle driving in the curb lane just ahead of a bus with a pink roof and a white five-dot panel. However, due to the angle and the distance, it's difficult to determine the exact type of vehicle. It could be a car, a truck, or a motorcycle, among other possibilities. The vehicle appears to be in motion, and its specific make and model are not clearly visible."}
+{"image_id": "496", "question_id": "496_q0001", "answer": "The white vehicle in the lane beside the white U-turn arrow marking is a car."}
+{"image_id": "496", "question_id": "496_q0002", "answer": "The car stopped in the lane of the long blue bus with a white roof panel is red."}
+{"image_id": "497", "question_id": "497_q0001", "answer": "The sedan in the lane beside the turquoise cement mixer truck is white."}
+{"image_id": "497", "question_id": "497_q0002", "answer": "The cab of the small truck carrying a red item is white."}
+{"image_id": "498", "question_id": "498_q0001", "answer": "The car in the next lane over from the pale yellow bus, beside the white straight arrow, with a white hatchback in the lane after it, is white."}
+{"image_id": "498", "question_id": "498_q0002", "answer": "The vehicle with the long pale yellow body and a round white roof vent is a bus. It is positioned on the right side of the road, next to the double yellow line, and is traveling in the same direction as the other vehicles."}
+{"image_id": "499", "question_id": "499_q0001", "answer": "The small boxy car behind the white sedan and alongside the long black SUV is white."}
+{"image_id": "499", "question_id": "499_q0002", "answer": "The white vehicle in front of the small lime-green car is a taxi cab."}
+{"image_id": "500", "question_id": "500_q0001", "answer": "The image you've provided appears to be an aerial view of a busy intersection. However, due to the angle and the complexity of the scene, it's difficult to accurately identify specific vehicles and their actions. The blue vehicle is stopped at a traffic light, and the white bus with a cyan front and black dots on its roof is also stopped, likely at the same traffic light. The other vehicles are also stopped, waiting for the traffic light to change."}
+{"image_id": "500", "question_id": "500_q0002", "answer": "The white vehicle at the end of the parked row closest to the orange crane truck is a car."}

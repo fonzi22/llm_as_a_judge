@@ -1,0 +1,4505 @@
+[
+ {
+  "question_id": "000_q0001",
+  "image_id": "000",
+  "question": "What color is the car immediately diagonally below-right of the car with the long dark roof panel at the front of the uppermost queue on the right side of the intersection?",
+  "question_type": "Spatial",
+  "density_category": "vehicle",
+  "gt_answer": "Yellow.",
+  "pred_answer": "Black",
+  "pred_bbox_xyxy": [
+   3529,
+   1047,
+   3628,
+   1080
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "000_q0002",
+  "image_id": "000",
+  "question": "What shape is the small dark sunroof on the white car diagonally above and to the left of the cement mixer in the left-hand queue?",
+  "question_type": "Spatial",
+  "density_category": "vehicle",
+  "gt_answer": "Rectangular.",
+  "pred_answer": "Uncertain",
+  "pred_bbox_xyxy": [
+   2885,
+   1152,
+   2896,
+   1169
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "001_q0001",
+  "image_id": "001",
+  "question": "What color is the car immediately to the left of the white sedan, with a blue-roofed vehicle on the other side of that sedan, on the bottom approach to the intersection?",
+  "question_type": "Spatial",
+  "density_category": "vehicle",
+  "gt_answer": "Red.",
+  "pred_answer": "Black",
+  "pred_bbox_xyxy": [
+   3050,
+   1470,
+   3090,
+   1510
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "001_q0002",
+  "image_id": "001",
+  "question": "What shape is the dark roof panel on the white car immediately above the yellow cab of the lower cement mixer in the left-hand queue?",
+  "question_type": "Spatial",
+  "density_category": "vehicle",
+  "gt_answer": "Rectangular.",
+  "pred_answer": "Rectangular",
+  "pred_bbox_xyxy": [
+   98,
+   390,
+   148,
+   405
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "002_q0001",
+  "image_id": "002",
+  "question": "What color is the car immediately to the left of the white van stopped on the bottom approach to the intersection?",
+  "question_type": "Spatial",
+  "density_category": "vehicle",
+  "gt_answer": "Red.",
+  "pred_answer": "Black",
+  "pred_bbox_xyxy": [
+   1076,
+   1131,
+   1166,
+   1171
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "002_q0002",
+  "image_id": "002",
+  "question": "What color is the car immediately to the left of the green bus in the left-hand queue?",
+  "question_type": "Spatial",
+  "density_category": "vehicle",
+  "gt_answer": "White.",
+  "pred_answer": "Black",
+  "pred_bbox_xyxy": [
+   1263,
+   1136,
+   1320,
+   1188
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "003_q0001",
+  "image_id": "003",
+  "question": "What color is the car diagonally below and to the left of the turquoise cement mixer in the right-hand queue?",
+  "question_type": "Spatial",
+  "density_category": "vehicle",
+  "gt_answer": "Dark blue.",
+  "pred_answer": "White",
+  "pred_bbox_xyxy": [
+   3150,
+   674,
+   3219,
+   690
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "003_q0002",
+  "image_id": "003",
+  "question": "What color is the car diagonally below and to the left of the white car at the front of the lowest full queue on the right side of the intersection?",
+  "question_type": "Spatial",
+  "density_category": "vehicle",
+  "gt_answer": "Red.",
+  "pred_answer": "Black",
+  "pred_bbox_xyxy": [
+   3633,
+   780,
+   3729,
+   808
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "004_q0001",
+  "image_id": "004",
+  "question": "What color is the car immediately to the left of the red car on the bottom approach to the intersection?",
+  "question_type": "Spatial",
+  "density_category": "vehicle",
+  "gt_answer": "Blue.",
+  "pred_answer": "Black",
+  "pred_bbox_xyxy": [
+   2027,
+   1817,
+   2064,
+   1912
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "004_q0002",
+  "image_id": "004",
+  "question": "What color is the car immediately to the right of the black van above the red car on the bottom approach?",
+  "question_type": "Spatial",
+  "density_category": "vehicle",
+  "gt_answer": "Silver.",
+  "pred_answer": "White",
+  "pred_bbox_xyxy": [
+   2693,
+   1171,
+   2790,
+   1221
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "005_q0001",
+  "image_id": "005",
+  "question": "What color is the car immediately to the left of the upper yellow bus on the bottom approach to the intersection?",
+  "question_type": "Spatial",
+  "density_category": "vehicle",
+  "gt_answer": "White.",
+  "pred_answer": "White",
+  "pred_bbox_xyxy": [
+   2160,
+   1612,
+   2182,
+   1793
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "005_q0002",
+  "image_id": "005",
+  "question": "What color is the car immediately to the image-right of the rear end of the lower yellow bus on the bottom approach to the intersection?",
+  "question_type": "Spatial",
+  "density_category": "vehicle",
+  "gt_answer": "White.",
+  "pred_answer": "",
+  "pred_bbox_xyxy": null,
+  "status": "complete"
+ },
+ {
+  "question_id": "006_q0001",
+  "image_id": "006",
+  "question": "What color is the car immediately to the left of the cement mixer on the bottom approach to the intersection?",
+  "question_type": "Spatial",
+  "density_category": "vehicle",
+  "gt_answer": "Silver-gray.",
+  "pred_answer": "White",
+  "pred_bbox_xyxy": [
+   146,
+   1080,
+   304,
+   1095
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "006_q0002",
+  "image_id": "006",
+  "question": "What color is the car immediately to the right of the cement mixer on the bottom approach to the intersection?",
+  "question_type": "Spatial",
+  "density_category": "vehicle",
+  "gt_answer": "White.",
+  "pred_answer": "White",
+  "pred_bbox_xyxy": [
+   146,
+   1080,
+   304,
+   1095
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "007_q0001",
+  "image_id": "007",
+  "question": "What color is the car diagonally below and to the left of the green-cab cement mixer in the intersection?",
+  "question_type": "Spatial",
+  "density_category": "vehicle",
+  "gt_answer": "White.",
+  "pred_answer": "",
+  "pred_bbox_xyxy": null,
+  "status": "complete"
+ },
+ {
+  "question_id": "007_q0002",
+  "image_id": "007",
+  "question": "What shape is the rear cargo bed of the pickup immediately above the turquoise cement mixer on the right-hand approach?",
+  "question_type": "Spatial",
+  "density_category": "vehicle",
+  "gt_answer": "Rectangular.",
+  "pred_answer": "Uncertain",
+  "pred_bbox_xyxy": [
+   826,
+   1091,
+   932,
+   1129
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "008_q0001",
+  "image_id": "008",
+  "question": "What color is the shirt of the person sitting on the blue stool while holding a black phone to their face?",
+  "question_type": "Relation",
+  "density_category": "people",
+  "gt_answer": "blue",
+  "pred_answer": "Blue",
+  "pred_bbox_xyxy": [
+   2019,
+   2178,
+   2141,
+   2460
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "008_q0002",
+  "image_id": "008",
+  "question": "What object is held at the chest by the person in the yellow T-shirt who also has a yellow handbag and a white name tag?",
+  "question_type": "Relation",
+  "density_category": "people",
+  "gt_answer": "phone",
+  "pred_answer": "A phone",
+  "pred_bbox_xyxy": [
+   2567,
+   2107,
+   2725,
+   2640
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "008_q0003",
+  "image_id": "008",
+  "question": "What color is the white-handled bag beside the person in the pink checked shirt with the black shoulder strap?",
+  "question_type": "Spatial",
+  "density_category": "people",
+  "gt_answer": "blue",
+  "pred_answer": "Blue",
+  "pred_bbox_xyxy": [
+   2973,
+   2101,
+   3051,
+   2208
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "009_q0001",
+  "image_id": "009",
+  "question": "What color is the car immediately to the left of the gold bus on the top approach to the intersection?",
+  "question_type": "Spatial",
+  "density_category": "vehicle",
+  "gt_answer": "Black.",
+  "pred_answer": "White",
+  "pred_bbox_xyxy": [
+   2016,
+   280,
+   2095,
+   428
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "009_q0002",
+  "image_id": "009",
+  "question": "What color is the minibus diagonally above-left of the gold bus and directly above the white car on the top approach?",
+  "question_type": "Spatial",
+  "density_category": "vehicle",
+  "gt_answer": "Yellow.",
+  "pred_answer": "Yellow",
+  "pred_bbox_xyxy": [
+   2015,
+   280,
+   2095,
+   427
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "010_q0001",
+  "image_id": "010",
+  "question": "What color is the car immediately below the rear end of the left orange bus near the crossing?",
+  "question_type": "Spatial",
+  "density_category": "vehicle",
+  "gt_answer": "White.",
+  "pred_answer": "Black",
+  "pred_bbox_xyxy": [
+   1981,
+   634,
+   2213,
+   660
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "010_q0002",
+  "image_id": "010",
+  "question": "What color is the car immediately below and to the left of the right orange bus?",
+  "question_type": "Spatial",
+  "density_category": "vehicle",
+  "gt_answer": "Black.",
+  "pred_answer": "White",
+  "pred_bbox_xyxy": [
+   2421,
+   810,
+   2475,
+   843
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "011_q0001",
+  "image_id": "011",
+  "question": "What color is the car immediately to the right of the green-cab cement mixer in the upper traffic queue?",
+  "question_type": "Spatial",
+  "density_category": "vehicle",
+  "gt_answer": "White.",
+  "pred_answer": "White",
+  "pred_bbox_xyxy": [
+   1966,
+   1211,
+   1980,
+   1258
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "011_q0002",
+  "image_id": "011",
+  "question": "What color is the car immediately to the left of the gray car beneath the turquoise pickup in the upper traffic queue?",
+  "question_type": "Spatial",
+  "density_category": "vehicle",
+  "gt_answer": "Red.",
+  "pred_answer": "White",
+  "pred_bbox_xyxy": [
+   2850,
+   931,
+   2947,
+   972
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "012_q0001",
+  "image_id": "012",
+  "question": "What color is the car immediately below the yellow bus in the intersection?",
+  "question_type": "Spatial",
+  "density_category": "vehicle",
+  "gt_answer": "Red.",
+  "pred_answer": "White",
+  "pred_bbox_xyxy": [
+   2043,
+   1009,
+   2111,
+   1091
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "012_q0002",
+  "image_id": "012",
+  "question": "What color is the car immediately to the right of the turquoise-cab cement mixer on the bottom approach?",
+  "question_type": "Spatial",
+  "density_category": "vehicle",
+  "gt_answer": "Black.",
+  "pred_answer": "White",
+  "pred_bbox_xyxy": [
+   2781,
+   1089,
+   2874,
+   1128
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "013_q0001",
+  "image_id": "013",
+  "question": "What color is the car diagonally below and to the right of the cab of the red-cab flatbed truck in the left-hand queue?",
+  "question_type": "Spatial",
+  "density_category": "vehicle",
+  "gt_answer": "Dark blue.",
+  "pred_answer": "White",
+  "pred_bbox_xyxy": [
+   675,
+   1197,
+   738,
+   1248
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "013_q0002",
+  "image_id": "013",
+  "question": "What color is the car immediately to the left of the green bus in the right-hand queue?",
+  "question_type": "Spatial",
+  "density_category": "vehicle",
+  "gt_answer": "Black.",
+  "pred_answer": "White",
+  "pred_bbox_xyxy": [
+   2973,
+   857,
+   3000,
+   907
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "014_q0001",
+  "image_id": "014",
+  "question": "What color is the car immediately to the left of the blue bus near the front of the bottom queue?",
+  "question_type": "Spatial",
+  "density_category": "vehicle",
+  "gt_answer": "White.",
+  "pred_answer": "Green",
+  "pred_bbox_xyxy": [
+   2471,
+   1620,
+   2527,
+   1678
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "014_q0002",
+  "image_id": "014",
+  "question": "What color is the vehicle immediately to the right of the blue bus near the front of the bottom queue?",
+  "question_type": "Spatial",
+  "density_category": "vehicle",
+  "gt_answer": "Black.",
+  "pred_answer": "Black",
+  "pred_bbox_xyxy": [
+   2532,
+   1700,
+   2576,
+   1797
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "015_q0001",
+  "image_id": "015",
+  "question": "What color is the cargo bed of the pickup diagonally above and to the left of the turquoise car on the bottom approach?",
+  "question_type": "Spatial",
+  "density_category": "vehicle",
+  "gt_answer": "Red.",
+  "pred_answer": "Black",
+  "pred_bbox_xyxy": [
+   2797,
+   804,
+   2909,
+   841
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "015_q0002",
+  "image_id": "015",
+  "question": "What color is the car immediately to the left of the yellow bus near the front of the bottom queue?",
+  "question_type": "Spatial",
+  "density_category": "vehicle",
+  "gt_answer": "Gray.",
+  "pred_answer": "Gray",
+  "pred_bbox_xyxy": [
+   2033,
+   817,
+   2097,
+   902
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "016_q0001",
+  "image_id": "016",
+  "question": "What color is the cab of the small pickup immediately below the blue-and-white bus in the left-hand queue?",
+  "question_type": "Spatial",
+  "density_category": "vehicle",
+  "gt_answer": "Orange.",
+  "pred_answer": "Orange",
+  "pred_bbox_xyxy": [
+   295,
+   1171,
+   381,
+   1206
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "016_q0002",
+  "image_id": "016",
+  "question": "What color is the car immediately to the right of the blue-and-white bus in the left-hand queue?",
+  "question_type": "Spatial",
+  "density_category": "vehicle",
+  "gt_answer": "Dark gray.",
+  "pred_answer": "White",
+  "pred_bbox_xyxy": [
+   218,
+   1111,
+   473,
+   1161
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "017_q0001",
+  "image_id": "017",
+  "question": "What color is the car immediately above the yellow-cab cement mixer in the left-hand queue?",
+  "question_type": "Spatial",
+  "density_category": "vehicle",
+  "gt_answer": "Blue.",
+  "pred_answer": "",
+  "pred_bbox_xyxy": null,
+  "status": "complete"
+ },
+ {
+  "question_id": "017_q0002",
+  "image_id": "017",
+  "question": "What color is the car diagonally above and to the right of the yellow bus on the bottom approach?",
+  "question_type": "Spatial",
+  "density_category": "vehicle",
+  "gt_answer": "Gray.",
+  "pred_answer": "White",
+  "pred_bbox_xyxy": [
+   594,
+   1129,
+   695,
+   1167
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "018_q0001",
+  "image_id": "018",
+  "question": "What color is the car diagonally above and to the left of the yellow taxi in the left-hand queue?",
+  "question_type": "Spatial",
+  "density_category": "vehicle",
+  "gt_answer": "White.",
+  "pred_answer": "White",
+  "pred_bbox_xyxy": [
+   763,
+   1080,
+   861,
+   1106
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "018_q0002",
+  "image_id": "018",
+  "question": "What color is the car immediately to the right of the yellow taxi in the left-hand queue?",
+  "question_type": "Spatial",
+  "density_category": "vehicle",
+  "gt_answer": "Gray.",
+  "pred_answer": "White",
+  "pred_bbox_xyxy": [
+   647,
+   1243,
+   739,
+   1281
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "019_q0001",
+  "image_id": "019",
+  "question": "What color is the car immediately to the left of the yellow bus near the front of the bottom queue?",
+  "question_type": "Spatial",
+  "density_category": "vehicle",
+  "gt_answer": "White.",
+  "pred_answer": "White",
+  "pred_bbox_xyxy": [
+   2040,
+   334,
+   2104,
+   430
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "019_q0002",
+  "image_id": "019",
+  "question": "What color is the car immediately to the right of the yellow bus near the front of the bottom queue?",
+  "question_type": "Spatial",
+  "density_category": "vehicle",
+  "gt_answer": "Black.",
+  "pred_answer": "White",
+  "pred_bbox_xyxy": [
+   2040,
+   334,
+   2104,
+   430
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "020_q0001",
+  "image_id": "020",
+  "question": "What color is the car immediately to the left of the green-cab cement mixer in the uppermost queued row on the right-hand approach?",
+  "question_type": "Spatial",
+  "density_category": "vehicle",
+  "gt_answer": "White.",
+  "pred_answer": "Black",
+  "pred_bbox_xyxy": [
+   3614,
+   1111,
+   3782,
+   1166
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "020_q0002",
+  "image_id": "020",
+  "question": "What color is the car immediately to the right of the left yellow taxi on the bottom approach to the intersection?",
+  "question_type": "Spatial",
+  "density_category": "vehicle",
+  "gt_answer": "Black.",
+  "pred_answer": "Black",
+  "pred_bbox_xyxy": [
+   2254,
+   1456,
+   2291,
+   1548
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "021_q0001",
+  "image_id": "021",
+  "question": "What color is the car diagonally below and to the left of the green-cab cement mixer in the right-hand queue?",
+  "question_type": "Spatial",
+  "density_category": "vehicle",
+  "gt_answer": "White.",
+  "pred_answer": "White",
+  "pred_bbox_xyxy": [
+   2759,
+   848,
+   2936,
+   901
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "021_q0002",
+  "image_id": "021",
+  "question": "What color is the cargo bed of the small white-cab pickup in the uppermost row of the left-hand queue?",
+  "question_type": "Attribute",
+  "density_category": "vehicle",
+  "gt_answer": "Blue.",
+  "pred_answer": "Black",
+  "pred_bbox_xyxy": [
+   115,
+   1293,
+   242,
+   1335
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "022_q0001",
+  "image_id": "022",
+  "question": "What color is the cab of the small truck with the blue patterned load near the front of the right-hand queue?",
+  "question_type": "Attribute",
+  "density_category": "vehicle",
+  "gt_answer": "White.",
+  "pred_answer": "Black",
+  "pred_bbox_xyxy": [
+   2453,
+   1087,
+   2556,
+   1124
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "022_q0002",
+  "image_id": "022",
+  "question": "What color is the car immediately below the small truck with the blue patterned load near the front of the right-hand queue?",
+  "question_type": "Spatial",
+  "density_category": "vehicle",
+  "gt_answer": "Black.",
+  "pred_answer": "Black",
+  "pred_bbox_xyxy": [
+   2453,
+   1087,
+   2556,
+   1124
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "023_q0001",
+  "image_id": "023",
+  "question": "What color is the camera on the left one of the two tripods next to the guard standing at the base of the marble column?",
+  "question_type": "Spatial",
+  "density_category": "people",
+  "gt_answer": "White",
+  "pred_answer": "Black",
+  "pred_bbox_xyxy": [
+   1209,
+   1872,
+   1252,
+   1899
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "023_q0002",
+  "image_id": "023",
+  "question": "What color is the hat worn by the person standing immediately behind the metal folding gate on the right side of the image?",
+  "question_type": "Spatial",
+  "density_category": "people",
+  "gt_answer": "Green",
+  "pred_answer": "White",
+  "pred_bbox_xyxy": [
+   1781,
+   116,
+   1852,
+   370
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "024_q0001",
+  "image_id": "024",
+  "question": "What color is the wide-brimmed hat of the person standing right in front of the brown horse's head and neck?",
+  "question_type": "Spatial",
+  "density_category": "people",
+  "gt_answer": "white",
+  "pred_answer": "Light-colored",
+  "pred_bbox_xyxy": [
+   2016,
+   2850,
+   2092,
+   2944
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "024_q0002",
+  "image_id": "024",
+  "question": "What color is the round sign on the thin pole in the crowd, well left of the brown horse?",
+  "question_type": "Attribute",
+  "density_category": "people",
+  "gt_answer": "white",
+  "pred_answer": "Uncertain",
+  "pred_bbox_xyxy": [
+   1351,
+   2540,
+   1401,
+   2595
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "024_q0003",
+  "image_id": "024",
+  "question": "What color is the material draped over the shoulder and back of the foreground person below-left of the broad white hat beside the brown horse?",
+  "question_type": "Spatial",
+  "density_category": "people",
+  "gt_answer": "yellow",
+  "pred_answer": "Pink",
+  "pred_bbox_xyxy": [
+   2016,
+   2787,
+   2166,
+   3022
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "025_q0001",
+  "image_id": "025",
+  "question": "What color is the reflective safety vest worn by the man standing on the bridge and reaching toward the support leg of the large white pan?",
+  "question_type": "Attribute",
+  "density_category": "people",
+  "gt_answer": "Green",
+  "pred_answer": "Yellow",
+  "pred_bbox_xyxy": [
+   1542,
+   433,
+   1579,
+   524
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "026_q0001",
+  "image_id": "026",
+  "question": "What color are the trousers of the person in a blue and white jacket holding the pink flag in front of the green notice board?",
+  "question_type": "Relation",
+  "density_category": "people",
+  "gt_answer": "green",
+  "pred_answer": "Green",
+  "pred_bbox_xyxy": [
+   3678,
+   1305,
+   3739,
+   1464
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "026_q0002",
+  "image_id": "026",
+  "question": "What color is the dome security camera to the left of the round green and yellow emblem?",
+  "question_type": "Spatial",
+  "density_category": "people",
+  "gt_answer": "white",
+  "pred_answer": "Uncertain",
+  "pred_bbox_xyxy": [
+   1980,
+   704,
+   2003,
+   746
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "027_q0001",
+  "image_id": "027",
+  "question": "What is the person with the green head wrap standing at the edge of the open area surrounding the fire doing with his arms?",
+  "question_type": "Attribute",
+  "density_category": "people",
+  "gt_answer": "Raising his arms over his head.",
+  "pred_answer": "The person with the green head wrap is standing with his arms raised above his head",
+  "pred_bbox_xyxy": [
+   2640,
+   2510,
+   2780,
+   2649
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "028_q0001",
+  "image_id": "028",
+  "question": "What color is the car immediately to the right of the yellow bus in the upper traffic queue?",
+  "question_type": "Spatial",
+  "density_category": "vehicle",
+  "gt_answer": "White.",
+  "pred_answer": "White",
+  "pred_bbox_xyxy": [
+   729,
+   437,
+   861,
+   485
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "028_q0002",
+  "image_id": "028",
+  "question": "What color is the car immediately below the blue bus in the upper traffic queue?",
+  "question_type": "Spatial",
+  "density_category": "vehicle",
+  "gt_answer": "Black.",
+  "pred_answer": "Black",
+  "pred_bbox_xyxy": [
+   1667,
+   407,
+   1865,
+   468
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "029_q0001",
+  "image_id": "029",
+  "question": "What shape is the pink balloon that the boy is holding?",
+  "question_type": "Attribute",
+  "density_category": "people",
+  "gt_answer": "elliptical-shaped",
+  "pred_answer": "Circular",
+  "pred_bbox_xyxy": [
+   3243,
+   1545,
+   3290,
+   1591
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "029_q0002",
+  "image_id": "029",
+  "question": "What color are the shorts worn by the person in a red shirt with a yellow stripe, bending down beside a gray bag near the curb?",
+  "question_type": "Attribute",
+  "density_category": "people",
+  "gt_answer": "Red.",
+  "pred_answer": "Gray",
+  "pred_bbox_xyxy": [
+   1988,
+   1635,
+   2105,
+   1740
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "030_q0001",
+  "image_id": "030",
+  "question": "What color are the trousers of the girl immediately to the right of the woman in jeans carrying a black shoulder bag?",
+  "question_type": "Spatial",
+  "density_category": "people",
+  "gt_answer": "Red",
+  "pred_answer": "Red",
+  "pred_bbox_xyxy": [
+   2140,
+   1623,
+   2231,
+   1820
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "030_q0002",
+  "image_id": "030",
+  "question": "What color are the shoes of the child immediately to the right of the man in the light-blue shirt with a lanyard?",
+  "question_type": "Spatial",
+  "density_category": "people",
+  "gt_answer": "White",
+  "pred_answer": "White",
+  "pred_bbox_xyxy": [
+   466,
+   1716,
+   524,
+   1865
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "031_q0001",
+  "image_id": "031",
+  "question": "What color is the car immediately below the front end of the blue bus in the right-hand queue?",
+  "question_type": "Spatial",
+  "density_category": "vehicle",
+  "gt_answer": "White.",
+  "pred_answer": "White",
+  "pred_bbox_xyxy": [
+   2442,
+   995,
+   2532,
+   1070
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "031_q0002",
+  "image_id": "031",
+  "question": "What color is the car immediately to the left of the truck with the bright green cargo box on the right-hand approach?",
+  "question_type": "Spatial",
+  "density_category": "vehicle",
+  "gt_answer": "Black.",
+  "pred_answer": "White",
+  "pred_bbox_xyxy": [
+   1604,
+   215,
+   1648,
+   345
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "032_q0001",
+  "image_id": "032",
+  "question": "What color is the cab of the pickup carrying green items in its open bed near the front of the top queue?",
+  "question_type": "Attribute",
+  "density_category": "vehicle",
+  "gt_answer": "White.",
+  "pred_answer": "Yellow",
+  "pred_bbox_xyxy": [
+   1608,
+   395,
+   1620,
+   495
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "032_q0002",
+  "image_id": "032",
+  "question": "What color is the open cargo bed of the white-cab pickup diagonally above and to the right of the blue bus on the right-hand approach?",
+  "question_type": "Spatial",
+  "density_category": "vehicle",
+  "gt_answer": "Tan.",
+  "pred_answer": "Green",
+  "pred_bbox_xyxy": [
+   3139,
+   960,
+   3250,
+   972
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "033_q0001",
+  "image_id": "033",
+  "question": "What does the person beside the camera operator on the wooden platform wear on their legs?",
+  "question_type": "Spatial",
+  "density_category": "people",
+  "gt_answer": "shorts",
+  "pred_answer": "Uncertain",
+  "pred_bbox_xyxy": [
+   1746,
+   1086,
+   1785,
+   1228
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "033_q0002",
+  "image_id": "033",
+  "question": "What color is the open umbrella in front of the white car, below the yellow car with a blue light on its roof?",
+  "question_type": "Spatial",
+  "density_category": "people",
+  "gt_answer": "red",
+  "pred_answer": "Red",
+  "pred_bbox_xyxy": [
+   1817,
+   2335,
+   1896,
+   2416
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "033_q0003",
+  "image_id": "033",
+  "question": "What color is the T-shirt of the gray-haired person standing in the open side door of the van with a roof rack?",
+  "question_type": "Spatial",
+  "density_category": "people",
+  "gt_answer": "blue",
+  "pred_answer": "Blue",
+  "pred_bbox_xyxy": [
+   1082,
+   1453,
+   1142,
+   1552
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "033_q0004",
+  "image_id": "033",
+  "question": "What object is held up to the face by the person in black on the wooden platform?",
+  "question_type": "Relation",
+  "density_category": "people",
+  "gt_answer": "camera",
+  "pred_answer": "Uncertain",
+  "pred_bbox_xyxy": [
+   2149,
+   216,
+   2178,
+   262
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "034_q0001",
+  "image_id": "034",
+  "question": "What color is the jacket of the person sitting beside the person in the black jacket leaning forward?",
+  "question_type": "Spatial",
+  "density_category": "people",
+  "gt_answer": "purple",
+  "pred_answer": "Gray",
+  "pred_bbox_xyxy": [
+   1715,
+   3418,
+   1982,
+   3792
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "034_q0002",
+  "image_id": "034",
+  "question": "What color is the jacket of the person sitting on the stone ledge next to the person in the purple jacket?",
+  "question_type": "Spatial",
+  "density_category": "people",
+  "gt_answer": "black",
+  "pred_answer": "Black",
+  "pred_bbox_xyxy": [
+   1910,
+   2485,
+   1940,
+   2527
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "035_q0001",
+  "image_id": "035",
+  "question": "What object is held in front of the face by the person in the white T-shirt holding a clear bottle?",
+  "question_type": "Relation",
+  "density_category": "people",
+  "gt_answer": "phone",
+  "pred_answer": "Smartphone",
+  "pred_bbox_xyxy": [
+   1807,
+   2919,
+   1837,
+   2986
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "035_q0002",
+  "image_id": "035",
+  "question": "What kind of headwear is worn by the person standing beside the white pillar?",
+  "question_type": "Spatial",
+  "density_category": "people",
+  "gt_answer": "cap",
+  "pred_answer": "Black beanie",
+  "pred_bbox_xyxy": [
+   1286,
+   2349,
+   1368,
+   2432
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "035_q0003",
+  "image_id": "035",
+  "question": "What color is the phone held up with both hands by the person in the gray jacket sitting behind a red name card?",
+  "question_type": "Relation",
+  "density_category": "people",
+  "gt_answer": "black",
+  "pred_answer": "White",
+  "pred_bbox_xyxy": [
+   2535,
+   3471,
+   2769,
+   3833
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "036_q0001",
+  "image_id": "036",
+  "question": "In the queue on the right side of the intersection, what color is the minivan immediately to the left of the long white vehicle with a yellow rear panel?",
+  "question_type": "Spatial",
+  "density_category": "vehicle",
+  "gt_answer": "Dark gray.",
+  "pred_answer": "White",
+  "pred_bbox_xyxy": [
+   671,
+   1641,
+   793,
+   1689
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "036_q0002",
+  "image_id": "036",
+  "question": "In the right-hand queue, what color is the car directly below the long white vehicle with a yellow rear panel?",
+  "question_type": "Spatial",
+  "density_category": "vehicle",
+  "gt_answer": "White.",
+  "pred_answer": "Black",
+  "pred_bbox_xyxy": [
+   2134,
+   1293,
+   2173,
+   1367
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "037_q0001",
+  "image_id": "037",
+  "question": "What color is the cap of the person in an orange T-shirt leaning over the windshield of the black vehicle?",
+  "question_type": "Relation",
+  "density_category": "people",
+  "gt_answer": "black",
+  "pred_answer": "Black",
+  "pred_bbox_xyxy": [
+   968,
+   2348,
+   1205,
+   2527
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "037_q0002",
+  "image_id": "037",
+  "question": "What color is the waist bag of the person in blue standing near the red bicycle saddle and wheel, in front of a person in a light blue skirt?",
+  "question_type": "Spatial",
+  "density_category": "people",
+  "gt_answer": "black",
+  "pred_answer": "Black",
+  "pred_bbox_xyxy": [
+   2383,
+   3015,
+   2565,
+   3577
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "037_q0003",
+  "image_id": "037",
+  "question": "What color is the backpack of the person left of the person in a gray T-shirt, next to the shrubs?",
+  "question_type": "Spatial",
+  "density_category": "people",
+  "gt_answer": "black",
+  "pred_answer": "Black",
+  "pred_bbox_xyxy": [
+   1644,
+   2803,
+   1727,
+   2913
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "038_q0001",
+  "image_id": "038",
+  "question": "What is the woman wearing a blue shirt and standing on the wooden stairs holding onto with her left hand?",
+  "question_type": "Attribute",
+  "density_category": "people",
+  "gt_answer": "A metal railing",
+  "pred_answer": "Uncertain",
+  "pred_bbox_xyxy": [
+   3925,
+   1477,
+   4013,
+   1593
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "039_q0001",
+  "image_id": "039",
+  "question": "What color are the shoes worn by the woman standing on the red-carpeted platform",
+  "question_type": "Attribute",
+  "density_category": "people",
+  "gt_answer": "Light pink",
+  "pred_answer": "Pink",
+  "pred_bbox_xyxy": [
+   2475,
+   568,
+   2550,
+   807
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "040_q0001",
+  "image_id": "040",
+  "question": "What color are the shoes of the man in the black polo shirt and khaki trousers walking on the track?",
+  "question_type": "Attribute",
+  "density_category": "people",
+  "gt_answer": "White",
+  "pred_answer": "Black",
+  "pred_bbox_xyxy": [
+   2437,
+   1393,
+   2508,
+   1596
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "040_q0002",
+  "image_id": "040",
+  "question": "What color is the wheeled cart that the person is sitting on beside the tripod-mounted display at the edge of the infield?",
+  "question_type": "Relation",
+  "density_category": "people",
+  "gt_answer": "Blue",
+  "pred_answer": "Blue",
+  "pred_bbox_xyxy": [
+   0,
+   1415,
+   88,
+   1439
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "041_q0001",
+  "image_id": "041",
+  "question": "What color is the car immediately below the long light-blue bus at the upper-right edge of the intersection?",
+  "question_type": "Spatial",
+  "density_category": "vehicle",
+  "gt_answer": "Silver.",
+  "pred_answer": "White",
+  "pred_bbox_xyxy": [
+   2320,
+   960,
+   2528,
+   971
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "041_q0002",
+  "image_id": "041",
+  "question": "What color is the roof of the bus immediately below and to the right of the small yellow motorcycle on the right side of the intersection?",
+  "question_type": "Spatial",
+  "density_category": "vehicle",
+  "gt_answer": "Yellow.",
+  "pred_answer": "Green",
+  "pred_bbox_xyxy": [
+   577,
+   1242,
+   645,
+   1260
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "042_q0001",
+  "image_id": "042",
+  "question": "What color is the car near the center of the intersection, just above the crosswalk at the bottom of the image?",
+  "question_type": "Attribute",
+  "density_category": "people",
+  "gt_answer": "Yellow.",
+  "pred_answer": "Yellow",
+  "pred_bbox_xyxy": [
+   1749,
+   151,
+   1789,
+   245
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "043_q0001",
+  "image_id": "043",
+  "question": "How many small black circular holes are arranged in a row on the white rectangular section of the long yellow bus just to the left of the crosswalk at the bottom of the intersection?",
+  "question_type": "Relation",
+  "density_category": "people",
+  "gt_answer": "Five.",
+  "pred_answer": "Uncertain",
+  "pred_bbox_xyxy": [
+   1396,
+   1549,
+   1472,
+   1623
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "044_q0001",
+  "image_id": "044",
+  "question": "What color is the car located just above the crosswalk at the bottom of the intersection, slightly to the right of the center?",
+  "question_type": "Attribute",
+  "density_category": "people",
+  "gt_answer": "Dark red.",
+  "pred_answer": "Gray",
+  "pred_bbox_xyxy": [
+   2313,
+   1295,
+   2398,
+   1334
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "045_q0001",
+  "image_id": "045",
+  "question": "What color is the car positioned horizontally just to the left of the upper-left corner of the intersection, next to the red road marking?",
+  "question_type": "Attribute",
+  "density_category": "people",
+  "gt_answer": "Red.",
+  "pred_answer": "White",
+  "pred_bbox_xyxy": [
+   1927,
+   399,
+   1967,
+   488
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "046_q0001",
+  "image_id": "046",
+  "question": "What shape do the white dashed road markings form in the center of the intersection?",
+  "question_type": "Attribute",
+  "density_category": "people",
+  "gt_answer": "An X shape.",
+  "pred_answer": "Triangle",
+  "pred_bbox_xyxy": [
+   0,
+   762,
+   311,
+   828
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "047_q0001",
+  "image_id": "047",
+  "question": "What color is the long bus among the heavy traffic on the lower-left side of the intersection?",
+  "question_type": "Attribute",
+  "density_category": "people",
+  "gt_answer": "Pink.",
+  "pred_answer": "Red",
+  "pred_bbox_xyxy": [
+   477,
+   1480,
+   717,
+   1540
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "048_q0001",
+  "image_id": "048",
+  "question": "What color is the bus positioned diagonally among the heavy traffic on the left side of the intersection?",
+  "question_type": "Attribute",
+  "density_category": "people",
+  "gt_answer": "Blue.",
+  "pred_answer": "Blue",
+  "pred_bbox_xyxy": [
+   596,
+   1080,
+   735,
+   1150
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "049_q0001",
+  "image_id": "049",
+  "question": "Which corner of the image contains the large white-roofed building with multiple rectangular panels?",
+  "question_type": "Spatial",
+  "density_category": "people",
+  "gt_answer": "Bottom-left corner.",
+  "pred_answer": "Bottom left",
+  "pred_bbox_xyxy": [
+   0,
+   1856,
+   760,
+   2160
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "050_q0001",
+  "image_id": "050",
+  "question": "What color is the backpack of the man in the black jacket sitting on the stone ledge immediately to the right of the person in the maroon jacket?",
+  "question_type": "Spatial",
+  "density_category": "people",
+  "gt_answer": "Neon green",
+  "pred_answer": "Green",
+  "pred_bbox_xyxy": [
+   2549,
+   1669,
+   2601,
+   1765
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "050_q0002",
+  "image_id": "050",
+  "question": "What color is the frame of the small balance bike being ridden by the child in the beige coat?",
+  "question_type": "Relation",
+  "density_category": "people",
+  "gt_answer": "Lime green",
+  "pred_answer": "Yellow",
+  "pred_bbox_xyxy": [
+   2930,
+   1769,
+   3008,
+   1852
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "051_q0001",
+  "image_id": "051",
+  "question": "What color is the bus among the heavy traffic on the upper-right side of the intersection?",
+  "question_type": "Attribute",
+  "density_category": "people",
+  "gt_answer": "Green.",
+  "pred_answer": "Yellow",
+  "pred_bbox_xyxy": [
+   1725,
+   131,
+   1799,
+   369
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "052_q0001",
+  "image_id": "052",
+  "question": "Is the red bus near the bottom edge of the image, below and to the right of the intersection, oriented horizontally or vertically?",
+  "question_type": "Spatial",
+  "density_category": "people",
+  "gt_answer": "Vertically.",
+  "pred_answer": "Horizontally",
+  "pred_bbox_xyxy": [
+   2805,
+   1925,
+   2878,
+   2160
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "053_q0001",
+  "image_id": "053",
+  "question": "What shape is the small green landscaped area between the walkways, just to the right of the busy road?",
+  "question_type": "Attribute",
+  "density_category": "people",
+  "gt_answer": "Triangular.",
+  "pred_answer": "Irregular polygonal shape",
+  "pred_bbox_xyxy": [
+   2125,
+   897,
+   2700,
+   1680
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "054_q0001",
+  "image_id": "054",
+  "question": "What type of jacket is the man holding a red book wearing?",
+  "question_type": "Attribute",
+  "density_category": "people",
+  "gt_answer": "A hooded jacket.",
+  "pred_answer": "Yellow jacket",
+  "pred_bbox_xyxy": [
+   2471,
+   969,
+   2541,
+   1125
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "055_q0001",
+  "image_id": "055",
+  "question": "What color is the long bus among the traffic on the upper-right side of the intersection?",
+  "question_type": "Attribute",
+  "density_category": "people",
+  "gt_answer": "Light yellow.",
+  "pred_answer": "Yellow",
+  "pred_bbox_xyxy": [
+   2901,
+   913,
+   3141,
+   967
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "056_q0001",
+  "image_id": "056",
+  "question": "Is the blue bus near the bottom-right corner of the intersection oriented horizontally or vertically?",
+  "question_type": "Spatial",
+  "density_category": "people",
+  "gt_answer": "Horizontally.",
+  "pred_answer": "Horizontally",
+  "pred_bbox_xyxy": [
+   2174,
+   1374,
+   2372,
+   1425
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "057_q0001",
+  "image_id": "057",
+  "question": "What color is the long bus in the heavy traffic on the upper-right side of the intersection?",
+  "question_type": "Attribute",
+  "density_category": "people",
+  "gt_answer": "Red.",
+  "pred_answer": "Yellow",
+  "pred_bbox_xyxy": [
+   1011,
+   1252,
+   1170,
+   1302
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "058_q0001",
+  "image_id": "058",
+  "question": "Which corner of the intersection is the orange car located at?",
+  "question_type": "Attribute",
+  "density_category": "people",
+  "gt_answer": "The upper-right corner.",
+  "pred_answer": "The orange car is located at the bottom right corner of the intersection",
+  "pred_bbox_xyxy": [
+   1701,
+   550,
+   1892,
+   944
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "059_q0001",
+  "image_id": "059",
+  "question": "Which corner of the intersection is the red-and-white bus located at?",
+  "question_type": "Attribute",
+  "density_category": "people",
+  "gt_answer": "The bottom-left corner.",
+  "pred_answer": "Bottom center",
+  "pred_bbox_xyxy": [
+   1056,
+   1391,
+   1293,
+   1446
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "060_q0001",
+  "image_id": "060",
+  "question": "What color is the diagonally positioned car near the center of the intersection, just above a black car?",
+  "question_type": "Attribute",
+  "density_category": "people",
+  "gt_answer": "White.",
+  "pred_answer": "White",
+  "pred_bbox_xyxy": [
+   1516,
+   1186,
+   1596,
+   1263
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "061_q0001",
+  "image_id": "061",
+  "question": "Which direction is the light yellow bus turning near the bottom-right corner of the intersection?",
+  "question_type": "Spatial",
+  "density_category": "people",
+  "gt_answer": "Right.",
+  "pred_answer": "Right",
+  "pred_bbox_xyxy": [
+   2122,
+   1906,
+   2170,
+   2051
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "062_q0001",
+  "image_id": "062",
+  "question": "On which side of the pedestrian crosswalk is the red bus located?",
+  "question_type": "Spatial",
+  "density_category": "people",
+  "gt_answer": "To the left.",
+  "pred_answer": "Left side",
+  "pred_bbox_xyxy": [
+   1171,
+   1216,
+   1390,
+   1271
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "063_q0001",
+  "image_id": "063",
+  "question": "Which corner of the intersection is the diagonally positioned green bus near the pedestrian crosswalk located at?",
+  "question_type": "Spatial",
+  "density_category": "people",
+  "gt_answer": "The bottom-left corner.",
+  "pred_answer": "Bottom left corner",
+  "pred_bbox_xyxy": [
+   1757,
+   1435,
+   1920,
+   1573
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "064_q0001",
+  "image_id": "064",
+  "question": "Where is the red bus located relative to the pedestrian crosswalk at the bottom of the intersection?",
+  "question_type": "Spatial",
+  "density_category": "people",
+  "gt_answer": "elow the crosswalk.",
+  "pred_answer": "Uncertain",
+  "pred_bbox_xyxy": [
+   1920,
+   1085,
+   1964,
+   1515
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "065_q0001",
+  "image_id": "065",
+  "question": "On which side of the pedestrian crosswalk is the blue-and-white bus located?",
+  "question_type": "Spatial",
+  "density_category": "people",
+  "gt_answer": "To the right.",
+  "pred_answer": "Right side",
+  "pred_bbox_xyxy": [
+   3471,
+   1428,
+   3696,
+   1484
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "066_q0001",
+  "image_id": "066",
+  "question": "Where is the green bus located relative to the center of the intersection?",
+  "question_type": "Spatial",
+  "density_category": "people",
+  "gt_answer": "Upper-right.",
+  "pred_answer": "The green bus is located above the center of the intersection",
+  "pred_bbox_xyxy": [
+   3077,
+   654,
+   3260,
+   708
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "067_q0001",
+  "image_id": "067",
+  "question": "What color is the car located just above the pedestrian crosswalk at the top of the intersection?",
+  "question_type": "Attribute",
+  "density_category": "people",
+  "gt_answer": "Red.",
+  "pred_answer": "Black",
+  "pred_bbox_xyxy": [
+   1542,
+   1530,
+   1585,
+   1624
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "068_q0001",
+  "image_id": "068",
+  "question": "Is the red car near the center of the intersection, just above the bottom pedestrian crosswalk, oriented horizontally or vertically?",
+  "question_type": "Spatial",
+  "density_category": "people",
+  "gt_answer": "Vertically.",
+  "pred_answer": "Horizontally",
+  "pred_bbox_xyxy": [
+   1541,
+   1303,
+   1578,
+   1382
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "069_q0001",
+  "image_id": "069",
+  "question": "What color is the long bus to the right of the green bus on the lower-left side of the intersection?",
+  "question_type": "Attribute",
+  "density_category": "people",
+  "gt_answer": "Blue.",
+  "pred_answer": "Blue",
+  "pred_bbox_xyxy": [
+   932,
+   1280,
+   1110,
+   1332
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "070_q0001",
+  "image_id": "070",
+  "question": ": Where is the pink bus located relative to the pedestrian crosswalk on the lower-left side of the intersection?",
+  "question_type": "Spatial",
+  "density_category": "people",
+  "gt_answer": "To the left.",
+  "pred_answer": "The pink bus is located directly below the pedestrian crosswalk on the lower-left side of the intersection",
+  "pred_bbox_xyxy": [
+   1886,
+   1137,
+   1920,
+   1529
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "071_q0001",
+  "image_id": "071",
+  "question": "Is the yellow vehicle near the pedestrian crosswalk at the upper-left corner of the intersection oriented horizontally or vertically?",
+  "question_type": "Spatial",
+  "density_category": "people",
+  "gt_answer": "Vertically.",
+  "pred_answer": "Vertically",
+  "pred_bbox_xyxy": [
+   1473,
+   2104,
+   1529,
+   2160
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "072_q0001",
+  "image_id": "072",
+  "question": "What color is the knit hat on the small snowman with the purple scarf?",
+  "question_type": "Attribute",
+  "density_category": "people",
+  "gt_answer": "pink",
+  "pred_answer": "Pink",
+  "pred_bbox_xyxy": [
+   3621,
+   4238,
+   3765,
+   4480
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "072_q0002",
+  "image_id": "072",
+  "question": "What color are the broom bristles held by the person in the black hooded sweatshirt behind the person with a black bag?",
+  "question_type": "Relation",
+  "density_category": "people",
+  "gt_answer": "yellow",
+  "pred_answer": "Yellow",
+  "pred_bbox_xyxy": [
+   4273,
+   4244,
+   4348,
+   4475
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "072_q0003",
+  "image_id": "072",
+  "question": "What color are the pants of the person in the green jacket pushing the stroller with gray fabric?",
+  "question_type": "Relation",
+  "density_category": "people",
+  "gt_answer": "black",
+  "pred_answer": "Black",
+  "pred_bbox_xyxy": [
+   2003,
+   4064,
+   2075,
+   4263
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "072_q0004",
+  "image_id": "072",
+  "question": "What color is the hood of the person in the blue jacket next to the snowman wearing a red Santa hat?",
+  "question_type": "Spatial",
+  "density_category": "people",
+  "gt_answer": "yellow",
+  "pred_answer": "Pink",
+  "pred_bbox_xyxy": [
+   4039,
+   3834,
+   4094,
+   3911
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "072_q0005",
+  "image_id": "072",
+  "question": "What color is the jacket of the person with light blue pants sitting on a red ball?",
+  "question_type": "Relation",
+  "density_category": "people",
+  "gt_answer": "red",
+  "pred_answer": "Black",
+  "pred_bbox_xyxy": [
+   3091,
+   4152,
+   3178,
+   4277
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "072_q0006",
+  "image_id": "072",
+  "question": "What color are the jeans of the person carrying a red bag, walking next to the person in the white headscarf?",
+  "question_type": "Spatial",
+  "density_category": "people",
+  "gt_answer": "blue",
+  "pred_answer": "Blue",
+  "pred_bbox_xyxy": [
+   5414,
+   4355,
+   5504,
+   4586
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "073_q0001",
+  "image_id": "073",
+  "question": "What type of hat is the woman wearing pleated maxi skirt wearing in her head?",
+  "question_type": "Attribute",
+  "density_category": "people",
+  "gt_answer": "A wide-brimmed sun hat.",
+  "pred_answer": "Wide-brimmed hat",
+  "pred_bbox_xyxy": [
+   2482,
+   1603,
+   2672,
+   1779
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "074_q0001",
+  "image_id": "074",
+  "question": "What is the man carrying a pink shopping bag wearing on his wrist?",
+  "question_type": "Attribute",
+  "density_category": "people",
+  "gt_answer": "A wristwatch.",
+  "pred_answer": "Uncertain",
+  "pred_bbox_xyxy": [
+   2500,
+   2594,
+   2632,
+   3129
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "075_q0001",
+  "image_id": "075",
+  "question": "On which side of the intersection is the green bus located?",
+  "question_type": "Spatial",
+  "density_category": "people",
+  "gt_answer": "Left.",
+  "pred_answer": "Left side",
+  "pred_bbox_xyxy": [
+   318,
+   1098,
+   502,
+   1153
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "076_q0001",
+  "image_id": "076",
+  "question": "What color is the bottle on the seat of the white folding chair, right of the table covered with brochures?",
+  "question_type": "Spatial",
+  "density_category": "people",
+  "gt_answer": "blue",
+  "pred_answer": "Blue",
+  "pred_bbox_xyxy": [
+   1746,
+   2003,
+   1769,
+   2043
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "076_q0002",
+  "image_id": "076",
+  "question": "What color is the long case on the floor in front of the chair with a red coat, left of the balloons?",
+  "question_type": "Spatial",
+  "density_category": "people",
+  "gt_answer": "black",
+  "pred_answer": "Black",
+  "pred_bbox_xyxy": [
+   993,
+   2078,
+   1125,
+   2133
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "076_q0003",
+  "image_id": "076",
+  "question": "What color is the flat folder held by the person in khaki pants, left of the tall blue banner?",
+  "question_type": "Spatial",
+  "density_category": "people",
+  "gt_answer": "orange",
+  "pred_answer": "Blue",
+  "pred_bbox_xyxy": [
+   2242,
+   2016,
+   2321,
+   2041
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "077_q0001",
+  "image_id": "077",
+  "question": "Is the red bus near the top edge of the image, on the upper-right side of the intersection, oriented horizontally or vertically?",
+  "question_type": "Attribute",
+  "density_category": "people",
+  "gt_answer": "Vertically.",
+  "pred_answer": "Horizontally",
+  "pred_bbox_xyxy": [
+   2322,
+   0,
+   2380,
+   191
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "078_q0001",
+  "image_id": "078",
+  "question": "What color is the long bus positioned horizontally to the left of the pedestrian crosswalk on the upper-left side of the intersection?",
+  "question_type": "Attribute",
+  "density_category": "people",
+  "gt_answer": "Blue.",
+  "pred_answer": "Red",
+  "pred_bbox_xyxy": [
+   2255,
+   0,
+   2311,
+   121
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "079_q0001",
+  "image_id": "079",
+  "question": "What shape is the white structure in the green area at the bottom-left of the intersection?",
+  "question_type": "Attribute",
+  "density_category": "people",
+  "gt_answer": "Crescent-shaped.",
+  "pred_answer": "Circular",
+  "pred_bbox_xyxy": [
+   1208,
+   1522,
+   1412,
+   1650
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "080_q0001",
+  "image_id": "080",
+  "question": "What color is the shirt worn by the person crouching down on the rink?",
+  "question_type": "Attribute",
+  "density_category": "people",
+  "gt_answer": "Blue.",
+  "pred_answer": "Uncertain",
+  "pred_bbox_xyxy": [
+   296,
+   775,
+   351,
+   912
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "081_q0001",
+  "image_id": "081",
+  "question": "What color is the long bus positioned horizontally above the heavy traffic on the left side of the intersection?",
+  "question_type": "Attribute",
+  "density_category": "people",
+  "gt_answer": "Blue.",
+  "pred_answer": "Blue",
+  "pred_bbox_xyxy": [
+   526,
+   1080,
+   739,
+   1123
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "082_q0001",
+  "image_id": "082",
+  "question": "What color is the L-shaped roof of the building located at the bottom-left of the intersection?",
+  "question_type": "Attribute",
+  "density_category": "people",
+  "gt_answer": "Green.",
+  "pred_answer": "White",
+  "pred_bbox_xyxy": [
+   2702,
+   1750,
+   3818,
+   2100
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "083_q0001",
+  "image_id": "083",
+  "question": "What shape is the blue arrow sign attached to the pole?",
+  "question_type": "Spatial",
+  "density_category": "people",
+  "gt_answer": "square",
+  "pred_answer": "Arrow shape",
+  "pred_bbox_xyxy": [
+   4346,
+   2044,
+   4465,
+   2181
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "083_q0002",
+  "image_id": "083",
+  "question": "What color is the shirt of the person in black pants, left of the white rectangular panel on the barrier?",
+  "question_type": "Spatial",
+  "density_category": "people",
+  "gt_answer": "red",
+  "pred_answer": "Brown",
+  "pred_bbox_xyxy": [
+   540,
+   2424,
+   628,
+   2482
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "083_q0003",
+  "image_id": "083",
+  "question": "What color is the cap of the person in the dark jacket standing on the road beside the long diagonal metal barrier along the spectator stand?",
+  "question_type": "Spatial",
+  "density_category": "people",
+  "gt_answer": "red",
+  "pred_answer": "Red",
+  "pred_bbox_xyxy": [
+   330,
+   2159,
+   425,
+   2365
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "084_q0001",
+  "image_id": "084",
+  "question": "Which corner of the intersection is the diagonally positioned green bus next to the pedestrian crosswalk located at?",
+  "question_type": "Spatial",
+  "density_category": "people",
+  "gt_answer": "The upper-left corner.",
+  "pred_answer": "Top-left corner",
+  "pred_bbox_xyxy": [
+   1416,
+   667,
+   1832,
+   824
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "085_q0001",
+  "image_id": "085",
+  "question": "What color is the video camera on the tripod being operated by the man in white at the left side of the stage?",
+  "question_type": "Relation",
+  "density_category": "people",
+  "gt_answer": "Black",
+  "pred_answer": "Black",
+  "pred_bbox_xyxy": [
+   1417,
+   1724,
+   1481,
+   1817
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "085_q0002",
+  "image_id": "085",
+  "question": "What color is the shirt worn under the light blue vest of the boy standing on the red carpet aisle?",
+  "question_type": "Attribute",
+  "density_category": "people",
+  "gt_answer": "White",
+  "pred_answer": "White",
+  "pred_bbox_xyxy": [
+   1227,
+   912,
+   1270,
+   1005
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "086_q0001",
+  "image_id": "086",
+  "question": "What color are the pants of the person holding the open blue umbrella near the dock?",
+  "question_type": "Relation",
+  "density_category": "people",
+  "gt_answer": "black",
+  "pred_answer": "Black",
+  "pred_bbox_xyxy": [
+   2565,
+   1230,
+   2608,
+   1325
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "086_q0002",
+  "image_id": "086",
+  "question": "What color is the backpack of the crouching person beside the pink stroller?",
+  "question_type": "Spatial",
+  "density_category": "people",
+  "gt_answer": "black",
+  "pred_answer": "Black",
+  "pred_bbox_xyxy": [
+   3694,
+   1949,
+   3745,
+   2007
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "086_q0003",
+  "image_id": "086",
+  "question": "What color are the pants of the person in an orange top, left of the tall maroon dock sign?",
+  "question_type": "Spatial",
+  "density_category": "people",
+  "gt_answer": "blue",
+  "pred_answer": "Blue",
+  "pred_bbox_xyxy": [
+   1244,
+   1565,
+   1320,
+   1704
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "087_q0001",
+  "image_id": "087",
+  "question": "What color is the car immediately to the left of the white car near the center of the intersection?",
+  "question_type": "Attribute",
+  "density_category": "people",
+  "gt_answer": "Red.",
+  "pred_answer": "Black",
+  "pred_bbox_xyxy": [
+   603,
+   1858,
+   646,
+   1949
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "088_q0001",
+  "image_id": "088",
+  "question": "Is the isolated yellow car near the center of the intersection oriented horizontally or vertically?",
+  "question_type": "Spatial",
+  "density_category": "people",
+  "gt_answer": "Vertically.",
+  "pred_answer": "Vertically",
+  "pred_bbox_xyxy": [
+   2081,
+   1092,
+   2121,
+   1187
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "089_q0001",
+  "image_id": "089",
+  "question": "What color are the shorts worn by the woman lying on a bright pink mat with her legs dangling into the swimming pool?",
+  "question_type": "Attribute",
+  "density_category": "people",
+  "gt_answer": "Blue.",
+  "pred_answer": "Uncertain",
+  "pred_bbox_xyxy": [
+   2403,
+   2901,
+   2466,
+   3000
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "090_q0001",
+  "image_id": "090",
+  "question": "What is the woman standing immediately to the left of the bearded man wearing sunglasses in the back row holding?",
+  "question_type": "Spatial",
+  "density_category": "people",
+  "gt_answer": "White papers",
+  "pred_answer": "Uncertain",
+  "pred_bbox_xyxy": [
+   538,
+   993,
+   616,
+   1129
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "090_q0002",
+  "image_id": "090",
+  "question": "What color is the baseball cap worn by the man in the blue checkered shirt standing immediately to the right of the bearded man in sunglasses?",
+  "question_type": "Relation",
+  "density_category": "people",
+  "gt_answer": "Beige",
+  "pred_answer": "White",
+  "pred_bbox_xyxy": [
+   1742,
+   980,
+   1838,
+   1134
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "091_q0001",
+  "image_id": "091",
+  "question": "What color is the jacket of the white-haired person at the podium, right of the black floor monitor?",
+  "question_type": "Spatial",
+  "density_category": "people",
+  "gt_answer": "black",
+  "pred_answer": "Black",
+  "pred_bbox_xyxy": [
+   1573,
+   1385,
+   1627,
+   1545
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "091_q0002",
+  "image_id": "091",
+  "question": "What color is the cap brim of the person right of the person in a red-and-white plaid shirt, near a small red-and-white flag?",
+  "question_type": "Spatial",
+  "density_category": "people",
+  "gt_answer": "white",
+  "pred_answer": "Blue",
+  "pred_bbox_xyxy": [
+   1925,
+   2213,
+   2035,
+   2456
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "092_q0001",
+  "image_id": "092",
+  "question": "What color is the hat worn by the person standing among the purple flowers at the far left edge of the field?",
+  "question_type": "Attribute",
+  "density_category": "people",
+  "gt_answer": "Yellow",
+  "pred_answer": "Yellow",
+  "pred_bbox_xyxy": [
+   76,
+   703,
+   131,
+   765
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "092_q0002",
+  "image_id": "092",
+  "question": "What color is the band wrapped around the lower part of the black post standing in the flower field?",
+  "question_type": "Attribute",
+  "density_category": "people",
+  "gt_answer": "White",
+  "pred_answer": "White",
+  "pred_bbox_xyxy": [
+   1581,
+   920,
+   1600,
+   957
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "093_q0001",
+  "image_id": "093",
+  "question": "What color is the small flag above the person in a spotted pink dress, next to the large star flag?",
+  "question_type": "Relation",
+  "density_category": "people",
+  "gt_answer": "red",
+  "pred_answer": "Red",
+  "pred_bbox_xyxy": [
+   4112,
+   2947,
+   4265,
+   3301
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "093_q0002",
+  "image_id": "093",
+  "question": "What color are the sneakers worn by the  nearest person in black holding the large flag beside the person in the red dotted dress?",
+  "question_type": "Relation",
+  "density_category": "people",
+  "gt_answer": "white",
+  "pred_answer": "White",
+  "pred_bbox_xyxy": [
+   3597,
+   2751,
+   3736,
+   3228
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "094_q0001",
+  "image_id": "094",
+  "question": "What color is the shirt worn by the person operating the TV camera on the upper balcony?",
+  "question_type": "Relation",
+  "density_category": "people",
+  "gt_answer": "Red",
+  "pred_answer": "Red",
+  "pred_bbox_xyxy": [
+   2341,
+   1809,
+   2419,
+   1924
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "094_q0002",
+  "image_id": "094",
+  "question": "What color is the badge hanging from the lanyard of the man in the dark polo shirt standing immediately to the right of the man in the light blue shirt on the upper balcony?",
+  "question_type": "Spatial",
+  "density_category": "people",
+  "gt_answer": "Green",
+  "pred_answer": "Blue",
+  "pred_bbox_xyxy": [
+   1734,
+   1837,
+   1820,
+   1927
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "095_q0001",
+  "image_id": "095",
+  "question": "What color is the shirt of the person with short dark hair standing behind the silver railing, left of the person in a white T-shirt and red cap, below the white umbrella?",
+  "question_type": "Spatial",
+  "density_category": "people",
+  "gt_answer": "blue",
+  "pred_answer": "Black",
+  "pred_bbox_xyxy": [
+   782,
+   1754,
+   853,
+   1849
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "096_q0001",
+  "image_id": "096",
+  "question": "What color is the bag carried by the person in the patterned white coat holding up a blue phone?",
+  "question_type": "Relation",
+  "density_category": "people",
+  "gt_answer": "purple",
+  "pred_answer": "Purple",
+  "pred_bbox_xyxy": [
+   2004,
+   2561,
+   2079,
+   2678
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "096_q0002",
+  "image_id": "096",
+  "question": "What color is the coat worn by the person having a bright red mask beside the white stone base of the column?",
+  "question_type": "Spatial",
+  "density_category": "people",
+  "gt_answer": "green",
+  "pred_answer": "Red",
+  "pred_bbox_xyxy": [
+   1024,
+   2079,
+   1140,
+   2393
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "096_q0003",
+  "image_id": "096",
+  "question": "What color is the bag held in front of the person in a black zip-up jacket and jeans, standing near the black cable reels beside the white van?",
+  "question_type": "Attribute",
+  "density_category": "people",
+  "gt_answer": "black",
+  "pred_answer": "Black",
+  "pred_bbox_xyxy": [
+   252,
+   2498,
+   310,
+   2551
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "097_q0001",
+  "image_id": "097",
+  "question": "What color is the round hat with a red tuft worn by the person with a long red earring?",
+  "question_type": "Relation",
+  "density_category": "people",
+  "gt_answer": "black",
+  "pred_answer": "Black",
+  "pred_bbox_xyxy": [
+   2490,
+   1328,
+   2568,
+   1456
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "097_q0002",
+  "image_id": "097",
+  "question": "What color is the handbag held by the person standing to the right of the black handbag?",
+  "question_type": "Spatial",
+  "density_category": "people",
+  "gt_answer": "red",
+  "pred_answer": "Red",
+  "pred_bbox_xyxy": [
+   3094,
+   1815,
+   3171,
+   2030
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "097_q0003",
+  "image_id": "097",
+  "question": "Which two colors are on the hat of the person with glasses and an embroidered collar?",
+  "question_type": "Attribute",
+  "density_category": "people",
+  "gt_answer": "blue and white",
+  "pred_answer": "Red and black",
+  "pred_bbox_xyxy": [
+   2393,
+   1467,
+   2491,
+   1551
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "098_q0001",
+  "image_id": "098",
+  "question": "Where is the long light blue bus located relative to the center of the intersection?",
+  "question_type": "Attribute",
+  "density_category": "people",
+  "gt_answer": "Upper-right.",
+  "pred_answer": "In the right lane of the centermost road",
+  "pred_bbox_xyxy": [
+   3354,
+   1000,
+   3558,
+   1058
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "099_q0001",
+  "image_id": "099",
+  "question": "What color is the bus immediately to the right of the red bus on the upper-left side of the intersection?",
+  "question_type": "Relation",
+  "density_category": "people",
+  "gt_answer": "White.",
+  "pred_answer": "White",
+  "pred_bbox_xyxy": [
+   719,
+   622,
+   957,
+   660
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "100_q0001",
+  "image_id": "100",
+  "question": "What color are the edges of the steps on the staircase located slightly left of center in the upper half of the image?",
+  "question_type": "Attribute",
+  "density_category": "people",
+  "gt_answer": "Yellow.",
+  "pred_answer": "Yellow",
+  "pred_bbox_xyxy": [
+   0,
+   1083,
+   154,
+   1413
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "101_q0001",
+  "image_id": "101",
+  "question": "Where is the blue bus located relative to the red-and-white bus on the upper-right side of the intersection?",
+  "question_type": "Relation",
+  "density_category": "people",
+  "gt_answer": "To the right.",
+  "pred_answer": "The blue bus is located directly below the red-and-white bus on the upper-right side of the intersection",
+  "pred_bbox_xyxy": [
+   3040,
+   1072,
+   3302,
+   1080
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "102_q0001",
+  "image_id": "102",
+  "question": "Where is the blue bus located relative to the red-and-white bus on the upper-right side of the intersection?",
+  "question_type": "Relation",
+  "density_category": "people",
+  "gt_answer": "To the right.",
+  "pred_answer": "Directly above the red-and-white bus",
+  "pred_bbox_xyxy": [
+   2460,
+   946,
+   2661,
+   995
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "103_q0001",
+  "image_id": "103",
+  "question": "Where is the green vehicle on the lower-right side of the intersection located relative to the planted road median?",
+  "question_type": "Relation",
+  "density_category": "people",
+  "gt_answer": "Above the median.",
+  "pred_answer": "On the road, to the left of the median",
+  "pred_bbox_xyxy": [
+   2983,
+   1525,
+   3110,
+   1560
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "104_q0001",
+  "image_id": "104",
+  "question": "Where is the light blue and white bus located relative to the pedestrian crosswalk on the right side of the intersection?",
+  "question_type": "Spatial",
+  "density_category": "people",
+  "gt_answer": "To the right.",
+  "pred_answer": "In the bus lane, directly in front of the pedestrian crosswalk",
+  "pred_bbox_xyxy": [
+   2565,
+   837,
+   2806,
+   900
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "105_q0001",
+  "image_id": "105",
+  "question": "In which direction is the diagonally positioned white car near the center of the intersection oriented?",
+  "question_type": "Spatial",
+  "density_category": "people",
+  "gt_answer": "From bottom-left to top-right.",
+  "pred_answer": "Diagonally left",
+  "pred_bbox_xyxy": [
+   2447,
+   1108,
+   2548,
+   1149
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "106_q0001",
+  "image_id": "106",
+  "question": "What color is the hat worn by the person in the yellow outfit standing by the seaside railing?",
+  "question_type": "Attribute",
+  "density_category": "people",
+  "gt_answer": "White",
+  "pred_answer": "Uncertain",
+  "pred_bbox_xyxy": [
+   2623,
+   2108,
+   2654,
+   2211
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "106_q0002",
+  "image_id": "106",
+  "question": "What is hanging from the handlebar of the kick scooter being pulled by the man in the orange-and-black patterned sweater?",
+  "question_type": "Relation",
+  "density_category": "people",
+  "gt_answer": "A red bag",
+  "pred_answer": "",
+  "pred_bbox_xyxy": null,
+  "status": "complete"
+ },
+ {
+  "question_id": "107_q0001",
+  "image_id": "107",
+  "question": "Where is the blue bus among the heavy traffic on the lower-left side of the intersection located relative to the pedestrian crosswalk?",
+  "question_type": "Relation",
+  "density_category": "people",
+  "gt_answer": "To the left.",
+  "pred_answer": "Directly below the pedestrian crosswalk",
+  "pred_bbox_xyxy": [
+   1159,
+   1334,
+   1369,
+   1391
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "108_q0001",
+  "image_id": "108",
+  "question": "Where is the bright blue bus located relative to the cars in the red-marked area on the upper-right side of the intersection?",
+  "question_type": "Relation",
+  "density_category": "people",
+  "gt_answer": "To the right.",
+  "pred_answer": "Directly below the red-marked area",
+  "pred_bbox_xyxy": [
+   3150,
+   1080,
+   3381,
+   1111
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "109_q0001",
+  "image_id": "109",
+  "question": "What color is the horse ridden by the jockey at the front of the race, on the right side of the track?",
+  "question_type": "Attribute",
+  "density_category": "people",
+  "gt_answer": "Light gray.",
+  "pred_answer": "Brown",
+  "pred_bbox_xyxy": [
+   462,
+   2333,
+   890,
+   2616
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "110_q0001",
+  "image_id": "110",
+  "question": "What color is the frame of the tennis racket held up by the player in an orange sleeveless shirt and white shorts?",
+  "question_type": "Spatial",
+  "density_category": "people",
+  "gt_answer": "yellow",
+  "pred_answer": "Yellow",
+  "pred_bbox_xyxy": [
+   2505,
+   1274,
+   2519,
+   1322
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "110_q0002",
+  "image_id": "110",
+  "question": "What color is the shirt of the person in the doorway between the wall clock and the small blue screen?",
+  "question_type": "Spatial",
+  "density_category": "people",
+  "gt_answer": "blue",
+  "pred_answer": "Blue",
+  "pred_bbox_xyxy": [
+   3043,
+   936,
+   3082,
+   1043
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "110_q0003",
+  "image_id": "110",
+  "question": "What color is the shirt of the seated person lifting a camera to their face, just left of the person in a blue shirt and yellow cap holding a large camera?",
+  "question_type": "Spatial",
+  "density_category": "people",
+  "gt_answer": "gray",
+  "pred_answer": "White",
+  "pred_bbox_xyxy": [
+   600,
+   1470,
+   671,
+   1544
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "111_q0001",
+  "image_id": "111",
+  "question": "What color are the trousers of the person in a white T-shirt walking beside the person in a light jacket with a small bag?",
+  "question_type": "Spatial",
+  "density_category": "people",
+  "gt_answer": "black",
+  "pred_answer": "Black",
+  "pred_bbox_xyxy": [
+   4034,
+   2175,
+   4120,
+   2257
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "111_q0002",
+  "image_id": "111",
+  "question": "What color is the shirt of the person in khaki shorts and sandals who is walking next to the person in the orange shirt?",
+  "question_type": "Spatial",
+  "density_category": "people",
+  "gt_answer": "blue",
+  "pred_answer": "Black",
+  "pred_bbox_xyxy": [
+   2226,
+   1773,
+   2291,
+   1873
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "112_q0001",
+  "image_id": "112",
+  "question": "What color is the small truck located just above the tree-lined median on the lower-right side of the intersection?",
+  "question_type": "Attribute",
+  "density_category": "people",
+  "gt_answer": "Green.",
+  "pred_answer": "Green",
+  "pred_bbox_xyxy": [
+   2951,
+   1441,
+   3073,
+   1495
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "113_q0001",
+  "image_id": "113",
+  "question": "What color is the border around the roof of the building in the bottom-right corner of the image?",
+  "question_type": "Attribute",
+  "density_category": "people",
+  "gt_answer": "Red.",
+  "pred_answer": "Red",
+  "pred_bbox_xyxy": [
+   2729,
+   1674,
+   3288,
+   2160
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "114_q0001",
+  "image_id": "114",
+  "question": "Where is the green bus located relative to the pedestrian crosswalk at the upper-left corner of the intersection?",
+  "question_type": "Relation",
+  "density_category": "people",
+  "gt_answer": "To the left.",
+  "pred_answer": "The green bus is located below the pedestrian crosswalk at the upper-left corner of the intersection",
+  "pred_bbox_xyxy": [
+   697,
+   815,
+   840,
+   873
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "115_q0001",
+  "image_id": "115",
+  "question": "How is the blue bus next to the pedestrian crosswalk on the left side of the intersection oriented?",
+  "question_type": "Spatial",
+  "density_category": "people",
+  "gt_answer": "Diagonally.",
+  "pred_answer": "The blue bus is oriented diagonally",
+  "pred_bbox_xyxy": [
+   465,
+   1143,
+   603,
+   1221
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "116_q0001",
+  "image_id": "116",
+  "question": "Where is the red car in the lower half of the image located relative to the yellow diagonally striped road markings?",
+  "question_type": "Relation",
+  "density_category": "people",
+  "gt_answer": "Below.",
+  "pred_answer": "Directly above the yellow diagonally striped road markings",
+  "pred_bbox_xyxy": [
+   1414,
+   1719,
+   1516,
+   1766
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "117_q0001",
+  "image_id": "117",
+  "question": "Where is the blue bus on the lower-left side of the intersection located relative to the heavy traffic?",
+  "question_type": "Relation",
+  "density_category": "people",
+  "gt_answer": "To the left.",
+  "pred_answer": "The blue bus is in the leftmost lane, separated from the heavy traffic by a median strip",
+  "pred_bbox_xyxy": [
+   358,
+   1242,
+   465,
+   1291
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "118_q0001",
+  "image_id": "118",
+  "question": "here is the white bus near the upper-right corner of the image located relative to the green park?",
+  "question_type": "Relation",
+  "density_category": "people",
+  "gt_answer": "Below the park.",
+  "pred_answer": "Below the green park",
+  "pred_bbox_xyxy": [
+   3477,
+   937,
+   3704,
+   993
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "119_q0001",
+  "image_id": "119",
+  "question": "What color is the long bus positioned horizontally among the traffic on the upper-right side of the intersection?",
+  "question_type": "Attribute",
+  "density_category": "people",
+  "gt_answer": "Yellow.",
+  "pred_answer": "Yellow",
+  "pred_bbox_xyxy": [
+   3150,
+   1068,
+   3394,
+   1120
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "120_q0001",
+  "image_id": "120",
+  "question": "Is the blue bus near the bottom-right corner of the intersection oriented horizontally or vertically?",
+  "question_type": "Spatial",
+  "density_category": "people",
+  "gt_answer": "Horizontally.",
+  "pred_answer": "Horizontally",
+  "pred_bbox_xyxy": [
+   2191,
+   1367,
+   2395,
+   1410
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "121_q0001",
+  "image_id": "121",
+  "question": "Is the long white bus on the upper-right side of the intersection, just to the right of the heavy traffic, oriented horizontally or vertically?",
+  "question_type": "Spatial",
+  "density_category": "people",
+  "gt_answer": "Horizontally.",
+  "pred_answer": "Horizontally",
+  "pred_bbox_xyxy": [
+   3486,
+   766,
+   3759,
+   825
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "122_q0001",
+  "image_id": "122",
+  "question": "Where is the yellow car just below the upper pedestrian crosswalk located relative to the green and pink curved lane markings?",
+  "question_type": "Relation",
+  "density_category": "people",
+  "gt_answer": "o the left.",
+  "pred_answer": "On the green curved lane marking",
+  "pred_bbox_xyxy": [
+   1505,
+   753,
+   1600,
+   794
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "123_q0001",
+  "image_id": "123",
+  "question": "Is the green bus located just below the row of trees on the upper-left side of the intersection oriented horizontally or vertically?",
+  "question_type": "Spatial",
+  "density_category": "people",
+  "gt_answer": "Horizontally.",
+  "pred_answer": "Horizontally",
+  "pred_bbox_xyxy": [
+   549,
+   571,
+   734,
+   635
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "124_q0001",
+  "image_id": "124",
+  "question": "What shape is the green rooftop area of the building in the upper-right corner of the image?",
+  "question_type": "Attribute",
+  "density_category": "people",
+  "gt_answer": "Rectangular.",
+  "pred_answer": "Rectangular",
+  "pred_bbox_xyxy": [
+   1559,
+   0,
+   2040,
+   638
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "125_q0001",
+  "image_id": "125",
+  "question": "Where is the yellow bus on the diagonal road located relative to the center of the intersection?",
+  "question_type": "Spatial",
+  "density_category": "people",
+  "gt_answer": "To the left.",
+  "pred_answer": "The yellow bus is located in the left lane of the diagonal road, near the center of the intersection",
+  "pred_bbox_xyxy": [
+   1650,
+   1951,
+   1794,
+   1996
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "126_q0001",
+  "image_id": "126",
+  "question": "Where is the yellow bus located relative to the pedestrian crosswalk at the bottom of the intersection?",
+  "question_type": "Relation",
+  "density_category": "people",
+  "gt_answer": "Below the crosswalk.",
+  "pred_answer": "Uncertain",
+  "pred_bbox_xyxy": [
+   1608,
+   900,
+   1751,
+   1080
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "127_q0001",
+  "image_id": "127",
+  "question": "Where is the green bus located relative to the pedestrian crosswalk at the top of the intersection?",
+  "question_type": "Relation",
+  "density_category": "people",
+  "gt_answer": "Above the crosswalk.",
+  "pred_answer": "Directly above the pedestrian crosswalk",
+  "pred_bbox_xyxy": [
+   1921,
+   540,
+   1971,
+   660
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "128_q0001",
+  "image_id": "128",
+  "question": "Where is the red bus located relative to the pedestrian crosswalk at the bottom-right corner of the intersection?",
+  "question_type": "Relation",
+  "density_category": "people",
+  "gt_answer": "To the right.",
+  "pred_answer": "The red bus is located on the road, to the left of the pedestrian crosswalk at the bottom-right corner of the intersection",
+  "pred_bbox_xyxy": [
+   1341,
+   470,
+   1795,
+   628
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "129_q0001",
+  "image_id": "129",
+  "question": "How is the yellow vehicle near the center of the intersection oriented?",
+  "question_type": "Spatial",
+  "density_category": "people",
+  "gt_answer": "Diagonally, from upper-left to lower-right.",
+  "pred_answer": "The yellow vehicle is oriented diagonally across the intersection",
+  "pred_bbox_xyxy": [
+   1286,
+   951,
+   1416,
+   1001
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "130_q0001",
+  "image_id": "130",
+  "question": "Where is the red bus located relative to the green bus in the upper part of the intersection?",
+  "question_type": "Relation",
+  "density_category": "people",
+  "gt_answer": "To the right.",
+  "pred_answer": "To the right",
+  "pred_bbox_xyxy": [
+   1600,
+   639,
+   1652,
+   662
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "131_q0001",
+  "image_id": "131",
+  "question": "What color is the hooded jacket of the person standing behind the seated crowd, next to a round bush by the white wall?",
+  "question_type": "Spatial",
+  "density_category": "people",
+  "gt_answer": "orange",
+  "pred_answer": "Black",
+  "pred_bbox_xyxy": [
+   3532,
+   1328,
+   3613,
+   1432
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "131_q0002",
+  "image_id": "131",
+  "question": "What color are the two posts of the metal bar frame by the running track, behind the person in red at the end of the seated crowd?",
+  "question_type": "Spatial",
+  "density_category": "people",
+  "gt_answer": "blue",
+  "pred_answer": "White",
+  "pred_bbox_xyxy": [
+   1800,
+   2233,
+   1938,
+   2468
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "132_q0001",
+  "image_id": "132",
+  "question": "What shape is the white-roofed structure located just to the right of the pedestrian crosswalk at the top of the intersection?",
+  "question_type": "Attribute",
+  "density_category": "people",
+  "gt_answer": "Semicircular.",
+  "pred_answer": "Circular",
+  "pred_bbox_xyxy": [
+   2140,
+   420,
+   2572,
+   890
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "133_q0001",
+  "image_id": "133",
+  "question": "Which corner of the intersection is the diagonally positioned green bus near the pedestrian crosswalk located at?",
+  "question_type": "Spatial",
+  "density_category": "people",
+  "gt_answer": "The bottom-right corner.",
+  "pred_answer": "Bottom right corner",
+  "pred_bbox_xyxy": [
+   2123,
+   1548,
+   2632,
+   1675
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "134_q0001",
+  "image_id": "134",
+  "question": "What color is the diagonally positioned car slightly to the left of the center of the intersection?",
+  "question_type": "Attribute",
+  "density_category": "people",
+  "gt_answer": "White.",
+  "pred_answer": "White",
+  "pred_bbox_xyxy": [
+   2447,
+   1108,
+   2547,
+   1149
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "135_q0001",
+  "image_id": "135",
+  "question": "Where is the isolated white car on the upper-left road located relative to the planted median?",
+  "question_type": "Relation",
+  "density_category": "people",
+  "gt_answer": "Above the median.",
+  "pred_answer": "The isolated white car on the upper-left road is located to the left of the planted median",
+  "pred_bbox_xyxy": [
+   1986,
+   1642,
+   2026,
+   1742
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "136_q0001",
+  "image_id": "136",
+  "question": "In which diagonal direction is the yellow vehicle near the center of the intersection oriented?",
+  "question_type": "Spatial",
+  "density_category": "people",
+  "gt_answer": "From upper-left to lower-right.",
+  "pred_answer": "Northeast",
+  "pred_bbox_xyxy": [
+   2116,
+   1080,
+   2174,
+   1115
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "137_q0001",
+  "image_id": "137",
+  "question": "Where is the red bus located relative to the pedestrian crosswalk at the top of the intersection?",
+  "question_type": "Relation",
+  "density_category": "people",
+  "gt_answer": "Below the crosswalk.",
+  "pred_answer": "The red bus is located to the right of the pedestrian crosswalk at the top of the intersection",
+  "pred_bbox_xyxy": [
+   1330,
+   1138,
+   1467,
+   1514
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "138_q0001",
+  "image_id": "138",
+  "question": "What color is the long bus near the right edge of the image, on the road at the lower-right side of the intersection?",
+  "question_type": "Attribute",
+  "density_category": "people",
+  "gt_answer": "Blue.",
+  "pred_answer": "Green",
+  "pred_bbox_xyxy": [
+   379,
+   699,
+   555,
+   755
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "139_q0001",
+  "image_id": "139",
+  "question": "Where is the yellow car located relative to the blue car near the center of the intersection?",
+  "question_type": "Relation",
+  "density_category": "people",
+  "gt_answer": "To the right.",
+  "pred_answer": "To the right of the blue car",
+  "pred_bbox_xyxy": [
+   2232,
+   1166,
+   2280,
+   1217
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "140_q0001",
+  "image_id": "140",
+  "question": "Is the blue bus located just below the pedestrian crosswalk at the bottom of the intersection oriented horizontally or vertically?",
+  "question_type": "Spatial",
+  "density_category": "people",
+  "gt_answer": "Vertically.",
+  "pred_answer": "Horizontally",
+  "pred_bbox_xyxy": [
+   2118,
+   1955,
+   2193,
+   2160
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "141_q0001",
+  "image_id": "141",
+  "question": "What color is the main body of the backpack of the person in a pink-striped shirt, near the colorful fabric bundle?",
+  "question_type": "Relation",
+  "density_category": "people",
+  "gt_answer": "black",
+  "pred_answer": "Black",
+  "pred_bbox_xyxy": [
+   2393,
+   3514,
+   2578,
+   3774
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "141_q0002",
+  "image_id": "141",
+  "question": "What color is the horse beside the brown horse pulling the carriage with the red seat?",
+  "question_type": "Spatial",
+  "density_category": "people",
+  "gt_answer": "white",
+  "pred_answer": "White",
+  "pred_bbox_xyxy": [
+   3241,
+   1478,
+   3530,
+   1743
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "141_q0003",
+  "image_id": "141",
+  "question": "What color is the barrel beside the upright display board under the market stall, next to a white bike?",
+  "question_type": "Spatial",
+  "density_category": "people",
+  "gt_answer": "blue",
+  "pred_answer": "Blue",
+  "pred_bbox_xyxy": [
+   246,
+   2024,
+   377,
+   2211
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "141_q0004",
+  "image_id": "141",
+  "question": "What type of object is the pale lilac one with a small white item on top, standing between two lime-green ones in front of the black-and-white scooter?",
+  "question_type": "Spatial",
+  "density_category": "people",
+  "gt_answer": "plastic stool",
+  "pred_answer": "Small white stool",
+  "pred_bbox_xyxy": [
+   2141,
+   1563,
+   2185,
+   1623
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "142_q0001",
+  "image_id": "142",
+  "question": "What color is the shirt worn by the person standing immediately to the left of the large dark statue on the raised walkway?",
+  "question_type": "Attribute",
+  "density_category": "people",
+  "gt_answer": "Red.",
+  "pred_answer": "Red",
+  "pred_bbox_xyxy": [
+   1154,
+   1760,
+   1280,
+   1937
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "142_q0002",
+  "image_id": "142",
+  "question": "What color is the shirt worn by the man riding a motorbike next to the metal fence?",
+  "question_type": "Attribute",
+  "density_category": "people",
+  "gt_answer": "Black.",
+  "pred_answer": "Black",
+  "pred_bbox_xyxy": [
+   3938,
+   2083,
+   4027,
+   2258
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "143_q0001",
+  "image_id": "143",
+  "question": "What color is the shirt worn by the person leaning against the window while holding the handles of two suitcases?",
+  "question_type": "Attribute",
+  "density_category": "people",
+  "gt_answer": "Red.",
+  "pred_answer": "Uncertain",
+  "pred_bbox_xyxy": [
+   82,
+   2717,
+   408,
+   3104
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "144_q0001",
+  "image_id": "144",
+  "question": "What color is the coat of the person leaning over the white sheet of paper?",
+  "question_type": "Spatial",
+  "density_category": "people",
+  "gt_answer": "orange",
+  "pred_answer": "Gray",
+  "pred_bbox_xyxy": [
+   2106,
+   2923,
+   2481,
+   3368
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "144_q0002",
+  "image_id": "144",
+  "question": "What color is the hat of the person standing next to the person in the red jacket with a black backpack?",
+  "question_type": "Spatial",
+  "density_category": "people",
+  "gt_answer": "red",
+  "pred_answer": "Red",
+  "pred_bbox_xyxy": [
+   3458,
+   1493,
+   3755,
+   2334
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "144_q0003",
+  "image_id": "144",
+  "question": "What color is the cap of the bottle next to the pink bottle on the table with papers and phones?",
+  "question_type": "Spatial",
+  "density_category": "people",
+  "gt_answer": "red",
+  "pred_answer": "Red",
+  "pred_bbox_xyxy": [
+   2008,
+   3257,
+   2081,
+   3390
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "145_q0001",
+  "image_id": "145",
+  "question": "What color is the shopping bag of the person in a white shirt and black pants at the corner of the white counter?",
+  "question_type": "Relation",
+  "density_category": "people",
+  "gt_answer": "orange",
+  "pred_answer": "Orange",
+  "pred_bbox_xyxy": [
+   1484,
+   1006,
+   1530,
+   1087
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "145_q0002",
+  "image_id": "145",
+  "question": "What color is the small round dish on the white counter just left of the stack of pastry rolls?",
+  "question_type": "Spatial",
+  "density_category": "people",
+  "gt_answer": "black",
+  "pred_answer": "Black",
+  "pred_bbox_xyxy": [
+   2748,
+   2051,
+   2790,
+   2085
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "146_q0001",
+  "image_id": "146",
+  "question": "What object hangs from the arm of the person wearing a blue sleeveless dress and holding a phone?",
+  "question_type": "Relation",
+  "density_category": "people",
+  "gt_answer": "tote bag",
+  "pred_answer": "A beige handbag",
+  "pred_bbox_xyxy": [
+   803,
+   272,
+   838,
+   291
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "146_q0002",
+  "image_id": "146",
+  "question": "What color is the top of the person wearing glasses and an orange wristband?",
+  "question_type": "Relation",
+  "density_category": "people",
+  "gt_answer": "pink",
+  "pred_answer": "Red",
+  "pred_bbox_xyxy": [
+   3618,
+   2772,
+   3872,
+   3023
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "146_q0003",
+  "image_id": "146",
+  "question": "What color is the framed plaque on the table, below the white flower arrangement?",
+  "question_type": "Spatial",
+  "density_category": "people",
+  "gt_answer": "red",
+  "pred_answer": "Red",
+  "pred_bbox_xyxy": [
+   947,
+   2092,
+   1080,
+   2193
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "147_q0001",
+  "image_id": "147",
+  "question": "What color is the wristband of the person in a black T-shirt with yellow letters holding a microphone?",
+  "question_type": "Relation",
+  "density_category": "people",
+  "gt_answer": "green",
+  "pred_answer": "Yellow",
+  "pred_bbox_xyxy": [
+   2324,
+   1493,
+   2553,
+   1918
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "147_q0002",
+  "image_id": "147",
+  "question": "Which instrument with a sunburst body is held up above the person in a green shirt, under the big screen?",
+  "question_type": "Spatial",
+  "density_category": "people",
+  "gt_answer": "guitar",
+  "pred_answer": "Guitar",
+  "pred_bbox_xyxy": [
+   2384,
+   526,
+   2517,
+   580
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "147_q0003",
+  "image_id": "147",
+  "question": "What color is the long cloth at the waist of the person in yellow, next to a person in black holding a microphone?",
+  "question_type": "Spatial",
+  "density_category": "people",
+  "gt_answer": "orange",
+  "pred_answer": "",
+  "pred_bbox_xyxy": null,
+  "status": "complete"
+ },
+ {
+  "question_id": "148_q0001",
+  "image_id": "148",
+  "question": "What color is the top worn by the young child in a cap sitting immediately to the right of the man in the red plaid shirt in the audience?",
+  "question_type": "Spatial",
+  "density_category": "people",
+  "gt_answer": "Red",
+  "pred_answer": "Blue",
+  "pred_bbox_xyxy": [
+   2856,
+   97,
+   2908,
+   195
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "148_q0002",
+  "image_id": "148",
+  "question": "What color is the phone held up by the woman in the yellow shirt sitting in front of the large light blue block?",
+  "question_type": "Relation",
+  "density_category": "people",
+  "gt_answer": "Light purple",
+  "pred_answer": "Uncertain",
+  "pred_bbox_xyxy": [
+   1966,
+   486,
+   2071,
+   678
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "149_q0001",
+  "image_id": "149",
+  "question": "What color is the bag at the waist of the person in a beige cardigan, next to a person in a bucket hat?",
+  "question_type": "Spatial",
+  "density_category": "people",
+  "gt_answer": "black",
+  "pred_answer": "Black",
+  "pred_bbox_xyxy": [
+   3048,
+   1950,
+   3127,
+   2126
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "149_q0002",
+  "image_id": "149",
+  "question": "What color is the sweater of the person with short dark curly hair behind the food counter with a tall glowing light beside it, under the gray shop sign with an orange emblem?",
+  "question_type": "Spatial",
+  "density_category": "people",
+  "gt_answer": "green",
+  "pred_answer": "Green",
+  "pred_bbox_xyxy": [
+   1704,
+   1748,
+   1801,
+   1862
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "150_q0001",
+  "image_id": "150",
+  "question": "What color are the shoes of the person in a dark shirt and green socks in front of the goal frame?",
+  "question_type": "Spatial",
+  "density_category": "people",
+  "gt_answer": "white",
+  "pred_answer": "Black",
+  "pred_bbox_xyxy": [
+   3098,
+   877,
+   3123,
+   928
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "150_q0002",
+  "image_id": "150",
+  "question": "What color are the socks of the person in a dark shirt standing in front of the white goal frame?",
+  "question_type": "Spatial",
+  "density_category": "people",
+  "gt_answer": "green",
+  "pred_answer": "Green",
+  "pred_bbox_xyxy": [
+   2600,
+   1168,
+   2644,
+   1252
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "150_q0003",
+  "image_id": "150",
+  "question": "What shape is the small sign on the dark entrance wall directly above and on top of some other signs?",
+  "question_type": "Attribute",
+  "density_category": "people",
+  "gt_answer": "triangle",
+  "pred_answer": "Rectangle",
+  "pred_bbox_xyxy": [
+   2864,
+   538,
+   2946,
+   556
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "151_q0001",
+  "image_id": "151",
+  "question": "What color is the cap worn by the person in the blue-and-white plaid shirt walking immediately to the right of the person in red trousers?",
+  "question_type": "Spatial",
+  "density_category": "people",
+  "gt_answer": "Blue",
+  "pred_answer": "Blue",
+  "pred_bbox_xyxy": [
+   5471,
+   2301,
+   5573,
+   2517
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "151_q0002",
+  "image_id": "151",
+  "question": "What color is the large inflatable ball held above the crowd in front of the newsstand on the left side of the avenue?",
+  "question_type": "Spatial",
+  "density_category": "people",
+  "gt_answer": "Blue",
+  "pred_answer": "Blue",
+  "pred_bbox_xyxy": [
+   1810,
+   1839,
+   1906,
+   1927
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "152_q0001",
+  "image_id": "152",
+  "question": "What color is the flag above the blue sign of two people facing each other?",
+  "question_type": "Spatial",
+  "density_category": "people",
+  "gt_answer": "yellow",
+  "pred_answer": "Yellow",
+  "pred_bbox_xyxy": [
+   1095,
+   1304,
+   1170,
+   1465
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "152_q0002",
+  "image_id": "152",
+  "question": "What color is the flag on the pole just left of the wall sign of a running figure?",
+  "question_type": "Spatial",
+  "density_category": "people",
+  "gt_answer": "blue",
+  "pred_answer": "Red",
+  "pred_bbox_xyxy": [
+   4468,
+   1266,
+   4523,
+   1379
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "152_q0003",
+  "image_id": "152",
+  "question": "What color is the shirt of the person in checkered pants just left of the wall sign of a figure swinging a club?",
+  "question_type": "Spatial",
+  "density_category": "people",
+  "gt_answer": "yellow",
+  "pred_answer": "Yellow",
+  "pred_bbox_xyxy": [
+   552,
+   1561,
+   607,
+   1731
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "152_q0004",
+  "image_id": "152",
+  "question": "What color is the top of the person standing on the walkway between two green railings, below the big red banner, left of a person in a striped dress?",
+  "question_type": "Spatial",
+  "density_category": "people",
+  "gt_answer": "green",
+  "pred_answer": "Black",
+  "pred_bbox_xyxy": [
+   3505,
+   2555,
+   3560,
+   2735
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "153_q0001",
+  "image_id": "153",
+  "question": "What type of backpack is the man in the bright green shirt holding a long black pole wearing?",
+  "question_type": "Attribute",
+  "density_category": "people",
+  "gt_answer": "A small red sports backpack.",
+  "pred_answer": "Black backpack",
+  "pred_bbox_xyxy": [
+   3373,
+   1752,
+   3444,
+   1966
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "154_q0001",
+  "image_id": "154",
+  "question": "What color are the pants worn by the man in a brown jacket standing to the right of the person in red near the bottom center of the image?",
+  "question_type": "Attribute",
+  "density_category": "people",
+  "gt_answer": "Blue.",
+  "pred_answer": "Blue",
+  "pred_bbox_xyxy": [
+   2082,
+   2539,
+   2226,
+   2907
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "155_q0001",
+  "image_id": "155",
+  "question": "What color are the trousers of the person in the pink jacket standing next to the person holding a white booklet?",
+  "question_type": "Spatial",
+  "density_category": "people",
+  "gt_answer": "black",
+  "pred_answer": "Black",
+  "pred_bbox_xyxy": [
+   2826,
+   1579,
+   2859,
+   1663
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "155_q0002",
+  "image_id": "155",
+  "question": "What color are the trousers of the person in the white-and-blue jacket holding a white booklet?",
+  "question_type": "Relation",
+  "density_category": "people",
+  "gt_answer": "blue",
+  "pred_answer": "Black",
+  "pred_bbox_xyxy": [
+   2250,
+   2469,
+   2304,
+   2615
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "155_q0003",
+  "image_id": "155",
+  "question": "What color is the small car between the white van and the gray car?",
+  "question_type": "Spatial",
+  "density_category": "people",
+  "gt_answer": "blue",
+  "pred_answer": "Blue",
+  "pred_bbox_xyxy": [
+   1279,
+   1188,
+   1374,
+   1252
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "156_q0001",
+  "image_id": "156",
+  "question": "What piece of sports equipment is visible above the crowd in the upper-left part of the image?",
+  "question_type": "Attribute",
+  "density_category": "people",
+  "gt_answer": "A basketball hoop.",
+  "pred_answer": "Basketball hoop",
+  "pred_bbox_xyxy": [
+   1117,
+   530,
+   1250,
+   671
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "157_q0001",
+  "image_id": "157",
+  "question": "What color is the umbrella beside the black umbrella above the person in a dark red top?",
+  "question_type": "Spatial",
+  "density_category": "people",
+  "gt_answer": "yellow",
+  "pred_answer": "Black",
+  "pred_bbox_xyxy": [
+   2434,
+   1308,
+   2593,
+   1372
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "157_q0002",
+  "image_id": "157",
+  "question": "What color is the shirt of the person standing beside the small black bag?",
+  "question_type": "Spatial",
+  "density_category": "people",
+  "gt_answer": "blue",
+  "pred_answer": "Blue",
+  "pred_bbox_xyxy": [
+   2513,
+   1368,
+   2535,
+   1449
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "157_q0003",
+  "image_id": "157",
+  "question": "What color are the pants of the person in the blue jacket to the right of the railing post between them and the person in a light shirt?",
+  "question_type": "Spatial",
+  "density_category": "people",
+  "gt_answer": "black",
+  "pred_answer": "Black",
+  "pred_bbox_xyxy": [
+   1321,
+   1223,
+   1353,
+   1280
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "158_q0001",
+  "image_id": "158",
+  "question": "What color are the trousers of the man in the dark teal T-shirt walking behind the two boys on the ramp?",
+  "question_type": "Spatial",
+  "density_category": "people",
+  "gt_answer": "Khaki",
+  "pred_answer": "Black",
+  "pred_bbox_xyxy": [
+   1275,
+   1750,
+   1320,
+   1864
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "158_q0002",
+  "image_id": "158",
+  "question": "What pattern is on the umbrella held over the boy in the blue tracksuit walking up the ramp?",
+  "question_type": "Relation",
+  "density_category": "people",
+  "gt_answer": "Checkered",
+  "pred_answer": "Blue and white checkered pattern",
+  "pred_bbox_xyxy": [
+   1037,
+   1721,
+   1177,
+   1775
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "159_q0001",
+  "image_id": "159",
+  "question": "What color is the top of the person beneath the white umbrella in front of the red stage barrier?",
+  "question_type": "Spatial",
+  "density_category": "people",
+  "gt_answer": "pink",
+  "pred_answer": "Pink",
+  "pred_bbox_xyxy": [
+   3166,
+   1789,
+   3192,
+   1856
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "159_q0002",
+  "image_id": "159",
+  "question": "What color is the jacket of the person riding the bicycle?",
+  "question_type": "Relation",
+  "density_category": "people",
+  "gt_answer": "red",
+  "pred_answer": "Red",
+  "pred_bbox_xyxy": [
+   1116,
+   1679,
+   1161,
+   1729
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "160_q0001",
+  "image_id": "160",
+  "question": "What pattern is on the top of the woman standing immediately to the left of the man in the black shirt on the escalator?",
+  "question_type": "Spatial",
+  "density_category": "people",
+  "gt_answer": "Polka dots",
+  "pred_answer": "Floral pattern",
+  "pred_bbox_xyxy": [
+   2656,
+   2645,
+   2745,
+   2742
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "160_q0002",
+  "image_id": "160",
+  "question": "What color is the pot of the leafy green plant standing inside the glass-walled enclosure beneath the hanging banner?",
+  "question_type": "Attribute",
+  "density_category": "people",
+  "gt_answer": "White",
+  "pred_answer": "Silver",
+  "pred_bbox_xyxy": [
+   1920,
+   2906,
+   2285,
+   3293
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "161_q0001",
+  "image_id": "161",
+  "question": "What color is the cap worn by the person in a white zip-up jacket with a black waist bag?",
+  "question_type": "Relation",
+  "density_category": "people",
+  "gt_answer": "white",
+  "pred_answer": "White",
+  "pred_bbox_xyxy": [
+   1601,
+   2349,
+   1802,
+   2759
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "161_q0002",
+  "image_id": "161",
+  "question": "What color is the sign held up by the person in a white sleeveless shirt with a dark shoulder strap?",
+  "question_type": "Relation",
+  "density_category": "people",
+  "gt_answer": "yellow",
+  "pred_answer": "Yellow",
+  "pred_bbox_xyxy": [
+   615,
+   1340,
+   779,
+   1596
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "161_q0003",
+  "image_id": "161",
+  "question": "What headwear does the person in a black sleeveless jersey with white trim wear?",
+  "question_type": "Relation",
+  "density_category": "people",
+  "gt_answer": "cap",
+  "pred_answer": "Black cap",
+  "pred_bbox_xyxy": [
+   1501,
+   3336,
+   1704,
+   3648
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "161_q0004",
+  "image_id": "161",
+  "question": "What color are the shoes of the person in a white shirt and white shorts with a dark shoulder strap, standing to the right of the yellow truck?",
+  "question_type": "Spatial",
+  "density_category": "people",
+  "gt_answer": "white",
+  "pred_answer": "Uncertain",
+  "pred_bbox_xyxy": [
+   1710,
+   2352,
+   1802,
+   2756
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "161_q0005",
+  "image_id": "161",
+  "question": "What color is the shoulder bag of the person in a blue-and-white top holding a pink item to their face?",
+  "question_type": "Relation",
+  "density_category": "people",
+  "gt_answer": "red",
+  "pred_answer": "Black",
+  "pred_bbox_xyxy": [
+   2337,
+   501,
+   2382,
+   694
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "162_q0001",
+  "image_id": "162",
+  "question": "What color is the bag on the back of the person just left of the person carrying an orange tote?",
+  "question_type": "Spatial",
+  "density_category": "people",
+  "gt_answer": "blue",
+  "pred_answer": "Blue",
+  "pred_bbox_xyxy": [
+   2566,
+   2397,
+   2606,
+   2458
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "162_q0002",
+  "image_id": "162",
+  "question": "What color is the shirt of the person seated on the sand under the raised platform of the wooden lifeguard tower, beside its leg?",
+  "question_type": "Attribute",
+  "density_category": "people",
+  "gt_answer": "orange",
+  "pred_answer": "Uncertain",
+  "pred_bbox_xyxy": [
+   4317,
+   2515,
+   4545,
+   2583
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "162_q0003",
+  "image_id": "162",
+  "question": "What color is the flag on the thin pole standing just above the roof corner of the wooden lifeguard tower, in front of the tan building wall?",
+  "question_type": "Attribute",
+  "density_category": "people",
+  "gt_answer": "green",
+  "pred_answer": "Green",
+  "pred_bbox_xyxy": [
+   5904,
+   1785,
+   5943,
+   1848
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "163_q0001",
+  "image_id": "163",
+  "question": "What object is held above the visitor behind the person carrying backpacks with jeans?",
+  "question_type": "Spatial",
+  "density_category": "people",
+  "gt_answer": "umbrella",
+  "pred_answer": "Uncertain",
+  "pred_bbox_xyxy": [
+   2898,
+   2529,
+   2968,
+   2651
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "163_q0002",
+  "image_id": "163",
+  "question": "What color is the open umbrella above the person carrying the dark backpack, who is standing next a to girl with red shirt and pink skirt?",
+  "question_type": "Spatial",
+  "density_category": "people",
+  "gt_answer": "blue",
+  "pred_answer": "Blue",
+  "pred_bbox_xyxy": [
+   3527,
+   2352,
+   3646,
+   2420
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "163_q0003",
+  "image_id": "163",
+  "question": "What color is the backpack of the person in a light blue headscarf, right of the person in sunglasses by the tipped black bin?",
+  "question_type": "Attribute",
+  "density_category": "people",
+  "gt_answer": "red",
+  "pred_answer": "Red",
+  "pred_bbox_xyxy": [
+   3653,
+   2686,
+   3765,
+   2844
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "164_q0001",
+  "image_id": "164",
+  "question": "What color is the front of the top of the person in dark pants at the back ladder of the box truck?",
+  "question_type": "Spatial",
+  "density_category": "people",
+  "gt_answer": "red",
+  "pred_answer": "Red",
+  "pred_bbox_xyxy": [
+   3759,
+   1976,
+   3787,
+   2062
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "164_q0002",
+  "image_id": "164",
+  "question": "What color are the trousers worn by the person on the opposite side of the purple flower planter compared to the white sedan nearby?",
+  "question_type": "Spatial",
+  "density_category": "people",
+  "gt_answer": "black",
+  "pred_answer": "Red",
+  "pred_bbox_xyxy": [
+   3789,
+   1979,
+   3814,
+   2068
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "164_q0003",
+  "image_id": "164",
+  "question": "What color is the plastic stool stood on by a person with yellow jacket, near the orange inflatable with a prominent eye and rounded red snout?",
+  "question_type": "Spatial",
+  "density_category": "people",
+  "gt_answer": "pink",
+  "pred_answer": "Pink",
+  "pred_bbox_xyxy": [
+   397,
+   2544,
+   443,
+   2581
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "165_q0001",
+  "image_id": "165",
+  "question": "What color are the pants worn by the little girl with a ponytail and a white sleeveless top standing at the checkout counter?",
+  "question_type": "Attribute",
+  "density_category": "people",
+  "gt_answer": "Pink.",
+  "pred_answer": "Pink",
+  "pred_bbox_xyxy": [
+   1492,
+   2232,
+   1624,
+   2627
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "166_q0001",
+  "image_id": "166",
+  "question": "What color is the face mask of the person standing next to the striped bag?",
+  "question_type": "Spatial",
+  "density_category": "people",
+  "gt_answer": "white",
+  "pred_answer": "Uncertain",
+  "pred_bbox_xyxy": [
+   4165,
+   2983,
+   4265,
+   3315
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "166_q0002",
+  "image_id": "166",
+  "question": "What color is the vest of the person in the white cap standing beside the wooden bench?",
+  "question_type": "Spatial",
+  "density_category": "people",
+  "gt_answer": "green",
+  "pred_answer": "Green",
+  "pred_bbox_xyxy": [
+   3254,
+   2939,
+   3359,
+   3089
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "166_q0003",
+  "image_id": "166",
+  "question": "What shape is the pedestrian crossing sign mounted on the white pole above the person wearing a white cap?",
+  "question_type": "Spatial",
+  "density_category": "people",
+  "gt_answer": "triangle",
+  "pred_answer": "Triangle",
+  "pred_bbox_xyxy": [
+   1886,
+   2984,
+   1975,
+   3084
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "167_q0001",
+  "image_id": "167",
+  "question": "What color is the plastic bag held by the person with a blue bag at their side?",
+  "question_type": "Relation",
+  "density_category": "people",
+  "gt_answer": "red",
+  "pred_answer": "Red",
+  "pred_bbox_xyxy": [
+   693,
+   1834,
+   798,
+   2218
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "167_q0002",
+  "image_id": "167",
+  "question": "What color is the crown of the peaked cap with a gray band worn by the person standing left of the person holding a paper cup?",
+  "question_type": "Spatial",
+  "density_category": "people",
+  "gt_answer": "black",
+  "pred_answer": "White",
+  "pred_bbox_xyxy": [
+   3313,
+   2837,
+   3440,
+   2920
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "167_q0003",
+  "image_id": "167",
+  "question": "What color is the top of the peaked cap worn by the person in a black uniform holding a tablet?",
+  "question_type": "Relation",
+  "density_category": "people",
+  "gt_answer": "white",
+  "pred_answer": "White",
+  "pred_bbox_xyxy": [
+   3280,
+   2838,
+   3456,
+   3456
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "167_q0004",
+  "image_id": "167",
+  "question": "What color is the crumpled plastic bag resting beside the large red-and-yellow bag?",
+  "question_type": "Spatial",
+  "density_category": "people",
+  "gt_answer": "black",
+  "pred_answer": "Black",
+  "pred_bbox_xyxy": [
+   3771,
+   2322,
+   3843,
+   2400
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "168_q0001",
+  "image_id": "168",
+  "question": "What color is the small front bag of the person in navy-and-white stripes with yellow straps, next to a person on a phone?",
+  "question_type": "Spatial",
+  "density_category": "people",
+  "gt_answer": "red",
+  "pred_answer": "Red",
+  "pred_bbox_xyxy": [
+   2615,
+   3179,
+   2676,
+   3262
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "168_q0002",
+  "image_id": "168",
+  "question": "What is the color of the handbag that is on a wheelie with a pink fabric on top, next to a person with green stripes top?",
+  "question_type": "Attribute",
+  "density_category": "people",
+  "gt_answer": "Orange",
+  "pred_answer": "Orange",
+  "pred_bbox_xyxy": [
+   3373,
+   2247,
+   3414,
+   2359
+  ],
+  "status": "complete"
+ },
+ {
+  "question_id": "169_q0001",
+  "image_id": "169",
+  "question": "What is the man giving two thumbs up wearing on his head?",
+  "question_type": "Attribute",
+  "density_category": "people",
+  "gt_answer": "A black graduation cap.",
+  "pred_answer": "Graduation cap",
+  "pred_bbox_xyxy": [
+   1573,
+   176,
+   1740,
+   503
+  ],
+  "status": "complete"
+ }
+]

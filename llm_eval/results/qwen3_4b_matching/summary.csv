@@ -1,0 +1,11 @@
+﻿prediction_model,judge_model,prediction_file,annotation_samples,prediction_rows,available_predictions,judged_samples,matched_samples,unmatched_samples,accuracy,accuracy_on_judged,coverage,source_error_samples,missing_samples,judge_error_samples,pending_samples,truncated_samples
+llava-v1.6-vicuna-13b,Qwen/Qwen3-4B,/home/ubuntu/workspace/density/llm_eval/predictions/hao/llava-v1.6-vicuna-13b.jsonl,1060,1060,1060,0,0,0,,,0.0,0,0,0,1060,0
+llava-v1.6-vicuna-7b,Qwen/Qwen3-4B,/home/ubuntu/workspace/density/llm_eval/predictions/hao/llava-v1.6-vicuna-7b.jsonl,1060,1060,1060,0,0,0,,,0.0,0,0,0,1060,0
+OpenGVLab/InternVL3-38B,Qwen/Qwen3-4B,/home/ubuntu/workspace/density/llm_eval/predictions/nam/full_38b.jsonl,1060,1060,1060,0,0,0,,,0.0,0,0,0,1060,0
+OpenGVLab/InternVL3-8B,Qwen/Qwen3-4B,/home/ubuntu/workspace/density/llm_eval/predictions/nam/full_8b.jsonl,1060,1060,1060,0,0,0,,,0.0,0,0,0,1060,0
+google/gemini-3.5-flash-lite,Qwen/Qwen3-4B,/home/ubuntu/workspace/density/llm_eval/predictions/phong/predictions_gemini.json,1060,1060,1060,0,0,0,,,0.0,0,0,0,1060,0
+gpt,Qwen/Qwen3-4B,/home/ubuntu/workspace/density/llm_eval/predictions/duc/gpt/results.jsonl,1060,1060,1060,0,0,0,,,0.0,0,0,0,1060,0
+llava-hr-7b,Qwen/Qwen3-4B,/home/ubuntu/workspace/density/llm_eval/predictions/duc/llava/llava-hr-7b.jsonl,1060,1060,1060,0,0,0,,,0.0,0,0,0,1060,0
+llava-hr-x-13b,Qwen/Qwen3-4B,/home/ubuntu/workspace/density/llm_eval/predictions/duc/llava/llava-hr-x-13b.jsonl,1060,1060,1060,0,0,0,,,0.0,0,0,0,1060,0
+llava-ov-7b,Qwen/Qwen3-4B,/home/ubuntu/workspace/density/llm_eval/predictions/huy/results/llava-ov-7b/full/llava-ov-7b.jsonl,1060,1060,1060,0,0,0,,,0.0,0,0,0,1060,0
+qwen3-vl-8b,Qwen/Qwen3-4B,/home/ubuntu/workspace/density/llm_eval/predictions/huy/results/qwen3-vl-8b/full/qwen3-vl-8b.jsonl,1060,1060,1060,0,0,0,,,0.0,0,0,0,1060,0

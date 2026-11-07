@@ -1,0 +1,103 @@
+{
+  "judge_config": {
+    "backend": "local",
+    "model": "Qwen/Qwen3-4B",
+    "output_dir": "results/qwen3_4b_matching",
+    "temperature": 0,
+    "max_tokens": 128,
+    "max_retries": 3,
+    "chat_template_kwargs": {
+      "enable_thinking": false
+    },
+    "vllm": {
+      "dtype": "bfloat16",
+      "tensor_parallel_size": 1,
+      "gpu_memory_utilization": 0.15,
+      "max_model_len": 8192,
+      "max_num_seqs": 1,
+      "enforce_eager": true
+    }
+  },
+  "prompt_version": "hrvs-gt-matching-binary-v2",
+  "judge_signature": "0f506072deb4314723280248b647662615f9785372de9d27a37d70ebadc7cf9b",
+  "updated_at": "2026-11-06T07:54:33.448486+00:00",
+  "summary": {
+    "prediction_file": "/home/ubuntu/workspace/density/llm_eval/predictions/hao/llava-v1.6-vicuna-13b.jsonl",
+    "N": null,
+    "prediction_model": "llava-v1.6-vicuna-13b",
+    "annotation_samples": 1060,
+    "prediction_rows": 1060,
+    "available_predictions": 1060,
+    "source_error_samples": 0,
+    "missing_samples": 0,
+    "source_error_ids": [],
+    "missing_ids": [],
+    "stale_ground_truth_samples": 0,
+    "stale_ground_truth_ids": [],
+    "truncated_samples": 0,
+    "judged_samples": 0,
+    "matched_samples": 0,
+    "unmatched_samples": 0,
+    "judge_error_samples": 0,
+    "pending_samples": 1060,
+    "coverage": 0.0,
+    "accuracy": null,
+    "accuracy_on_judged": null,
+    "by_question_type": {
+      "Attribute": {
+        "available": 207,
+        "judged": 0,
+        "matched": 0,
+        "accuracy_on_judged": null
+      },
+      "Relation": {
+        "available": 216,
+        "judged": 0,
+        "matched": 0,
+        "accuracy_on_judged": null
+      },
+      "Spatial": {
+        "available": 637,
+        "judged": 0,
+        "matched": 0,
+        "accuracy_on_judged": null
+      }
+    },
+    "by_density_group": {
+      "mixed_object": {
+        "available": 145,
+        "judged": 0,
+        "matched": 0,
+        "accuracy_on_judged": null
+      },
+      "same_object": {
+        "available": 915,
+        "judged": 0,
+        "matched": 0,
+        "accuracy_on_judged": null
+      }
+    },
+    "by_level": {
+      "L1": {
+        "available": 217,
+        "judged": 0,
+        "matched": 0,
+        "accuracy_on_judged": null
+      },
+      "L2": {
+        "available": 472,
+        "judged": 0,
+        "matched": 0,
+        "accuracy_on_judged": null
+      },
+      "L3": {
+        "available": 371,
+        "judged": 0,
+        "matched": 0,
+        "accuracy_on_judged": null
+      }
+    },
+    "judge_model": "Qwen/Qwen3-4B"
+  },
+  "results": []
+}

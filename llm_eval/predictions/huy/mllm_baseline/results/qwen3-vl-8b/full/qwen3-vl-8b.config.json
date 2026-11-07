@@ -1,0 +1,31 @@
+{
+  "model": "qwen3-vl-8b",
+  "model_repo": "Qwen/Qwen3-VL-8B-Instruct",
+  "dtype": "bfloat16",
+  "tensor_parallel": 1,
+  "prompt_format": "<image>\\n{question}  (chat template của model, không system prompt)",
+  "sampling": {
+    "temperature": 0.0,
+    "top_p": 1.0,
+    "max_tokens": 1024,
+    "seed": 0
+  },
+  "max_model_len": 20480,
+  "exif_transpose": true,
+  "only_completed": false,
+  "image_processor": {
+    "size": {
+      "longest_edge": 16777216,
+      "shortest_edge": 65536
+    },
+    "patch_size": 16,
+    "merge_size": 2,
+    "min_pixels": null,
+    "max_pixels": null,
+    "image_grid_pinpoints": null,
+    "vision_aspect_ratio": null
+  },
+  "vllm": "0.11.0",
+  "transformers": "4.57.1",
+  "started_at": "2026-11-03T18:01:12Z"
+}
