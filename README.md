@@ -2,7 +2,9 @@
 
 Đánh giá câu trả lời VLM bằng cách so sánh câu hỏi, đáp án ground truth và prediction với judge Qwen. Judge trả về `1` (khớp) hoặc `0` (không khớp), không nhận ảnh hay bounding box.
 
-Code, annotations, predictions và kết quả đánh giá nằm trong [`llm_eval/`](llm_eval/). Xem [hướng dẫn đầy đủ](llm_eval/README.md) để chạy local, chạy Modal, resume và lấy báo cáo.
+Code đánh giá nằm trong [`llm_eval/`](llm_eval/). Xem [hướng dẫn đầy đủ](llm_eval/README.md) để chạy local, chạy Modal, resume và lấy báo cáo.
+
+Trước khi chạy, đặt dữ liệu ground truth tại `llm_eval/annotations.json` và các file prediction trong `llm_eval/predictions/`. Hai loại dữ liệu này cần được cung cấp riêng; `llm_eval/results/` là nơi lưu báo cáo. Các lệnh dùng `predictions/our_method` bên dưới yêu cầu thư mục dữ liệu đó đã được thêm vào.
 
 ## Chạy trên Modal
 

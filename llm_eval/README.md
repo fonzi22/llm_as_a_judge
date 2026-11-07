@@ -2,6 +2,8 @@
 
 Script `eval_matching.py` so sánh **câu hỏi + đáp án GT + câu trả lời của baseline** bằng prompt, trả về `1` (khớp) hoặc `0` (không khớp). GT được lấy từ `annotations.json`; ảnh và bbox không gửi cho judge. Mặc định dùng vLLM để nạp và chạy model judge trực tiếp trên máy local, không cần server HTTP hay API key.
 
+Trước khi chạy các ví dụ, cung cấp `llm_eval/annotations.json` và đặt prediction vào `llm_eval/predictions/`. Repository chỉ giữ thư mục `predictions/` và `results/` rỗng; các ví dụ dùng file hoặc thư mục cụ thể chỉ chạy được sau khi dữ liệu tương ứng được thêm vào.
+
 ## Chạy trên Modal (Windows / PowerShell)
 
 `modal_eval.py` chạy **judge [Qwen3-8B](https://huggingface.co/Qwen/Qwen3-8B)** bằng vLLM trên một GPU L4 của Modal, dùng BF16 và tắt thinking. Máy local chỉ cần Python và Modal client. Cấu hình riêng `configs/qwen_matching_modal.json` dùng `gpu_memory_utilization: 0.85`; cấu hình local hiện có vẫn giữ nguyên. Run mặc định là `qwen3_8b_matching`, tải kết quả về `llm_eval/results/modal/qwen3_8b_matching/`.

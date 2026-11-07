@@ -1,1 +1,0 @@
-﻿sample_id,qa_id,question_id,image_id,N,question_type,density_group,level,question,ground_truth,prediction,match,judge_status,judge_error,judge_raw,prediction_model,judge_model
